@@ -1,10 +1,10 @@
 name: Esegui app.py due volte al giorno
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '30 10 * * *'   # Alle 7:30 italiane
-    - cron: '30 17 * * *'  # Alle 12:30 italiane
-  workflow_dispatch:       # Permette anche di avviarlo a mano
+    - cron: '30 5 * * *'
+    - cron: '30 17 * * *'
 
 jobs:
   run-script:
