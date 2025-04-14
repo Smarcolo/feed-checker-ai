@@ -1,28 +1,27 @@
-name: Esegui app.py due volte al giorno
+name: Controllo disponibilità prodotti
 
 on:
-  workflow_dispatch:
   schedule:
+    # Esegui alle 5:30 e 17:30 UTC → cioè 7:30 e 19:30 italiane
     - cron: '30 5 * * *'
     - cron: '30 17 * * *'
+  workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clona il repository
-        uses: actions/checkout@v3
+    - name: Clona il repository
+      uses: actions/checkout@v3
 
-      - name: Configura Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
+    - name: Imposta Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
 
-      - name: Installa le dipendenze
-        run: |
-          pip install -r requirements.txt
+    - name: Installa le dipendenze
+      run: pip install -r requirements.txt
 
-      - name: Esegui app.py
-        run: |
-          python app.py
+    - name: Esegui lo script di controllo feed
+      run: python check_feed.py
