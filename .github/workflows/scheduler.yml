@@ -26,7 +26,7 @@ jobs:
     - name: Esegui lo script di controllo feed
       run: python check_feed.py
 
-     - name: Commit updated catalogo.json
+    - name: Commit updated catalogo.json
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
