@@ -1,0 +1,28 @@
+name: Esegui app.py due volte al giorno
+
+on:
+  schedule:
+    - cron: '30 10 * * *'   # Alle 7:30 italiane
+    - cron: '30 17 * * *'  # Alle 12:30 italiane
+  workflow_dispatch:       # Permette anche di avviarlo a mano
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clona il repository
+        uses: actions/checkout@v3
+
+      - name: Configura Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Installa le dipendenze
+        run: |
+          pip install -r requirements.txt
+
+      - name: Esegui app.py
+        run: |
+          python app.py
