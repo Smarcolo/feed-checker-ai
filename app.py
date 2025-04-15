@@ -10,28 +10,28 @@ def get_products():
 
 @app.route("/search", methods=["GET"])
 def search():
-    query_color = request.args.get("color", "").lower()
+ query_color = request.args.get("color", "").lower()
     query_size = request.args.get("size", "")
     query_brand = request.args.get("brand", "").lower()
-    query_sku = request.args.get("sku", "").lower()  # 🔍 nuovo campo per ID/SKU
-
+    query_sku = request.args.get("sku", "").lower()
+    
     products = get_products()
     filtered = []
 
     for p in products:
-        if p.get("availability", "").lower() != "in_stock":
+        if p['availability'] != 'in_stock':
             continue
-        if query_color and query_color not in p.get("color", "").lower():
+        if query_sku and query_sku not in p['id'].lower():
             continue
-        if query_size and query_size != p.get("size", ""):
+        if query_color and query_color not in p['color'].lower():
             continue
-        if query_brand and query_brand not in p.get("brand", "").lower():
+        if query_size and query_size != p['size']:
             continue
-        if query_sku and query_sku.lower() not in p.get("id", "").lower():
+        if query_brand and query_brand not in p['brand'].lower():
             continue
         filtered.append(p)
-
-    return jsonify(filtered[:10])  # massimo 10 risultati
+    
+    return jsonify(filtered[:20])
 
 @app.route("/", methods=["GET"])
 def home():
