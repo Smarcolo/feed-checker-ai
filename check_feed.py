@@ -3,15 +3,29 @@ import xml.etree.ElementTree as ET
 import json
 
 FEED_URL = "https://www.langolo-calzature.it/it/amfeed/feed/download?id=32&file=INTERROGAZIONE.xml"
+XML_FILE = "catalogo.xml"
+JSON_FILE = "catalogo.json"
 
 def check_feed():
+    # Scarica il file XML e salvalo in locale
+    print("📥 Scarico il feed...")
     response = requests.get(FEED_URL)
-    root = ET.fromstring(response.content)
+    if response.status_code != 200:
+        raise Exception(f"Errore durante il download del feed: {response.status_code}")
+
+    with open(XML_FILE, "wb") as f:
+        f.write(response.content)
+
+    # Parsing XML da file
+    print("🔍 Leggo il file XML locale...")
+    tree = ET.parse(XML_FILE)
+    root = tree.getroot()
     items = root.findall('.//item')
 
+    namespaces = {'g': 'http://base.google.com/ns/1.0'}
     products = []
+
     for item in items:
-        namespaces = {'g': 'http://base.google.com/ns/1.0'}
         product = {
             "id": item.findtext('g:id', default='', namespaces=namespaces),
             "title": item.findtext('title', default=''),
@@ -27,7 +41,11 @@ def check_feed():
         }
         products.append(product)
 
-    with open("catalogo.json", "w", encoding="utf-8") as f:
+    # Salva il file JSON
+    print(f"💾 Salvo {len(products)} prodotti in {JSON_FILE}...")
+    with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(products, f, ensure_ascii=False, indent=2)
+
+    print("✅ Fatto!")
 
 check_feed()
