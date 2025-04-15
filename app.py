@@ -1,61 +1,41 @@
-import requests
-import xml.etree.ElementTree as ET
+import json
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
-FEED_URL = "https://www.langolo-calzature.it/it/amfeed/feed/download?id=32&file=INTERROGAZIONE.xml"
-
-# Funzione per scaricare e parsare il feed
+# ✅ Legge il file catalogo.json già aggiornato
 def get_products():
-    response = requests.get(FEED_URL)
-    root = ET.fromstring(response.content)
-    items = root.findall('.//item')
-    
-    products = []
-    for item in items:
-        product = {
-            "id": item.findtext('g:id', default='', namespaces={'g': 'http://base.google.com/ns/1.0'}),
-            "title": item.findtext('title', default=''),
-            "description": item.findtext('description', default=''),
-            "link": item.findtext('link', default=''),
-            "image": item.findtext('g:image_link', default='', namespaces={'g': 'http://base.google.com/ns/1.0'}),
-            "price": item.findtext('g:price', default=''),
-            "sale_price": item.findtext('g:sale_price', default=''),
-            "availability": item.findtext('g:availability', default='', namespaces={'g': 'http://base.google.com/ns/1.0'}),
-            "brand": item.findtext('g:brand', default='', namespaces={'g': 'http://base.google.com/ns/1.0'}),
-            "size": item.findtext('g:size', default='', namespaces={'g': 'http://base.google.com/ns/1.0'}),
-            "color": item.findtext('g:color', default='', namespaces={'g': 'http://base.google.com/ns/1.0'})
-        }
-        products.append(product)
-    return products
+    with open("catalogo.json", "r", encoding="utf-8") as f:
+        return json.load(f)
 
 @app.route("/search", methods=["GET"])
 def search():
     query_color = request.args.get("color", "").lower()
     query_size = request.args.get("size", "")
     query_brand = request.args.get("brand", "").lower()
-    
+    query_sku = request.args.get("sku", "").lower()  # 🔍 nuovo campo per ID/SKU
+
     products = get_products()
     filtered = []
-    
+
     for p in products:
-        if p['availability'] != 'in_stock':
+        if p.get("availability", "").lower() != "in_stock":
             continue
-        if query_color and query_color not in p['color'].lower():
+        if query_color and query_color not in p.get("color", "").lower():
             continue
-        if query_size and query_size != p['size']:
+        if query_size and query_size != p.get("size", ""):
             continue
-        if query_brand and query_brand not in p['brand'].lower():
+        if query_brand and query_brand not in p.get("brand", "").lower():
+            continue
+        if query_sku and query_sku.lower() not in p.get("id", "").lower():
             continue
         filtered.append(p)
-    
-    return jsonify(filtered[:20])
 
-import os
+    return jsonify(filtered[:10])  # massimo 10 risultati
+
+@app.route("/", methods=["GET"])
+def home():
+    return "✅ Feed Checker AI attivo. Usa /search per interrogare il catalogo."
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))
-    app.run(host="0.0.0.0", port=port)
-
-
+    app.run(debug=False, host="0.0.0.0")
