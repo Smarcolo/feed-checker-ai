@@ -5,18 +5,19 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 FEED_URL = "https://www.langolo-calzature.it/it/amfeed/feed/download?id=32&file=INTERROGAZIONE.xml"
-products_cache = []
 
-def fetch_feed():
-    print("📥 Scarico il feed XML...")
+# Funzione per scaricare e parsare il feed
+def get_products():
     response = requests.get(FEED_URL)
+    print("🟡 DEBUG: Feed scaricato, lunghezza:", len(response.content))
+    print(response.content[:500])  # Stampa i primi 500 caratteri del feed XML per controllo
+
     root = ET.fromstring(response.content)
     items = root.findall('.//item')
 
-    namespaces = {'g': 'http://base.google.com/ns/1.0'}
     products = []
-
     for item in items:
+        namespaces = {'g': 'http://base.google.com/ns/1.0'}
         product = {
             "id": item.findtext('g:id', default='', namespaces=namespaces),
             "title": item.findtext('title', default=''),
@@ -31,24 +32,19 @@ def fetch_feed():
             "color": item.findtext('g:color', default='', namespaces=namespaces)
         }
         products.append(product)
-
-    print(f"✅ Feed caricato: {len(products)} prodotti trovati.")
     return products
 
 @app.route("/search", methods=["GET"])
 def search():
-    global products_cache
-    if not products_cache:
-        products_cache = fetch_feed()
-
     query_color = request.args.get("color", "").lower()
     query_size = request.args.get("size", "")
     query_brand = request.args.get("brand", "").lower()
     query_sku = request.args.get("sku", "").lower()
 
+    products = get_products()
     filtered = []
 
-    for p in products_cache:
+    for p in products:
         if p['availability'] != 'in_stock':
             continue
         if query_sku and query_sku not in p['id'].lower():
@@ -61,7 +57,6 @@ def search():
             continue
         filtered.append(p)
 
-    print(f"🔎 Filtrati {len(filtered)} risultati su {len(products_cache)} totali.")
     return jsonify(filtered[:20])
 
 if __name__ == "__main__":
