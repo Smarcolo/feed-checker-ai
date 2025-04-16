@@ -8,10 +8,22 @@ FEED_URL = "https://www.langolo-calzature.it/it/amfeed/feed/download?id=32&file=
 
 # Funzione per scaricare e parsare il feed
 def get_products():
+    print("🔄 Sto scaricando il feed XML...")
     response = requests.get(FEED_URL)
-    root = ET.fromstring(response.content)
+
+    if response.status_code != 200:
+        print(f"❌ Errore durante il download del feed. Status code: {response.status_code}")
+        return []
+
+    try:
+        root = ET.fromstring(response.content)
+    except ET.ParseError as e:
+        print(f"❌ Errore nel parsing del feed XML: {e}")
+        return []
+
     items = root.findall('.//item')
-    
+    print(f"✅ Numero prodotti trovati nel feed: {len(items)}")
+
     products = []
     for item in items:
         namespaces = {'g': 'http://base.google.com/ns/1.0'}
@@ -29,6 +41,8 @@ def get_products():
             "color": item.findtext('g:color', default='', namespaces=namespaces)
         }
         products.append(product)
+
+    print(f"✅ Numero prodotti convertiti: {len(products)}")
     return products
 
 @app.route("/search", methods=["GET"])
@@ -54,6 +68,7 @@ def search():
             continue
         filtered.append(p)
 
+    print(f"🔍 Prodotti trovati dopo il filtro: {len(filtered)}")
     return jsonify(filtered[:20])
 
 if __name__ == "__main__":
