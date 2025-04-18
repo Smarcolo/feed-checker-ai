@@ -33,3 +33,4 @@ jobs:
           git add catalogo.json || echo "Nessuna modifica"
           git commit -m "Aggiornamento automatico catalogo" || echo "Niente da committare"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+   
