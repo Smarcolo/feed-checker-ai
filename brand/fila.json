@@ -1,0 +1,62 @@
+[
+  {
+    "id": "DISRUPTORMB.01",
+    "brand": "FILA",
+    "title": "Sneaker Disruptor Low Black",
+    "size": "37",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/i/disruptormb.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/fila/sneaker-disruptor-low-black"
+  },
+  {
+    "id": "DISRUPTORMB.08",
+    "brand": "FILA",
+    "title": "Sneaker Disruptor Low White",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "BIANCO",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/i/disruptormb.08-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/fila/sneaker-disruptor-low-white"
+  },
+  {
+    "id": "DISRUPTORMB.01",
+    "brand": "FILA",
+    "title": "Sneaker Disruptor Low Black",
+    "size": null,
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/i/disruptormb.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/fila/sneaker-disruptor-low-black"
+  },
+  {
+    "id": "DISRUPTORMB.08",
+    "brand": "FILA",
+    "title": "Sneaker Disruptor Low White",
+    "size": null,
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "BIANCO",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/i/disruptormb.08-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/fila/sneaker-disruptor-low-white"
+  }
+]

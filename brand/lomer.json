@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4783.01",
+    "brand": "LOMER",
+    "title": "Scarpa Vitality Fit Premium Mtx Black",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "159.00 EUR",
+    "sale_price": "49.00 EUR",
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "TRONCHETTI",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/7/4783.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/lomer/scarpa-vitality-fit-premium-mtx-black"
+  },
+  {
+    "id": "4783.01",
+    "brand": "LOMER",
+    "title": "Scarpa Vitality Fit Premium Mtx Black",
+    "size": null,
+    "availability": "in_stock",
+    "price": "159.00 EUR",
+    "sale_price": "49.00 EUR",
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "TRONCHETTI",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/7/4783.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/scarpa-vitality-fit-premium-mtx-black"
+  }
+]

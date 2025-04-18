@@ -1,0 +1,32 @@
+[
+  {
+    "id": "D.GARDI.32",
+    "brand": "POMPEA",
+    "title": "Ciabatte da Casa in pannetto multicor",
+    "size": "UNICA",
+    "availability": "in_stock",
+    "price": "9.00 EUR",
+    "sale_price": "5.00 EUR",
+    "color": "MULTICOLOR",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "I16",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/_/d.gardi.32-0000.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680410/s/d-gardi-32/category/335/"
+  },
+  {
+    "id": "D.GARDI.32",
+    "brand": "POMPEA",
+    "title": "Ciabatte da Casa in pannetto multicor",
+    "size": null,
+    "availability": "in_stock",
+    "price": "9.00 EUR",
+    "sale_price": "5.00 EUR",
+    "color": "MULTICOLOR",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "I16",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/_/d.gardi.32-0000.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680410/s/d-gardi-32/category/335/"
+  }
+]

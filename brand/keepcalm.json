@@ -1,0 +1,32 @@
+[
+  {
+    "id": "AI99010.11",
+    "brand": "KEEP CALM",
+    "title": "Sneaker bianca con tallone rosso",
+    "size": "44",
+    "availability": "in_stock",
+    "price": "69.00 EUR",
+    "sale_price": "29.00 EUR",
+    "color": "ROSSO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E21",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/a/i/ai99010.11-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/saldi/uomo-scarpe/sneakers/sneaker-bianca-con-tallone-rosso"
+  },
+  {
+    "id": "AI99010.11",
+    "brand": "KEEP CALM",
+    "title": "Sneaker bianca con tallone rosso",
+    "size": null,
+    "availability": "in_stock",
+    "price": "69.00 EUR",
+    "sale_price": "29.00 EUR",
+    "color": "ROSSO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E21",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/a/i/ai99010.11-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/saldi/uomo-scarpe/sneakers/sneaker-bianca-con-tallone-rosso"
+  }
+]

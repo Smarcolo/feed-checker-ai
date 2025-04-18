@@ -1,0 +1,32 @@
+[
+  {
+    "id": "TALLBOOT.18",
+    "brand": "HUNTER",
+    "title": "Stivale Tall Boot Yellow",
+    "size": "37",
+    "availability": "in_stock",
+    "price": "159.00 EUR",
+    "sale_price": "47.50 EUR",
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "STIVALI ALTI",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/t/a/tallboot.18-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/donna/stivale-tall-boot-yellow"
+  },
+  {
+    "id": "TALLBOOT.18",
+    "brand": "HUNTER",
+    "title": "Stivale Tall Boot Yellow",
+    "size": null,
+    "availability": "in_stock",
+    "price": "159.00 EUR",
+    "sale_price": "47.50 EUR",
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "STIVALI ALTI",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/t/a/tallboot.18-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/stivale-tall-boot-yellow"
+  }
+]

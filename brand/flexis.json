@@ -1,0 +1,32 @@
+[
+  {
+    "id": "RE53.28",
+    "brand": "FLEXIS",
+    "title": "Ciabatta Grigia Strappo e Plantare Estraibile",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "25.00 EUR",
+    "sale_price": "25.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "I24",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/r/e/re53.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712703/s/ciabatta-grigia-strappo-e-plantare-estraibile/category/478/"
+  },
+  {
+    "id": "RE53.28",
+    "brand": "FLEXIS",
+    "title": "Ciabatta Grigia Strappo e Plantare Estraibile",
+    "size": null,
+    "availability": "in_stock",
+    "price": "25.00 EUR",
+    "sale_price": "25.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "I24",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/r/e/re53.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712703/s/ciabatta-grigia-strappo-e-plantare-estraibile/category/478/"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "99402.14",
+    "brand": "DISNEY - PIXAR",
+    "title": "Stivale in Gomma Frozen",
+    "size": "31",
+    "availability": "in_stock",
+    "price": "18.00 EUR",
+    "sale_price": "18.00 EUR",
+    "color": "ROSA",
+    "gender": "Bambina",
+    "category": "STIVALI ALTI",
+    "season": "I16",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/9/9/99402.14.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680330/s/99402-14/category/826/"
+  },
+  {
+    "id": "99402.14",
+    "brand": "DISNEY - PIXAR",
+    "title": "Stivale in Gomma Frozen",
+    "size": null,
+    "availability": "in_stock",
+    "price": "18.00 EUR",
+    "sale_price": "18.00 EUR",
+    "color": "ROSA",
+    "gender": "Bambina",
+    "category": "STIVALI ALTI",
+    "season": "I16",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/9/9/99402.14.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680330/s/99402-14/category/826/"
+  }
+]
