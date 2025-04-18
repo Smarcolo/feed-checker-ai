@@ -10,10 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clona la repo con token personale
+      - name: Clona la repo
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GH_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -33,4 +31,3 @@ jobs:
           git add catalogo.json || echo "Nessuna modifica"
           git commit -m "Aggiornamento automatico catalogo" || echo "Niente da committare"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-   
