@@ -4,8 +4,8 @@ import os
 
 app = Flask(__name__)
 
-# Carica il catalogo una volta all'avvio (aggiornato 2 volte al giorno dal tuo workflow)
-with open("catalogo.json", encoding="utf-8") as f:
+# Carica il catalogo light una volta all'avvio (più veloce per Render e GPT)
+with open("catalogo_light.json", encoding="utf-8") as f:
     catalogo = json.load(f)
 
 def matches(prodotto, key, value):
@@ -36,8 +36,9 @@ def filtra_catalogo():
     if season:
         risultati = [p for p in risultati if matches(p, "season", season)]
 
-    return jsonify(risultati[:20])  # Limitiamo a 20 risultati per GPT
+    return jsonify(risultati[:20])  # Limitiamo a 20 risultati per GPT o Pabbly
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
+
