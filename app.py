@@ -4,7 +4,7 @@ import os
 
 app = Flask(__name__)
 
-# Carica il catalogo light una volta all'avvio (più veloce per Render e GPT)
+# Carica il catalogo light una sola volta (più veloce per GPT e Pabbly)
 with open("catalogo_light.json", encoding="utf-8") as f:
     catalogo = json.load(f)
 
@@ -22,7 +22,6 @@ def filtra_catalogo():
 
     risultati = catalogo
 
-    # Applica i filtri se sono stati forniti
     if brand:
         risultati = [p for p in risultati if matches(p, "brand", brand)]
     if size:
@@ -36,9 +35,12 @@ def filtra_catalogo():
     if season:
         risultati = [p for p in risultati if matches(p, "season", season)]
 
-    return jsonify(risultati[:20])  # Limitiamo a 20 risultati per GPT o Pabbly
+    # Risposta JSON
+    return jsonify({
+        "count": len(risultati),
+        "results": risultati[:20]
+    })
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
-
