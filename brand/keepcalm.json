@@ -1,32 +1,28 @@
 [
   {
     "id": "AI99010.11",
-    "brand": "KEEP CALM",
     "title": "Sneaker bianca con tallone rosso",
-    "size": "44",
-    "availability": "in_stock",
+    "description": "Sneaker realizzata in pelle bianca con parte posteriore in rosso. Un modello che sta spopolando nell&#039;ultimo periodo e che si adatta a tutti i look! Made in Italy",
+    "link": "https://www.langolo-calzature.it/it/saldi/uomo-scarpe/sneakers/sneaker-bianca-con-tallone-rosso",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/a/i/ai99010.11-0001.jpg",
     "price": "69.00 EUR",
     "sale_price": "29.00 EUR",
-    "color": "ROSSO",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "E21",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/a/i/ai99010.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/saldi/uomo-scarpe/sneakers/sneaker-bianca-con-tallone-rosso"
+    "availability": "in_stock",
+    "brand": "KEEP CALM",
+    "size": "44",
+    "color": "ROSSO"
   },
   {
     "id": "AI99010.11",
-    "brand": "KEEP CALM",
     "title": "Sneaker bianca con tallone rosso",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Sneaker realizzata in pelle bianca con parte posteriore in rosso. Un modello che sta spopolando nell&#039;ultimo periodo e che si adatta a tutti i look! Made in Italy",
+    "link": "https://www.langolo-calzature.it/it/saldi/uomo-scarpe/sneakers/sneaker-bianca-con-tallone-rosso",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/a/i/ai99010.11-0001.jpg",
     "price": "69.00 EUR",
     "sale_price": "29.00 EUR",
-    "color": "ROSSO",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "E21",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/a/i/ai99010.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/saldi/uomo-scarpe/sneakers/sneaker-bianca-con-tallone-rosso"
+    "availability": "in_stock",
+    "brand": "KEEP CALM",
+    "size": "",
+    "color": "ROSSO"
   }
 ]
