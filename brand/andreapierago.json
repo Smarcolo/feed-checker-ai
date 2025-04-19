@@ -1,41 +1,32 @@
 [
   {
     "id": "D.54B30.09",
-    "title": "D.54B30.09",
-    "description": "",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680405/s/d-54b30-09/category/841/",
-    "image": "",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "availability": "in_stock",
     "brand": "ANDREA PIERAGO",
+    "title": "D.54B30.09",
     "size": "40",
-    "color": "BEIGE"
+    "availability": "in_stock",
+    "price": "39.00 EUR",
+    "sale_price": "39.00 EUR",
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E19",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680405/s/d-54b30-09/category/841/"
   },
   {
     "id": "D.54B30.09",
-    "title": "D.54B30.09",
-    "description": "",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680405/s/d-54b30-09/category/841/",
-    "image": "",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "availability": "in_stock",
     "brand": "ANDREA PIERAGO",
+    "title": "D.54B30.09",
     "size": "41",
-    "color": "BEIGE"
-  },
-  {
-    "id": "D.54B30.09",
-    "title": "D.54B30.09",
-    "description": "",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680405/s/d-54b30-09/category/841/",
-    "image": "",
+    "availability": "in_stock",
     "price": "39.00 EUR",
     "sale_price": "39.00 EUR",
-    "availability": "in_stock",
-    "brand": "ANDREA PIERAGO",
-    "size": "",
-    "color": "BEIGE"
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E19",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680405/s/d-54b30-09/category/841/"
   }
 ]
