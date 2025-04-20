@@ -360,21 +360,6 @@
     "link": "https://www.langolo-calzature.it/it/brand/dr-martens/anfibio-1460-smooth-black-623701"
   },
   {
-    "id": "1460SMBRI.01",
-    "brand": "DR.MARTENS",
-    "title": "Anfibio 1460 Smooth Black",
-    "size": "42",
-    "availability": "in_stock",
-    "price": "199.00 EUR",
-    "sale_price": "199.00 EUR",
-    "color": "NERO",
-    "gender": "Unisex",
-    "category": "TRONCHETTI",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/4/1460smbri.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dr-martens/anfibio-1460-smooth-black-623701"
-  },
-  {
     "id": "1461BEX.01",
     "brand": "DR.MARTENS",
     "title": "Scarpa 1461 Bex Black Smooth",
@@ -544,6 +529,21 @@
     "brand": "DR.MARTENS",
     "title": "Anfibio Pascal Virginia Black",
     "size": "40",
+    "availability": "in_stock",
+    "price": "199.00 EUR",
+    "sale_price": "199.00 EUR",
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "POLACCHI",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/p/a/pascalss.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/dr-martens/anfibio-pascal-virginia-black-624778"
+  },
+  {
+    "id": "PASCALSS.01",
+    "brand": "DR.MARTENS",
+    "title": "Anfibio Pascal Virginia Black",
+    "size": "42",
     "availability": "in_stock",
     "price": "199.00 EUR",
     "sale_price": "199.00 EUR",

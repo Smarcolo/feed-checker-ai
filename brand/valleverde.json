@@ -870,21 +870,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689143/s/slip-on-in-pelle-traforata-blu/category/222/"
   },
   {
-    "id": "36392.06",
-    "brand": "VALLEVERDE",
-    "title": "Slip on in pelle traforata Blu",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36392.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689143/s/slip-on-in-pelle-traforata-blu/category/222/"
-  },
-  {
     "id": "49877.02",
     "brand": "VALLEVERDE",
     "title": "Mocassino in pelle marrone con fondo Extralight",
@@ -1581,13 +1566,13 @@
     "size": "39",
     "availability": "in_stock",
     "price": "75.00 EUR",
-    "sale_price": "52.50 EUR",
+    "sale_price": "75.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17100.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/346/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/222/"
   },
   {
     "id": "17100.01",
@@ -1596,13 +1581,13 @@
     "size": "41",
     "availability": "in_stock",
     "price": "75.00 EUR",
-    "sale_price": "52.50 EUR",
+    "sale_price": "75.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17100.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/346/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/222/"
   },
   {
     "id": "17100.01",
@@ -1611,13 +1596,13 @@
     "size": null,
     "availability": "in_stock",
     "price": "75.00 EUR",
-    "sale_price": "52.50 EUR",
+    "sale_price": "75.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17100.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/346/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/222/"
   },
   {
     "id": "42500.01",
@@ -3943,21 +3928,6 @@
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/2/8/28232.15-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721353/s/28232-15/category/222/"
-  },
-  {
-    "id": "36213.28",
-    "brand": "VALLEVERDE",
-    "title": "Slip-On Grigie Traforate In Camoscio",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36213.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721354/s/36213-28/category/222/"
   },
   {
     "id": "36213.28",

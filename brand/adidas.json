@@ -825,21 +825,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/695154/s/sneaker-campus-00s-green-black/category/367/"
   },
   {
-    "id": "IF8763.26",
-    "brand": "ADIDAS",
-    "title": "Sneaker Campus 00s Green Black",
-    "size": "44",
-    "availability": "in_stock",
-    "price": "149.00 EUR",
-    "sale_price": "119.00 EUR",
-    "color": "VERDE",
-    "gender": "Unisex",
-    "category": "SNEAKERS",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/i/f/if8763.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/695154/s/sneaker-campus-00s-green-black/category/367/"
-  },
-  {
     "id": "IF3813.11",
     "brand": "ADIDAS",
     "title": "Sneaker Samba OG White Red",
@@ -994,21 +979,6 @@
     "brand": "ADIDAS",
     "title": "Sneaker Campus 00s Black",
     "size": "42,5",
-    "availability": "in_stock",
-    "price": "149.00 EUR",
-    "sale_price": "119.00 EUR",
-    "color": "NERO",
-    "gender": "Unisex",
-    "category": "SNEAKERS",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/h/q/hq8708.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680812/s/sneaker-campus-00s-blakc/category/487/"
-  },
-  {
-    "id": "HQ8708.01",
-    "brand": "ADIDAS",
-    "title": "Sneaker Campus 00s Black",
-    "size": "44",
     "availability": "in_stock",
     "price": "149.00 EUR",
     "sale_price": "119.00 EUR",
@@ -1908,21 +1878,6 @@
     "id": "ID0478.09",
     "brand": "ADIDAS",
     "title": "Sneaker Adidas Samba Beige Strisce Nere",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "120.00 EUR",
-    "sale_price": "120.00 EUR",
-    "color": "BEIGE",
-    "gender": "Unisex",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/i/d/id0478.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716822/s/sneaker-adidas-samba-beige-strisce-nere/category/60/"
-  },
-  {
-    "id": "ID0478.09",
-    "brand": "ADIDAS",
-    "title": "Sneaker Adidas Samba Beige Strisce Nere",
     "size": "39,5",
     "availability": "in_stock",
     "price": "120.00 EUR",
@@ -1991,7 +1946,7 @@
     "gender": "Bambino",
     "category": "SNEAKERS",
     "season": "E25",
-    "image": null,
+    "image": "https://www.langolo-calzature.it/media/catalog/product/i/h/ih5529.08-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725891/s/sneakers-adidas-bimbo-grand-court-2-0/category/60/"
   },
   {
@@ -2006,22 +1961,7 @@
     "gender": "Bambino",
     "category": "SNEAKERS",
     "season": "E25",
-    "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725891/s/sneakers-adidas-bimbo-grand-court-2-0/category/60/"
-  },
-  {
-    "id": "IH5529.08",
-    "brand": "ADIDAS",
-    "title": "Sneakers adidas bimbo Grand Court. 2.0",
-    "size": "30",
-    "availability": "in_stock",
-    "price": "45.00 EUR",
-    "sale_price": "45.00 EUR",
-    "color": "BIANCO",
-    "gender": "Bambino",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": null,
+    "image": "https://www.langolo-calzature.it/media/catalog/product/i/h/ih5529.08-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725891/s/sneakers-adidas-bimbo-grand-court-2-0/category/60/"
   },
   {
@@ -2036,7 +1976,7 @@
     "gender": "Bambino",
     "category": "SNEAKERS",
     "season": "E25",
-    "image": null,
+    "image": "https://www.langolo-calzature.it/media/catalog/product/i/h/ih5529.08-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725891/s/sneakers-adidas-bimbo-grand-court-2-0/category/60/"
   },
   {
@@ -2051,7 +1991,7 @@
     "gender": "Bambino",
     "category": "SNEAKERS",
     "season": "E25",
-    "image": null,
+    "image": "https://www.langolo-calzature.it/media/catalog/product/i/h/ih5529.08-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725891/s/sneakers-adidas-bimbo-grand-court-2-0/category/60/"
   },
   {
@@ -2066,7 +2006,7 @@
     "gender": "Bambino",
     "category": "SNEAKERS",
     "season": "E25",
-    "image": null,
+    "image": "https://www.langolo-calzature.it/media/catalog/product/i/h/ih5529.08-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725891/s/sneakers-adidas-bimbo-grand-court-2-0/category/60/"
   },
   {
@@ -2081,7 +2021,7 @@
     "gender": "Bambino",
     "category": "SNEAKERS",
     "season": "E25",
-    "image": null,
+    "image": "https://www.langolo-calzature.it/media/catalog/product/i/h/ih5529.08-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725891/s/sneakers-adidas-bimbo-grand-court-2-0/category/60/"
   },
   {
@@ -2096,7 +2036,22 @@
     "gender": "Bambino",
     "category": "SNEAKERS",
     "season": "E25",
-    "image": null,
+    "image": "https://www.langolo-calzature.it/media/catalog/product/i/h/ih5529.08-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725891/s/sneakers-adidas-bimbo-grand-court-2-0/category/60/"
+  },
+  {
+    "id": "IH5529.08",
+    "brand": "ADIDAS",
+    "title": "Sneakers adidas bimbo Grand Court. 2.0",
+    "size": null,
+    "availability": "in_stock",
+    "price": "45.00 EUR",
+    "sale_price": "45.00 EUR",
+    "color": "BIANCO",
+    "gender": "Bambino",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/i/h/ih5529.08-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725891/s/sneakers-adidas-bimbo-grand-court-2-0/category/60/"
   }
 ]

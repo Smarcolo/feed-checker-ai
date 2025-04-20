@@ -1,35 +1,5 @@
 [
   {
-    "id": "9001.11",
-    "brand": "WAVE",
-    "title": "Sneaker in camoscio rosso con lacci blu",
-    "size": "31",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "19.00 EUR",
-    "color": "ROSSO",
-    "gender": "Bambino",
-    "category": "SNEAKERS",
-    "season": "I21",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/9/0/9001.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/saldi/bambino-scarpe/sneakers/sneaker-in-camoscio-rosso-con-lacci-blu"
-  },
-  {
-    "id": "9001.11",
-    "brand": "WAVE",
-    "title": "Sneaker in camoscio rosso con lacci blu",
-    "size": null,
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "19.00 EUR",
-    "color": "ROSSO",
-    "gender": "Bambino",
-    "category": "SNEAKERS",
-    "season": "I21",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/9/0/9001.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/saldi/bambino-scarpe/sneakers/sneaker-in-camoscio-rosso-con-lacci-blu"
-  },
-  {
     "id": "11291.09",
     "brand": "WAVE",
     "title": "Sneaker alta in camoscio taupe con lacci arancio",
@@ -223,21 +193,6 @@
     "season": "I23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/2/6/26261.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/674724/s/tronchetto-in-pelle-nera-con-zip/category/465/"
-  },
-  {
-    "id": "28380.01",
-    "brand": "WAVE",
-    "title": "Sandalo chiuso n pelle nera laserata",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/2/8/28380.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/686606/s/ballerina-in-pelle-nera-laserata-con-cintuirno/category/115/"
   },
   {
     "id": "28380.01",
