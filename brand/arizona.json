@@ -1,28 +1,32 @@
 [
   {
     "id": "3812.02",
+    "brand": "ARIZONA",
     "title": "Ciabatta chiusa testa di moro",
-    "description": "Ciabatta chiusa in simil pelle color testa di moro, con sottopiede in pelle e fondo gomma. Molto comoda con una calzata confortevole.",
-    "link": "https://www.langolo-calzature.it/it/brand/ciabatta-chiusa-testa-di-moro",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/8/3812.02-0001.jpg",
+    "size": "42",
+    "availability": "in_stock",
     "price": "18.00 EUR",
     "sale_price": "10.00 EUR",
-    "availability": "in_stock",
-    "brand": "ARIZONA",
-    "size": "42",
-    "color": "MARRONE"
+    "color": "MARRONE",
+    "gender": "Uomo",
+    "category": "CIABATTE",
+    "season": "I20",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/3/8/3812.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/ciabatta-chiusa-testa-di-moro"
   },
   {
     "id": "3812.02",
+    "brand": "ARIZONA",
     "title": "Ciabatta chiusa testa di moro",
-    "description": "Ciabatta chiusa in simil pelle color testa di moro, con sottopiede in pelle e fondo gomma. Molto comoda con una calzata confortevole.",
-    "link": "https://www.langolo-calzature.it/it/brand/ciabatta-chiusa-testa-di-moro",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/8/3812.02-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "18.00 EUR",
     "sale_price": "10.00 EUR",
-    "availability": "in_stock",
-    "brand": "ARIZONA",
-    "size": "",
-    "color": "MARRONE"
+    "color": "MARRONE",
+    "gender": "Uomo",
+    "category": "CIABATTE",
+    "season": "I20",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/3/8/3812.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/ciabatta-chiusa-testa-di-moro"
   }
 ]
