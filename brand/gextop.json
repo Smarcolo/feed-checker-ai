@@ -1,15 +1,17 @@
 [
   {
     "id": "6471.01",
+    "brand": "GEXTOP",
     "title": "Ciabatta infradito fusbet nera",
-    "description": "Ciabatta infradito in ecopelle nera con fibbia regolabile e fondo gomma. Il plantare anatomico garantisce una buona stabilità del piede, anche grazie al supporto sull&#039; arco plantare. Il rialzo per l&#039;appoggio delle dita offre loro una naturale posizione, lateralmente invece, il rialzo serve per il contenimento del piede e per un maggior comfort ed equilibrio. Made in Italy",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680290/s/ciabatta-infradito-fusbet-nera/category/355/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/6/4/6471.01-0001.jpg",
+    "size": "46",
+    "availability": "in_stock",
     "price": "18.00 EUR",
     "sale_price": "10.00 EUR",
-    "availability": "in_stock",
-    "brand": "GEXTOP",
-    "size": "46",
-    "color": "NERO"
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "CIABATTE",
+    "season": "E18",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/6/4/6471.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680290/s/ciabatta-infradito-fusbet-nera/category/355/"
   }
 ]
