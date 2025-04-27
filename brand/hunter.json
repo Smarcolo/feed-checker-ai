@@ -1,28 +1,32 @@
 [
   {
     "id": "TALLBOOT.18",
+    "brand": "HUNTER",
     "title": "Stivale Tall Boot Yellow",
-    "description": "Perfetti in caso di pioggia, questi stivali da donna rappresentano il fulcro del marchio Hunter Original fin dal 1956, anno del loro lancio. Realizzati in gomma naturale, ogni paio è formato da 28 parti tagliate a mano e assemblate nell&#039;arco di tre giorni su una forma in alluminio fatta su misura per Hunter, prima di essere vulcanizzato per una protezione eccezionale. Caratterizzato dal classico battistrada Hunter Original e da una confortevole fodera in poliestere, lo stivale Original Tall",
-    "link": "https://www.langolo-calzature.it/it/donna/stivale-tall-boot-yellow",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/t/a/tallboot.18-0001.jpg",
+    "size": "37",
+    "availability": "in_stock",
     "price": "159.00 EUR",
     "sale_price": "47.50 EUR",
-    "availability": "in_stock",
-    "brand": "HUNTER",
-    "size": "37",
-    "color": "GIALLO"
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "STIVALI ALTI",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/t/a/tallboot.18-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/donna/stivale-tall-boot-yellow"
   },
   {
     "id": "TALLBOOT.18",
+    "brand": "HUNTER",
     "title": "Stivale Tall Boot Yellow",
-    "description": "Perfetti in caso di pioggia, questi stivali da donna rappresentano il fulcro del marchio Hunter Original fin dal 1956, anno del loro lancio. Realizzati in gomma naturale, ogni paio è formato da 28 parti tagliate a mano e assemblate nell&#039;arco di tre giorni su una forma in alluminio fatta su misura per Hunter, prima di essere vulcanizzato per una protezione eccezionale. Caratterizzato dal classico battistrada Hunter Original e da una confortevole fodera in poliestere, lo stivale Original Tall",
-    "link": "https://www.langolo-calzature.it/it/brand/stivale-tall-boot-yellow",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/t/a/tallboot.18-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "159.00 EUR",
     "sale_price": "47.50 EUR",
-    "availability": "in_stock",
-    "brand": "HUNTER",
-    "size": "",
-    "color": "GIALLO"
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "STIVALI ALTI",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/t/a/tallboot.18-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/stivale-tall-boot-yellow"
   }
 ]
