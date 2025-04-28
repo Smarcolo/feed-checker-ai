@@ -2,7 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 import json
 
-FEED_URL = "https://www.langolo-calzature.it/it/amfeed/feed/download?id=32&file=INTERROGAZIONE.xml"
+FEED_URL = "https://www.langolo-calzature.it/it/amfeed/feed/download?id=32&file=amasty/feed/INTERROGAZIONE.xml"
 XML_FILE = "catalogo.xml"
 JSON_FILE = "catalogo.json"
 
@@ -10,15 +10,19 @@ def check_feed():
     # Scarica il file XML e salvalo in locale
     print("📥 Scarico il feed...")
     response = requests.get(FEED_URL)
-    if response.status_code != 200:
-        raise Exception(f"Errore durante il download del feed: {response.status_code}")
+    if response.status_code != 200 or not response.content.strip():
+        raise Exception(f"Errore durante il download del feed: Status code {response.status_code}, feed vuoto o non valido.")
 
     with open(XML_FILE, "wb") as f:
         f.write(response.content)
 
     # Parsing XML da file
     print("🔍 Leggo il file XML locale...")
-    tree = ET.parse(XML_FILE)
+    try:
+        tree = ET.parse(XML_FILE)
+    except ET.ParseError as e:
+        raise Exception(f"Errore nel parsing del file XML locale: {e}")
+
     root = tree.getroot()
     items = root.findall('.//item')
 
