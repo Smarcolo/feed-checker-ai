@@ -2,15 +2,28 @@ import requests
 import xml.etree.ElementTree as ET
 import json
 
-# URL del feed XML
-url = "https://www.langolo-calzature.it/it/amfeed/feed/download?id=32&file=INTERROGAZIONE.xml"
+# URL del feed XML corretto
+url = "https://www.langolo-calzature.it/it/amfeed/feed/download?id=32&file=amasty/feed/INTERROGAZIONE.xml"
 
+# Scarica il feed
 response = requests.get(url)
-root = ET.fromstring(response.content)
 
+# Controlla se la risposta è valida
+if response.status_code == 200 and response.content.strip():
+    try:
+        root = ET.fromstring(response.content)
+    except ET.ParseError as e:
+        raise Exception(f"Errore nel parsing dell'XML: {e}")
+else:
+    raise Exception(f"Errore: il feed non è accessibile o è vuoto. Status code: {response.status_code}")
+
+# Namespace per i tag g:
 ns = {'g': 'http://base.google.com/ns/1.0'}
+
+# Lista dei prodotti
 prodotti = []
 
+# Estrazione dei dati
 for item in root.findall('./channel/item'):
     try:
         prodotti.append({
@@ -28,7 +41,7 @@ for item in root.findall('./channel/item'):
             "image": item.find('g:image_link', ns).text if item.find('g:image_link', ns) is not None else "",
             "link": item.find('link').text.strip()
         })
-    except Exception as e:
+    except Exception:
         continue
 
 # Scrive il file JSON
