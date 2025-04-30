@@ -24,10 +24,11 @@ jobs:
       - name: Esegui script Python
         run: python estrai_catalogo.py
 
-      - name: Fai il commit del nuovo catalogo.json
+      - name: Fai il commit e push del nuovo catalogo.json
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          git pull --rebase origin main || echo "Nessun aggiornamento remoto"
           git add catalogo.json || echo "Nessuna modifica"
           git commit -m "Aggiornamento automatico catalogo" || echo "Niente da committare"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
