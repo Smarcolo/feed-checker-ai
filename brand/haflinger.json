@@ -1,32 +1,28 @@
 [
   {
     "id": "313087.09",
-    "brand": "HAFLINGER",
     "title": "Ciabatta Chihuahua Beigemeliert",
-    "size": "39",
-    "availability": "in_stock",
+    "description": "Questo modello appartiene alla linea Flair, i cui modelli sono caratterizzati dalla tomaia in feltro o morbida lana cotta di pura lana vergine. Il piede poggia su un plantare anatomico in lattice, ricoperto da feltro di lana o lana cotta. La suola di feltro è rivestita in lattice per renderla antiscivolo.",
+    "link": "https://www.langolo-calzature.it/it/saldi/donna-scarpe/ciabatte/ciabatta-chihuahua-beigemeliert",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/3/1/313087.09-0001.jpg",
     "price": "61.00 EUR",
     "sale_price": "25.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "I22",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/1/313087.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/saldi/donna-scarpe/ciabatte/ciabatta-chihuahua-beigemeliert"
+    "availability": "in_stock",
+    "brand": "HAFLINGER",
+    "size": "39",
+    "color": "BEIGE"
   },
   {
     "id": "313087.09",
-    "brand": "HAFLINGER",
     "title": "Ciabatta Chihuahua Beigemeliert",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Questo modello appartiene alla linea Flair, i cui modelli sono caratterizzati dalla tomaia in feltro o morbida lana cotta di pura lana vergine. Il piede poggia su un plantare anatomico in lattice, ricoperto da feltro di lana o lana cotta. La suola di feltro è rivestita in lattice per renderla antiscivolo.",
+    "link": "https://www.langolo-calzature.it/it/brand/ciabatta-chihuahua-beigemeliert",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/3/1/313087.09-0001.jpg",
     "price": "61.00 EUR",
     "sale_price": "25.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "I22",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/1/313087.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/ciabatta-chihuahua-beigemeliert"
+    "availability": "in_stock",
+    "brand": "HAFLINGER",
+    "size": "",
+    "color": "BEIGE"
   }
 ]
