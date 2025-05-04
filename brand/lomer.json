@@ -1,28 +1,32 @@
 [
   {
     "id": "4783.01",
+    "brand": "LOMER",
     "title": "Scarpa Vitality Fit Premium Mtx Black",
-    "description": "Vitality Fit MTX, studiata in collaborazione con rinomati tecnici ortopedici, è il risultato di una lunga ricerca del comfort. La tomaia realizzata interamente in morbidissima pelle pieno fiore “Made in Italy” permette di inserire un ortesi plantare su misura. La fodera interna in Mer-Tex assicura impermeabilità e traspirazione ed il plantare interno, in pelle pieno fiore, aumenta ulteriormente il comfort e la traspirabilità della scarpa. La suola Vibram offre un perfetto equilibrio di trazione ",
-    "link": "https://www.langolo-calzature.it/it/brand/lomer/scarpa-vitality-fit-premium-mtx-black",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/7/4783.01-0001.jpg",
+    "size": "39",
+    "availability": "in_stock",
     "price": "159.00 EUR",
     "sale_price": "49.00 EUR",
-    "availability": "in_stock",
-    "brand": "LOMER",
-    "size": "39",
-    "color": "NERO"
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "TRONCHETTI",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/7/4783.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/lomer/scarpa-vitality-fit-premium-mtx-black"
   },
   {
     "id": "4783.01",
+    "brand": "LOMER",
     "title": "Scarpa Vitality Fit Premium Mtx Black",
-    "description": "Vitality Fit MTX, studiata in collaborazione con rinomati tecnici ortopedici, è il risultato di una lunga ricerca del comfort. La tomaia realizzata interamente in morbidissima pelle pieno fiore “Made in Italy” permette di inserire un ortesi plantare su misura. La fodera interna in Mer-Tex assicura impermeabilità e traspirazione ed il plantare interno, in pelle pieno fiore, aumenta ulteriormente il comfort e la traspirabilità della scarpa. La suola Vibram offre un perfetto equilibrio di trazione ",
-    "link": "https://www.langolo-calzature.it/it/brand/scarpa-vitality-fit-premium-mtx-black",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/7/4783.01-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "159.00 EUR",
     "sale_price": "49.00 EUR",
-    "availability": "in_stock",
-    "brand": "LOMER",
-    "size": "",
-    "color": "NERO"
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "TRONCHETTI",
+    "season": "I22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/7/4783.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/scarpa-vitality-fit-premium-mtx-black"
   }
 ]
