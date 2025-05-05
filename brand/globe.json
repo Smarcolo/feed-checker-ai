@@ -1,28 +1,32 @@
 [
   {
     "id": "DORAPI.08",
+    "brand": "GLOBE",
     "title": "Ciabatta Donna in Tessuto Bianco con Smiley Globe",
-    "description": "Porta un tocco di allegria ai tuoi momenti di relax con le ciabatte da donna Globe, decorate con un vivace motivo smiley. Realizzate in tessuto morbido e accogliente, queste ciabatte offrono comfort assoluto e un calore ideale per le giornate casalinghe. Il fondo in gomma antiscivolo assicura stabilità, rendendole perfette per muoversi in tutta sicurezza su qualsiasi superficie. Abbinale a un pigiama colorato o a un set loungewear per un look divertente e rilassato. Perfette per chi ama combinar",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/710578/s/ciabatta-donna-in-tessuto-bianco-con-smiley-globe/category/478/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/d/o/dorapi.08-0001.jpg",
+    "size": "38",
+    "availability": "in_stock",
     "price": "0.00 EUR",
     "sale_price": "0.00 EUR",
-    "availability": "in_stock",
-    "brand": "GLOBE",
-    "size": "38",
-    "color": "BIANCO"
+    "color": "BIANCO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "I24",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/o/dorapi.08-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/710578/s/ciabatta-donna-in-tessuto-bianco-con-smiley-globe/category/478/"
   },
   {
     "id": "DORAPI.08",
+    "brand": "GLOBE",
     "title": "Ciabatta Donna in Tessuto Bianco con Smiley Globe",
-    "description": "Porta un tocco di allegria ai tuoi momenti di relax con le ciabatte da donna Globe, decorate con un vivace motivo smiley. Realizzate in tessuto morbido e accogliente, queste ciabatte offrono comfort assoluto e un calore ideale per le giornate casalinghe. Il fondo in gomma antiscivolo assicura stabilità, rendendole perfette per muoversi in tutta sicurezza su qualsiasi superficie. Abbinale a un pigiama colorato o a un set loungewear per un look divertente e rilassato. Perfette per chi ama combinar",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/710578/s/ciabatta-donna-in-tessuto-bianco-con-smiley-globe/category/478/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/d/o/dorapi.08-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "0.00 EUR",
     "sale_price": "0.00 EUR",
-    "availability": "in_stock",
-    "brand": "GLOBE",
-    "size": "",
-    "color": "BIANCO"
+    "color": "BIANCO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "I24",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/o/dorapi.08-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/710578/s/ciabatta-donna-in-tessuto-bianco-con-smiley-globe/category/478/"
   }
 ]
