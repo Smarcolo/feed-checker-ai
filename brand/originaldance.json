@@ -1,32 +1,28 @@
 [
   {
     "id": "1103V.01",
-    "brand": "ORIGINAL DANCE",
     "title": "Scarpa da ballo in vernice con fondo cuoio",
-    "size": "45",
-    "availability": "in_stock",
+    "description": "Scarpa da ballo in nappa nera con inserti in vernice e fondo in cuoio. Ideale per la danza! Made in Italy",
+    "link": "https://www.langolo-calzature.it/it/uomo/ballo/scarpa-da-ballo-in-vernice-con-fondo-cuoio",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/1103v.01-0001.jpg",
     "price": "99.00 EUR",
     "sale_price": "99.00 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "SCARPE DA BALLO",
-    "season": "E23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/1103v.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/uomo/ballo/scarpa-da-ballo-in-vernice-con-fondo-cuoio"
+    "availability": "in_stock",
+    "brand": "ORIGINAL DANCE",
+    "size": "45",
+    "color": "NERO"
   },
   {
     "id": "1103V.01",
-    "brand": "ORIGINAL DANCE",
     "title": "Scarpa da ballo in vernice con fondo cuoio",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Scarpa da ballo in nappa nera con inserti in vernice e fondo in cuoio. Ideale per la danza! Made in Italy",
+    "link": "https://www.langolo-calzature.it/it/uomo/ballo/scarpa-da-ballo-in-vernice-con-fondo-cuoio",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/1103v.01-0001.jpg",
     "price": "99.00 EUR",
     "sale_price": "99.00 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "SCARPE DA BALLO",
-    "season": "E23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/1103v.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/uomo/ballo/scarpa-da-ballo-in-vernice-con-fondo-cuoio"
+    "availability": "in_stock",
+    "brand": "ORIGINAL DANCE",
+    "size": "",
+    "color": "NERO"
   }
 ]
