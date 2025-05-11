@@ -1,32 +1,28 @@
 [
   {
     "id": "RE53.28",
-    "brand": "FLEXIS",
     "title": "Ciabatta Grigia Strappo e Plantare Estraibile",
-    "size": "40",
-    "availability": "in_stock",
+    "description": "Questa ciabatta da donna in tessuto grigio è l’ideale per chi cerca comodità e stile in casa. Dotata di una pratica chiusura a strappo, permette di regolare la calzata per un comfort personalizzato. Il plantare estraibile è un valore aggiunto, consentendo di inserire supporti ortopedici secondo le proprie esigenze. La suola in gomma antiscivolo assicura stabilità su ogni superficie, mentre il design raffinato con dettagli brillanti si adatta perfettamente a un abbigliamento casual da casa o a un",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712703/s/ciabatta-grigia-strappo-e-plantare-estraibile/category/478/",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/r/e/re53.28-0001.jpg",
     "price": "25.00 EUR",
     "sale_price": "25.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/r/e/re53.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712703/s/ciabatta-grigia-strappo-e-plantare-estraibile/category/478/"
+    "availability": "in_stock",
+    "brand": "FLEXIS",
+    "size": "40",
+    "color": "GRIGIO"
   },
   {
     "id": "RE53.28",
-    "brand": "FLEXIS",
     "title": "Ciabatta Grigia Strappo e Plantare Estraibile",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Questa ciabatta da donna in tessuto grigio è l’ideale per chi cerca comodità e stile in casa. Dotata di una pratica chiusura a strappo, permette di regolare la calzata per un comfort personalizzato. Il plantare estraibile è un valore aggiunto, consentendo di inserire supporti ortopedici secondo le proprie esigenze. La suola in gomma antiscivolo assicura stabilità su ogni superficie, mentre il design raffinato con dettagli brillanti si adatta perfettamente a un abbigliamento casual da casa o a un",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712703/s/ciabatta-grigia-strappo-e-plantare-estraibile/category/478/",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/r/e/re53.28-0001.jpg",
     "price": "25.00 EUR",
     "sale_price": "25.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/r/e/re53.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712703/s/ciabatta-grigia-strappo-e-plantare-estraibile/category/478/"
+    "availability": "in_stock",
+    "brand": "FLEXIS",
+    "size": "",
+    "color": "GRIGIO"
   }
 ]
