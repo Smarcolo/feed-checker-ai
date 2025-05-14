@@ -1,28 +1,32 @@
 [
   {
     "id": "99402.14",
+    "brand": "DISNEY - PIXAR",
     "title": "Stivale in Gomma Frozen",
-    "description": "Questo stivale di gomma accompagnerà la tua bambina in ogni occasione di pioggia: è realizzato in miscela di gomma rosa con disegni a tema ghiaccio e le bellissime Elsa e Anna! La culisse sul bordo superiore permette di regolarla alla gamba di tua figlia senza far entrare l&#039;acqua, il fondo in gomma lilla è antiscivolo.",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680330/s/99402-14/category/826/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/9/9/99402.14.jpg",
+    "size": "31",
+    "availability": "in_stock",
     "price": "18.00 EUR",
     "sale_price": "18.00 EUR",
-    "availability": "in_stock",
-    "brand": "DISNEY - PIXAR",
-    "size": "31",
-    "color": "ROSA"
+    "color": "ROSA",
+    "gender": "Bambina",
+    "category": "STIVALI ALTI",
+    "season": "I16",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/9/9/99402.14.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680330/s/99402-14/category/826/"
   },
   {
     "id": "99402.14",
+    "brand": "DISNEY - PIXAR",
     "title": "Stivale in Gomma Frozen",
-    "description": "Questo stivale di gomma accompagnerà la tua bambina in ogni occasione di pioggia: è realizzato in miscela di gomma rosa con disegni a tema ghiaccio e le bellissime Elsa e Anna! La culisse sul bordo superiore permette di regolarla alla gamba di tua figlia senza far entrare l&#039;acqua, il fondo in gomma lilla è antiscivolo.",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680330/s/99402-14/category/826/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/9/9/99402.14.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "18.00 EUR",
     "sale_price": "18.00 EUR",
-    "availability": "in_stock",
-    "brand": "DISNEY - PIXAR",
-    "size": "",
-    "color": "ROSA"
+    "color": "ROSA",
+    "gender": "Bambina",
+    "category": "STIVALI ALTI",
+    "season": "I16",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/9/9/99402.14.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680330/s/99402-14/category/826/"
   }
 ]
