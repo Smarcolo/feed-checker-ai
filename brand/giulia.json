@@ -528,21 +528,6 @@
     "id": "GIULIA5.01",
     "brand": "GIULIA",
     "title": "Decoltè a punta nera con tacco 5",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "75.00 EUR",
-    "sale_price": "75.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "DECOLLETE",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/g/i/giulia5.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/giulia/decolte-a-punta-nera-con-tacco-5"
-  },
-  {
-    "id": "GIULIA5.01",
-    "brand": "GIULIA",
-    "title": "Decoltè a punta nera con tacco 5",
     "size": "42",
     "availability": "in_stock",
     "price": "75.00 EUR",
@@ -598,36 +583,6 @@
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/h/a/handbagp.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/giulia/handbag-napa-nero"
-  },
-  {
-    "id": "HANDBAG.50",
-    "brand": "GIULIA",
-    "title": "Handbag Morado Ante",
-    "size": "UNICA",
-    "availability": "in_stock",
-    "price": "29.00 EUR",
-    "sale_price": "29.00 EUR",
-    "color": "VIOLA",
-    "gender": "Donna",
-    "category": "ACCESSORI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/h/a/handbag.50-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/giulia/handbag-morado-ante"
-  },
-  {
-    "id": "HANDBAG.50",
-    "brand": "GIULIA",
-    "title": "Handbag Morado Ante",
-    "size": null,
-    "availability": "in_stock",
-    "price": "29.00 EUR",
-    "sale_price": "29.00 EUR",
-    "color": "VIOLA",
-    "gender": "Donna",
-    "category": "ACCESSORI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/h/a/handbag.50-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/giulia/handbag-morado-ante"
   },
   {
     "id": "GIULIAT8C.26",
@@ -780,9 +735,9 @@
     "link": "https://www.langolo-calzature.it/it/brand/giulia/pochette-ante-marino"
   },
   {
-    "id": "HANDBAG.32",
+    "id": "HANDBAG.32_TU",
     "brand": "GIULIA",
-    "title": "HANDBAG.32",
+    "title": "HANDBAG.32_TU",
     "size": "UNICA",
     "availability": "in_stock",
     "price": "29.00 EUR",
@@ -790,9 +745,9 @@
     "color": "MULTICOLOR",
     "gender": "Donna",
     "category": "ACCESSORI",
-    "season": "E24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680462/s/handbag-32/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/638614/"
   },
   {
     "id": "HANDBAG2.19",
@@ -1050,7 +1005,22 @@
     "link": "https://www.langolo-calzature.it/it/brand/giulia/decolte-ante-lilas"
   },
   {
-    "id": "REGINEC.01",
+    "id": "HANDBAG.32",
+    "brand": "GIULIA",
+    "title": "HANDBAG.32",
+    "size": null,
+    "availability": "in_stock",
+    "price": "29.00 EUR",
+    "sale_price": "29.00 EUR",
+    "color": "MULTICOLOR",
+    "gender": "Donna",
+    "category": "ACCESSORI",
+    "season": "E24",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680462/s/handbag-32/category/304/"
+  },
+  {
+    "id": "REGINEC.01_39",
     "brand": "GIULIA",
     "title": "Decoltè in camoscio nero",
     "size": "39",
@@ -1060,12 +1030,12 @@
     "color": "NERO",
     "gender": "Donna",
     "category": "DECOLLETE",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/681634/s/decolte-in-camoscio-nero/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/681626/s/decolte-in-camoscio-nero/"
   },
   {
-    "id": "REGINEC.01",
+    "id": "REGINEC.01_40",
     "brand": "GIULIA",
     "title": "Decoltè in camoscio nero",
     "size": "40",
@@ -1075,15 +1045,30 @@
     "color": "NERO",
     "gender": "Donna",
     "category": "DECOLLETE",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/681634/s/decolte-in-camoscio-nero/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/681627/s/decolte-in-camoscio-nero/"
+  },
+  {
+    "id": "REGINEC.01_41",
+    "brand": "GIULIA",
+    "title": "Decoltè in camoscio nero",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "75.00 EUR",
+    "sale_price": "75.00 EUR",
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "DECOLLETE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/681628/s/decolte-in-camoscio-nero/"
   },
   {
     "id": "REGINEC.01",
     "brand": "GIULIA",
     "title": "Decoltè in camoscio nero",
-    "size": "41",
+    "size": null,
     "availability": "in_stock",
     "price": "75.00 EUR",
     "sale_price": "75.00 EUR",
@@ -1350,7 +1335,7 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/691860/s/handbag-gamo-ante/category/304/"
   },
   {
-    "id": "G12.08",
+    "id": "G12.08_36",
     "brand": "GIULIA",
     "title": "Ballerina Blanco Vernice",
     "size": "36",
@@ -1360,15 +1345,30 @@
     "color": "BIANCO",
     "gender": "Donna",
     "category": "BALLERINE",
-    "season": "E24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/692922/s/ballerina-blanco-vernice/category/109/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/692913/s/ballerina-blanco-vernice/"
+  },
+  {
+    "id": "G12.08_40",
+    "brand": "GIULIA",
+    "title": "Ballerina Blanco Vernice",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "BIANCO",
+    "gender": "Donna",
+    "category": "BALLERINE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/692917/s/ballerina-blanco-vernice/"
   },
   {
     "id": "G12.08",
     "brand": "GIULIA",
     "title": "Ballerina Blanco Vernice",
-    "size": "40",
+    "size": null,
     "availability": "in_stock",
     "price": "65.00 EUR",
     "sale_price": "65.00 EUR",
@@ -1384,21 +1384,6 @@
     "brand": "GIULIA",
     "title": "Scarpa a punta Charol Nude con slingback",
     "size": "37",
-    "availability": "in_stock",
-    "price": "75.00 EUR",
-    "sale_price": "75.00 EUR",
-    "color": "ROSA",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/g/8/g8shany.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694584/s/scarpa-a-punta-charol-nude-con-slingback/category/304/"
-  },
-  {
-    "id": "G8SHANY.14",
-    "brand": "GIULIA",
-    "title": "Scarpa a punta Charol Nude con slingback",
-    "size": "40",
     "availability": "in_stock",
     "price": "75.00 EUR",
     "sale_price": "75.00 EUR",
@@ -1467,7 +1452,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713549/s/mocassino-classico-in-pelle-marrone/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713549/s/mocassino-classico-in-pelle-marrone/category/423/"
   },
   {
     "id": "G1MOCK.02",
@@ -1482,7 +1467,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713549/s/mocassino-classico-in-pelle-marrone/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713549/s/mocassino-classico-in-pelle-marrone/category/423/"
   },
   {
     "id": "G1MOCK.02",
@@ -1497,7 +1482,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713549/s/mocassino-classico-in-pelle-marrone/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713549/s/mocassino-classico-in-pelle-marrone/category/423/"
   },
   {
     "id": "G1MOCK.02",
@@ -1512,7 +1497,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713549/s/mocassino-classico-in-pelle-marrone/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713549/s/mocassino-classico-in-pelle-marrone/category/423/"
   },
   {
     "id": "G1MOCK.06",
@@ -1527,7 +1512,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/423/"
   },
   {
     "id": "G1MOCK.06",
@@ -1542,7 +1527,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/423/"
   },
   {
     "id": "G1MOCK.06",
@@ -1557,22 +1542,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/304/"
-  },
-  {
-    "id": "G1MOCK.06",
-    "brand": "GIULIA",
-    "title": "Mocassino Classico in Pelle Blu",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/423/"
   },
   {
     "id": "G1MOCK.06",
@@ -1587,7 +1557,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/423/"
   },
   {
     "id": "G1MOCK.09",
@@ -1602,7 +1572,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713551/s/mocassini-classici-in-camoscio-cuoio/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713551/s/mocassini-classici-in-camoscio-cuoio/category/423/"
   },
   {
     "id": "G1MOCK.09",
@@ -1617,7 +1587,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713551/s/mocassini-classici-in-camoscio-cuoio/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713551/s/mocassini-classici-in-camoscio-cuoio/category/423/"
   },
   {
     "id": "G1MOCK.09",
@@ -1632,7 +1602,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713551/s/mocassini-classici-in-camoscio-cuoio/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713551/s/mocassini-classici-in-camoscio-cuoio/category/423/"
   },
   {
     "id": "G1MOCK.09",
@@ -1647,7 +1617,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713551/s/mocassini-classici-in-camoscio-cuoio/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713551/s/mocassini-classici-in-camoscio-cuoio/category/423/"
   },
   {
     "id": "G1MOCK.11",
@@ -1662,7 +1632,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/423/"
   },
   {
     "id": "G1MOCK.11",
@@ -1677,7 +1647,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/423/"
   },
   {
     "id": "G1MOCK.11",
@@ -1692,7 +1662,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/423/"
   },
   {
     "id": "G1MOCK.11",
@@ -1707,7 +1677,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/423/"
   },
   {
     "id": "G1MOCK.11",
@@ -1722,7 +1692,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/423/"
   },
   {
     "id": "G1MOCK.11",
@@ -1737,7 +1707,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/423/"
   },
   {
     "id": "G1MOCK.11",
@@ -1752,7 +1722,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/423/"
   },
   {
     "id": "G1MOCK.18",
@@ -1767,7 +1737,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.18-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/423/"
   },
   {
     "id": "G1MOCK.18",
@@ -1782,7 +1752,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.18-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/423/"
   },
   {
     "id": "G1MOCK.18",
@@ -1797,7 +1767,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.18-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/423/"
   },
   {
     "id": "G1MOCK.18",
@@ -1812,7 +1782,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.18-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/423/"
   },
   {
     "id": "G1MOCK.18",
@@ -1827,7 +1797,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.18-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/423/"
   },
   {
     "id": "G1MOCK.18",
@@ -1842,7 +1812,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.18-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/423/"
   },
   {
     "id": "G1MOCK.18",
@@ -1857,7 +1827,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.18-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/423/"
   },
   {
     "id": "G1MOCK.26",
@@ -1872,7 +1842,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/423/"
   },
   {
     "id": "G1MOCK.26",
@@ -1887,7 +1857,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/423/"
   },
   {
     "id": "G1MOCK.26",
@@ -1902,7 +1872,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/423/"
   },
   {
     "id": "G1MOCK.26",
@@ -1917,7 +1887,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/423/"
   },
   {
     "id": "G1MOCK.26",
@@ -1932,22 +1902,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/304/"
-  },
-  {
-    "id": "G1MOCK.26",
-    "brand": "GIULIA",
-    "title": "Mocassini Clasici in Camoscio Beige",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "VERDE",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/423/"
   },
   {
     "id": "G1MOCK.26",
@@ -1962,22 +1917,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/304/"
-  },
-  {
-    "id": "G1MOCK.50",
-    "brand": "GIULIA",
-    "title": "Mocassino Classico in Camoscio Lilla",
-    "size": "35",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "VIOLA",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.50-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/423/"
   },
   {
     "id": "G1MOCK.50",
@@ -1992,7 +1932,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.50-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/423/"
   },
   {
     "id": "G1MOCK.50",
@@ -2007,7 +1947,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.50-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/423/"
   },
   {
     "id": "G1MOCK.50",
@@ -2022,7 +1962,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.50-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/423/"
   },
   {
     "id": "G1MOCK.50",
@@ -2037,7 +1977,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.50-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/423/"
   },
   {
     "id": "G1MOCK6.06",
@@ -2052,7 +1992,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock6.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/423/"
   },
   {
     "id": "G1MOCK6.06",
@@ -2067,7 +2007,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock6.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/423/"
   },
   {
     "id": "G1MOCK6.06",
@@ -2082,7 +2022,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock6.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/423/"
   },
   {
     "id": "G1MOCK6.06",
@@ -2097,7 +2037,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock6.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/423/"
   },
   {
     "id": "G1MOCK6.06",
@@ -2112,7 +2052,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock6.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/423/"
   },
   {
     "id": "G1MOCK.02",
@@ -2127,7 +2067,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713549/s/mocassino-classico-in-pelle-marrone/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713549/s/mocassino-classico-in-pelle-marrone/category/423/"
   },
   {
     "id": "G1MOCK.06",
@@ -2142,7 +2082,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713550/s/mocassino-classico-in-pelle-blu/category/423/"
   },
   {
     "id": "G1MOCK.09",
@@ -2157,7 +2097,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713551/s/mocassini-classici-in-camoscio-cuoio/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713551/s/mocassini-classici-in-camoscio-cuoio/category/423/"
   },
   {
     "id": "G1MOCK.11",
@@ -2172,7 +2112,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713552/s/mocassino-classico-in-camoscio-rosso/category/423/"
   },
   {
     "id": "G1MOCK.18",
@@ -2187,7 +2127,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.18-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713553/s/mocassino-classico-in-camoscio-giallo/category/423/"
   },
   {
     "id": "G1MOCK.26",
@@ -2202,7 +2142,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713554/s/mocassini-clasici-in-camoscio-beige/category/423/"
   },
   {
     "id": "G1MOCK.50",
@@ -2217,7 +2157,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock.50-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713555/s/mocassino-classico-in-camoscio-lilla/category/423/"
   },
   {
     "id": "G1MOCK6.06",
@@ -2232,6 +2172,6 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/1/g1mock6.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/304/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/713556/s/mocassino-classico-in-camoscio-blu-notte/category/423/"
   }
 ]

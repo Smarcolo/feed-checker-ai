@@ -63,21 +63,6 @@
     "id": "ELBA.06",
     "brand": "DEFONSECA",
     "title": "Ciabatta in gomma con Teschi",
-    "size": "30",
-    "availability": "in_stock",
-    "price": "12.00 EUR",
-    "sale_price": "12.00 EUR",
-    "color": "BLU",
-    "gender": "Bambino",
-    "category": "CIABATTE",
-    "season": "E21",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/e/l/elba.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/de-fonseca/ciabatta-in-gomma-con-teschi"
-  },
-  {
-    "id": "ELBA.06",
-    "brand": "DEFONSECA",
-    "title": "Ciabatta in gomma con Teschi",
     "size": null,
     "availability": "in_stock",
     "price": "12.00 EUR",
@@ -120,9 +105,9 @@
     "link": "https://www.langolo-calzature.it/it/brand/de-fonseca/ciabatta-in-gomma-nera-con-palme"
   },
   {
-    "id": "LIPARI.06",
+    "id": "LIPARI.06_TU",
     "brand": "DEFONSECA",
-    "title": "LIPARI.06",
+    "title": "LIPARI.06_TU",
     "size": "UNICA",
     "availability": "in_stock",
     "price": "12.00 EUR",
@@ -130,9 +115,9 @@
     "color": "BLU",
     "gender": "Bambino",
     "category": "SANDALI",
-    "season": "E21",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680481/s/lipari-06/category/387/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/610009/"
   },
   {
     "id": "AOSTAK792.06",
@@ -148,21 +133,6 @@
     "season": "I21",
     "image": "https://www.langolo-calzature.it/media/catalog/product/a/o/aostak792.06-0000.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/de-fonseca/pantofola-spiderman-blu"
-  },
-  {
-    "id": "ROMAU797.06",
-    "brand": "DEFONSECA",
-    "title": "Ciabatte Paw Patrol Blu",
-    "size": "32",
-    "availability": "in_stock",
-    "price": "12.00 EUR",
-    "sale_price": "5.00 EUR",
-    "color": "BLU",
-    "gender": "Bambino",
-    "category": "CIABATTE",
-    "season": "I21",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/r/o/romau797.06-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/de-fonseca/ciabatte-paw-patrol-blu"
   },
   {
     "id": "ROMAU797.14",
@@ -238,21 +208,6 @@
     "season": "I21",
     "image": "https://www.langolo-calzature.it/media/catalog/product/a/o/aostak792.06-0000.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/pantofola-spiderman-blu"
-  },
-  {
-    "id": "ROMAU797.06",
-    "brand": "DEFONSECA",
-    "title": "Ciabatte Paw Patrol Blu",
-    "size": null,
-    "availability": "in_stock",
-    "price": "12.00 EUR",
-    "sale_price": "5.00 EUR",
-    "color": "BLU",
-    "gender": "Bambino",
-    "category": "CIABATTE",
-    "season": "I21",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/r/o/romau797.06-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/ciabatte-paw-patrol-blu"
   },
   {
     "id": "ROMAU797.14",
@@ -1815,21 +1770,6 @@
     "link": "https://www.langolo-calzature.it/it/brand/de-fonseca/ciabatta-in-gomma-bianca-con-conchiglie-e-zeppa"
   },
   {
-    "id": "SESTRIW920.01",
-    "brand": "DEFONSECA",
-    "title": "Ciabatta in gomma nera con maxi fibbia",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "19.00 EUR",
-    "sale_price": "19.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/e/sestriw920.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/de-fonseca/ciabatta-in-gomma-nera-con-maxi-fibbia"
-  },
-  {
     "id": "SESTRIW920.08",
     "brand": "DEFONSECA",
     "title": "Ciabatta in gomma tie-dye con maxi fibbia",
@@ -1993,21 +1933,6 @@
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/o/r/oroseiw917.08-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/ciabatta-in-gomma-bianca-con-conchiglie-e-zeppa"
-  },
-  {
-    "id": "SESTRIW920.01",
-    "brand": "DEFONSECA",
-    "title": "Ciabatta in gomma nera con maxi fibbia",
-    "size": null,
-    "availability": "in_stock",
-    "price": "19.00 EUR",
-    "sale_price": "19.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/e/sestriw920.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/de-fonseca/ciabatta-in-gomma-nera-con-maxi-fibbia"
   },
   {
     "id": "SESTRIW920.08",
@@ -2653,6 +2578,21 @@
     "season": "I23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/d/e/deromaw923.11-0000.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680434/s/ciabatte-rosse-e-bianche-winter-campanellini/category/478/"
+  },
+  {
+    "id": "LIPARI.06",
+    "brand": "DEFONSECA",
+    "title": "LIPARI.06",
+    "size": null,
+    "availability": "in_stock",
+    "price": "12.00 EUR",
+    "sale_price": "12.00 EUR",
+    "color": "BLU",
+    "gender": "Bambino",
+    "category": "SANDALI",
+    "season": "E21",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680481/s/lipari-06/category/387/"
   },
   {
     "id": "TREGUA",

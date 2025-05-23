@@ -120,7 +120,7 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/695379/s/hoctavy-argent-fonce/category/310/"
   },
   {
-    "id": "C330159.16",
+    "id": "C330159.16_36",
     "brand": "LES TROPEZIENNES",
     "title": "Sandalo minimal nero con strass",
     "size": "36",
@@ -130,12 +130,12 @@
     "color": "NERO",
     "gender": "Donna",
     "category": "SANDALI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723239/s/sandalo-minimal-nero-con-strass/category/310/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723165/s/sandalo-minimal-nero-con-strass/"
   },
   {
-    "id": "C330159.16",
+    "id": "C330159.16_37",
     "brand": "LES TROPEZIENNES",
     "title": "Sandalo minimal nero con strass",
     "size": "37",
@@ -145,12 +145,12 @@
     "color": "NERO",
     "gender": "Donna",
     "category": "SANDALI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723239/s/sandalo-minimal-nero-con-strass/category/310/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723166/s/sandalo-minimal-nero-con-strass/"
   },
   {
-    "id": "C330159.16",
+    "id": "C330159.16_38",
     "brand": "LES TROPEZIENNES",
     "title": "Sandalo minimal nero con strass",
     "size": "38",
@@ -160,12 +160,12 @@
     "color": "NERO",
     "gender": "Donna",
     "category": "SANDALI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723239/s/sandalo-minimal-nero-con-strass/category/310/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723167/s/sandalo-minimal-nero-con-strass/"
   },
   {
-    "id": "C330159.16",
+    "id": "C330159.16_39",
     "brand": "LES TROPEZIENNES",
     "title": "Sandalo minimal nero con strass",
     "size": "39",
@@ -175,12 +175,12 @@
     "color": "NERO",
     "gender": "Donna",
     "category": "SANDALI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723239/s/sandalo-minimal-nero-con-strass/category/310/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723168/s/sandalo-minimal-nero-con-strass/"
   },
   {
-    "id": "C330159.16",
+    "id": "C330159.16_40",
     "brand": "LES TROPEZIENNES",
     "title": "Sandalo minimal nero con strass",
     "size": "40",
@@ -190,12 +190,12 @@
     "color": "NERO",
     "gender": "Donna",
     "category": "SANDALI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723239/s/sandalo-minimal-nero-con-strass/category/310/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723169/s/sandalo-minimal-nero-con-strass/"
   },
   {
-    "id": "C330159.16",
+    "id": "C330159.16_41",
     "brand": "LES TROPEZIENNES",
     "title": "Sandalo minimal nero con strass",
     "size": "41",
@@ -205,24 +205,9 @@
     "color": "NERO",
     "gender": "Donna",
     "category": "SANDALI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723239/s/sandalo-minimal-nero-con-strass/category/310/"
-  },
-  {
-    "id": "C330801.ANI",
-    "brand": "LES TROPEZIENNES",
-    "title": "Sandalo animalier Les Tropéziennes",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "ANIMALIER",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/3/c330801.ani-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723240/s/sandalo-animalier-les-tropeziennes/category/310/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723170/s/sandalo-minimal-nero-con-strass/"
   },
   {
     "id": "C330801.ANI",
@@ -553,6 +538,21 @@
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/c/3/c330970.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723243/s/sandalo-multianimalier-les-tropeziennes/category/310/"
+  },
+  {
+    "id": "C330159.16",
+    "brand": "LES TROPEZIENNES",
+    "title": "Sandalo minimal nero con strass",
+    "size": null,
+    "availability": "in_stock",
+    "price": "75.00 EUR",
+    "sale_price": "75.00 EUR",
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723239/s/sandalo-minimal-nero-con-strass/category/310/"
   },
   {
     "id": "C330801.ANI",
@@ -723,21 +723,6 @@
     "id": "C330824.ANI",
     "brand": "LES TROPEZIENNES",
     "title": "Sandalo flat animalier intrecciato",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "ANIMALIER",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/3/c330824.ani-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723573/s/sandalo-flat-animalier-intrecciato/category/310/"
-  },
-  {
-    "id": "C330824.ANI",
-    "brand": "LES TROPEZIENNES",
-    "title": "Sandalo flat animalier intrecciato",
     "size": "37",
     "availability": "in_stock",
     "price": "69.00 EUR",
@@ -784,21 +769,6 @@
     "brand": "LES TROPEZIENNES",
     "title": "Sandalo flat animalier intrecciato",
     "size": "40",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "ANIMALIER",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/3/c330824.ani-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723573/s/sandalo-flat-animalier-intrecciato/category/310/"
-  },
-  {
-    "id": "C330824.ANI",
-    "brand": "LES TROPEZIENNES",
-    "title": "Sandalo flat animalier intrecciato",
-    "size": "41",
     "availability": "in_stock",
     "price": "69.00 EUR",
     "sale_price": "69.00 EUR",

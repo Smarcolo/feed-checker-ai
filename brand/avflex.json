@@ -186,7 +186,7 @@
     "size": "37",
     "availability": "in_stock",
     "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
+    "sale_price": "39.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -201,7 +201,7 @@
     "size": "38",
     "availability": "in_stock",
     "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
+    "sale_price": "39.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -216,28 +216,13 @@
     "size": "39",
     "availability": "in_stock",
     "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
+    "sale_price": "39.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SNEAKERS",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf401.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689962/s/slipon-in-tessuto-elastico-nero/category/844/"
-  },
-  {
-    "id": "LF401.28",
-    "brand": "AVFLEX",
-    "title": "Slipon in Tessuto Elastico Grigio",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf401.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689963/s/slipon-in-tessuto-elastico-grigio/category/844/"
   },
   {
     "id": "LF401.28",
@@ -246,7 +231,7 @@
     "size": "37",
     "availability": "in_stock",
     "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
+    "sale_price": "39.00 EUR",
     "color": "GRIGIO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -261,7 +246,7 @@
     "size": "38",
     "availability": "in_stock",
     "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
+    "sale_price": "39.00 EUR",
     "color": "GRIGIO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -276,7 +261,7 @@
     "size": "39",
     "availability": "in_stock",
     "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
+    "sale_price": "39.00 EUR",
     "color": "GRIGIO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -291,22 +276,7 @@
     "size": "40",
     "availability": "in_stock",
     "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf401.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689963/s/slipon-in-tessuto-elastico-grigio/category/844/"
-  },
-  {
-    "id": "LF401.28",
-    "brand": "AVFLEX",
-    "title": "Slipon in Tessuto Elastico Grigio",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
+    "sale_price": "39.00 EUR",
     "color": "GRIGIO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -336,7 +306,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
+    "sale_price": "39.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -351,7 +321,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "39.00 EUR",
-    "sale_price": "35.10 EUR",
+    "sale_price": "39.00 EUR",
     "color": "GRIGIO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -621,7 +591,7 @@
     "size": "36",
     "availability": "in_stock",
     "price": "45.00 EUR",
-    "sale_price": "40.50 EUR",
+    "sale_price": "45.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SCARPE SPORTIVE",
@@ -636,7 +606,7 @@
     "size": "37",
     "availability": "in_stock",
     "price": "45.00 EUR",
-    "sale_price": "40.50 EUR",
+    "sale_price": "45.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SCARPE SPORTIVE",
@@ -651,7 +621,7 @@
     "size": "38",
     "availability": "in_stock",
     "price": "45.00 EUR",
-    "sale_price": "40.50 EUR",
+    "sale_price": "45.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SCARPE SPORTIVE",
@@ -666,7 +636,7 @@
     "size": "39",
     "availability": "in_stock",
     "price": "45.00 EUR",
-    "sale_price": "40.50 EUR",
+    "sale_price": "45.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SCARPE SPORTIVE",
@@ -681,7 +651,7 @@
     "size": "40",
     "availability": "in_stock",
     "price": "45.00 EUR",
-    "sale_price": "40.50 EUR",
+    "sale_price": "45.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SCARPE SPORTIVE",
@@ -696,43 +666,13 @@
     "size": "41",
     "availability": "in_stock",
     "price": "45.00 EUR",
-    "sale_price": "40.50 EUR",
+    "sale_price": "45.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SCARPE SPORTIVE",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf400.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717867/s/sneakers-nere-running-leggere/category/419/"
-  },
-  {
-    "id": "LF502.06",
-    "brand": "AVFLEX",
-    "title": "Ballerine Blu Con Zeppa Traforate",
-    "size": "35",
-    "availability": "in_stock",
-    "price": "45.00 EUR",
-    "sale_price": "45.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "DECOLLETE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf502.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717868/s/ballerine-blu-con-zeppa-traforate/category/844/"
-  },
-  {
-    "id": "LF502.06",
-    "brand": "AVFLEX",
-    "title": "Ballerine Blu Con Zeppa Traforate",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "45.00 EUR",
-    "sale_price": "45.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "DECOLLETE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf502.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717868/s/ballerine-blu-con-zeppa-traforate/category/844/"
   },
   {
     "id": "LF502.06",
@@ -882,25 +822,10 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf508.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717870/s/mocassini-beige-scamosciati-con-zeppa/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717870/s/mocassini-beige-scamosciati-con-zeppa/category/423/"
   },
   {
-    "id": "LF508.09",
-    "brand": "AVFLEX",
-    "title": "Mocassini Beige Scamosciati Con Zeppa",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "49.00 EUR",
-    "sale_price": "49.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf508.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717870/s/mocassini-beige-scamosciati-con-zeppa/category/844/"
-  },
-  {
-    "id": "LF513.02",
+    "id": "LF513.02_36",
     "brand": "AVFLEX",
     "title": "Mocassini Cuoio Con Suola Chunky",
     "size": "36",
@@ -910,12 +835,12 @@
     "color": "MARRONE",
     "gender": "Donna",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717871/s/mocassini-cuoio-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717831/s/mocassini-cuoio-con-suola-chunky/"
   },
   {
-    "id": "LF513.02",
+    "id": "LF513.02_37",
     "brand": "AVFLEX",
     "title": "Mocassini Cuoio Con Suola Chunky",
     "size": "37",
@@ -925,12 +850,12 @@
     "color": "MARRONE",
     "gender": "Donna",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717871/s/mocassini-cuoio-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717832/s/mocassini-cuoio-con-suola-chunky/"
   },
   {
-    "id": "LF513.02",
+    "id": "LF513.02_38",
     "brand": "AVFLEX",
     "title": "Mocassini Cuoio Con Suola Chunky",
     "size": "38",
@@ -940,12 +865,12 @@
     "color": "MARRONE",
     "gender": "Donna",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717871/s/mocassini-cuoio-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717833/s/mocassini-cuoio-con-suola-chunky/"
   },
   {
-    "id": "LF513.02",
+    "id": "LF513.02_39",
     "brand": "AVFLEX",
     "title": "Mocassini Cuoio Con Suola Chunky",
     "size": "39",
@@ -955,12 +880,12 @@
     "color": "MARRONE",
     "gender": "Donna",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717871/s/mocassini-cuoio-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717834/s/mocassini-cuoio-con-suola-chunky/"
   },
   {
-    "id": "LF513.02",
+    "id": "LF513.02_40",
     "brand": "AVFLEX",
     "title": "Mocassini Cuoio Con Suola Chunky",
     "size": "40",
@@ -970,12 +895,12 @@
     "color": "MARRONE",
     "gender": "Donna",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717871/s/mocassini-cuoio-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717835/s/mocassini-cuoio-con-suola-chunky/"
   },
   {
-    "id": "LF513.02",
+    "id": "LF513.02_41",
     "brand": "AVFLEX",
     "title": "Mocassini Cuoio Con Suola Chunky",
     "size": "41",
@@ -985,9 +910,9 @@
     "color": "MARRONE",
     "gender": "Donna",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717871/s/mocassini-cuoio-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717836/s/mocassini-cuoio-con-suola-chunky/"
   },
   {
     "id": "LF513.09",
@@ -1002,22 +927,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717872/s/mocassini-beige-con-suola-chunky/category/844/"
-  },
-  {
-    "id": "LF513.09",
-    "brand": "AVFLEX",
-    "title": "Mocassini Beige Con Suola Chunky",
-    "size": "37",
-    "availability": "in_stock",
-    "price": "49.00 EUR",
-    "sale_price": "49.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717872/s/mocassini-beige-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717872/s/mocassini-beige-con-suola-chunky/category/423/"
   },
   {
     "id": "LF513.09",
@@ -1032,7 +942,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717872/s/mocassini-beige-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717872/s/mocassini-beige-con-suola-chunky/category/423/"
   },
   {
     "id": "LF513.09",
@@ -1047,7 +957,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717872/s/mocassini-beige-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717872/s/mocassini-beige-con-suola-chunky/category/423/"
   },
   {
     "id": "LF400.01",
@@ -1056,7 +966,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "45.00 EUR",
-    "sale_price": "40.50 EUR",
+    "sale_price": "45.00 EUR",
     "color": "NERO",
     "gender": "Donna",
     "category": "SCARPE SPORTIVE",
@@ -1107,7 +1017,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf508.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717870/s/mocassini-beige-scamosciati-con-zeppa/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717870/s/mocassini-beige-scamosciati-con-zeppa/category/423/"
   },
   {
     "id": "LF513.09",
@@ -1122,7 +1032,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717872/s/mocassini-beige-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717872/s/mocassini-beige-con-suola-chunky/category/423/"
   },
   {
     "id": "LF513.06",
@@ -1137,7 +1047,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/423/"
   },
   {
     "id": "LF513.06",
@@ -1152,22 +1062,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/844/"
-  },
-  {
-    "id": "LF513.06",
-    "brand": "AVFLEX",
-    "title": "Mocassini Blu Con Suola Chunky",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "49.00 EUR",
-    "sale_price": "49.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/423/"
   },
   {
     "id": "LF513.06",
@@ -1182,22 +1077,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/844/"
-  },
-  {
-    "id": "LF513.06",
-    "brand": "AVFLEX",
-    "title": "Mocassini Blu Con Suola Chunky",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "49.00 EUR",
-    "sale_price": "49.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/423/"
   },
   {
     "id": "LF513.06",
@@ -1212,7 +1092,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/423/"
   },
   {
     "id": "LF513.06",
@@ -1227,7 +1107,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf513.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/844/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717904/s/mocassini-blu-con-suola-chunky/category/423/"
   },
   {
     "id": "LF409.06",
@@ -1236,37 +1116,7 @@
     "size": "36",
     "availability": "in_stock",
     "price": "49.00 EUR",
-    "sale_price": "44.10 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf409.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720685/s/sneakers-comfort-blu-con-strass-traforati/category/844/"
-  },
-  {
-    "id": "LF409.06",
-    "brand": "AVFLEX",
-    "title": "Sneakers Comfort Blu con Strass Traforati",
-    "size": "37",
-    "availability": "in_stock",
-    "price": "49.00 EUR",
-    "sale_price": "44.10 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf409.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720685/s/sneakers-comfort-blu-con-strass-traforati/category/844/"
-  },
-  {
-    "id": "LF409.06",
-    "brand": "AVFLEX",
-    "title": "Sneakers Comfort Blu con Strass Traforati",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "49.00 EUR",
-    "sale_price": "44.10 EUR",
+    "sale_price": "49.00 EUR",
     "color": "BLU",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -1281,22 +1131,7 @@
     "size": "40",
     "availability": "in_stock",
     "price": "49.00 EUR",
-    "sale_price": "44.10 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/l/f/lf409.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720685/s/sneakers-comfort-blu-con-strass-traforati/category/844/"
-  },
-  {
-    "id": "LF409.06",
-    "brand": "AVFLEX",
-    "title": "Sneakers Comfort Blu con Strass Traforati",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "49.00 EUR",
-    "sale_price": "44.10 EUR",
+    "sale_price": "49.00 EUR",
     "color": "BLU",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -1311,7 +1146,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "49.00 EUR",
-    "sale_price": "44.10 EUR",
+    "sale_price": "49.00 EUR",
     "color": "BLU",
     "gender": "Donna",
     "category": "SNEAKERS",

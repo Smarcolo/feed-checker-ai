@@ -120,7 +120,7 @@
     "link": "https://www.langolo-calzature.it/it/brand/aku/pedula-ultralight-micro-gtw-green"
   },
   {
-    "id": "593W.01",
+    "id": "593W.01_41",
     "brand": "AKU",
     "title": "Pedula Superalp Wide Gtx Anthracite Orange",
     "size": "41",
@@ -130,12 +130,12 @@
     "color": "NERO",
     "gender": "Uomo",
     "category": "TRONCHETTI",
-    "season": "I24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/709259/s/pedula-superalp-wide-gtx-anthracite-orange/category/162/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/709214/s/pedula-superalp-wide-gtx-anthracite-orange/"
   },
   {
-    "id": "593W.01",
+    "id": "593W.01_41,5",
     "brand": "AKU",
     "title": "Pedula Superalp Wide Gtx Anthracite Orange",
     "size": "41,5",
@@ -145,12 +145,12 @@
     "color": "NERO",
     "gender": "Uomo",
     "category": "TRONCHETTI",
-    "season": "I24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/709259/s/pedula-superalp-wide-gtx-anthracite-orange/category/162/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/709215/s/pedula-superalp-wide-gtx-anthracite-orange/"
   },
   {
-    "id": "593W.01",
+    "id": "593W.01_42",
     "brand": "AKU",
     "title": "Pedula Superalp Wide Gtx Anthracite Orange",
     "size": "42",
@@ -160,12 +160,12 @@
     "color": "NERO",
     "gender": "Uomo",
     "category": "TRONCHETTI",
-    "season": "I24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/709259/s/pedula-superalp-wide-gtx-anthracite-orange/category/162/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/709216/s/pedula-superalp-wide-gtx-anthracite-orange/"
   },
   {
-    "id": "593W.01",
+    "id": "593W.01_42,5",
     "brand": "AKU",
     "title": "Pedula Superalp Wide Gtx Anthracite Orange",
     "size": "42,5",
@@ -175,15 +175,30 @@
     "color": "NERO",
     "gender": "Uomo",
     "category": "TRONCHETTI",
-    "season": "I24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/709259/s/pedula-superalp-wide-gtx-anthracite-orange/category/162/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/709217/s/pedula-superalp-wide-gtx-anthracite-orange/"
+  },
+  {
+    "id": "593W.01_43",
+    "brand": "AKU",
+    "title": "Pedula Superalp Wide Gtx Anthracite Orange",
+    "size": "43",
+    "availability": "in_stock",
+    "price": "299.00 EUR",
+    "sale_price": "149.50 EUR",
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "TRONCHETTI",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/709218/s/pedula-superalp-wide-gtx-anthracite-orange/"
   },
   {
     "id": "593W.01",
     "brand": "AKU",
     "title": "Pedula Superalp Wide Gtx Anthracite Orange",
-    "size": "43",
+    "size": null,
     "availability": "in_stock",
     "price": "299.00 EUR",
     "sale_price": "149.50 EUR",

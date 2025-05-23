@@ -285,9 +285,9 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680174/s/stivaletto-italiano-tacco-4-cm/category/54/"
   },
   {
-    "id": "1171",
+    "id": "1171_39",
     "brand": "SUPERVARESE",
-    "title": "1171",
+    "title": "1171_39",
     "size": "39",
     "availability": "in_stock",
     "price": "120.00 EUR",
@@ -295,9 +295,9 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E14",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680169/s/1171/category/9/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/593845/"
   },
   {
     "id": "1050.06",
@@ -394,21 +394,6 @@
     "brand": "SUPERVARESE",
     "title": "Derby in Vitello Fox Blu",
     "size": "45",
-    "availability": "in_stock",
-    "price": "149.00 EUR",
-    "sale_price": "149.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/0/1050.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/super-varese/derby-in-vitello-fox-blu"
-  },
-  {
-    "id": "1050.06",
-    "brand": "SUPERVARESE",
-    "title": "Derby in Vitello Fox Blu",
-    "size": "47",
     "availability": "in_stock",
     "price": "149.00 EUR",
     "sale_price": "149.00 EUR",
@@ -957,7 +942,7 @@
     "category": "SCARPE DA BALLO",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/0/8001fc.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/scarpa-stringata-in-pelle-nera-liscia"
+    "link": "https://www.langolo-calzature.it/it/brand/super-varese/scarpa-stringata-in-pelle-nera-liscia"
   },
   {
     "id": "8004FC.01",
@@ -972,7 +957,7 @@
     "category": "SCARPE DA BALLO",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/0/8004fc.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/scarpa-stringata-nera-con-coda-di-rondine"
+    "link": "https://www.langolo-calzature.it/it/brand/super-varese/scarpa-stringata-nera-con-coda-di-rondine"
   },
   {
     "id": "1427.02",
@@ -1065,6 +1050,36 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/664580/s/sneaker-in-pelle-e-camoscio-moro/category/364/"
   },
   {
+    "id": "1525.06",
+    "brand": "SUPERVARESE",
+    "title": "Scarpa Stringata n pelle e camoscio blu",
+    "size": null,
+    "availability": "in_stock",
+    "price": "0.00 EUR",
+    "sale_price": "0.00 EUR",
+    "color": "BLU",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "I23",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/5/1525.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/664581/s/sneaker-in-pelle-e-camoscio-blu/category/367/"
+  },
+  {
+    "id": "1171",
+    "brand": "SUPERVARESE",
+    "title": "1171",
+    "size": null,
+    "availability": "in_stock",
+    "price": "120.00 EUR",
+    "sale_price": "120.00 EUR",
+    "color": "MARRONE",
+    "gender": "Uomo",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E14",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680169/s/1171/category/9/"
+  },
+  {
     "id": "1315.01",
     "brand": "SUPERVARESE",
     "title": "Stivaletto Italiano Tacco 4 cm",
@@ -1144,21 +1159,6 @@
     "brand": "SUPERVARESE",
     "title": "Scarpa stringata in pelle cacao fondo cuoio",
     "size": "41",
-    "availability": "in_stock",
-    "price": "149.00 EUR",
-    "sale_price": "149.00 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/0/10501076.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/685854/s/scarpa-stringata-in-pelle-cacao-fondo-cuoio/category/54/"
-  },
-  {
-    "id": "10501076.02",
-    "brand": "SUPERVARESE",
-    "title": "Scarpa stringata in pelle cacao fondo cuoio",
-    "size": "41,5",
     "availability": "in_stock",
     "price": "149.00 EUR",
     "sale_price": "149.00 EUR",
@@ -1398,21 +1398,6 @@
     "id": "1161.06",
     "brand": "SUPERVARESE",
     "title": "Scarpa stringata in pelle blu",
-    "size": "47",
-    "availability": "in_stock",
-    "price": "149.00 EUR",
-    "sale_price": "149.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/1161.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/688020/s/scarpa-stringata-in-pelle-blu/category/54/"
-  },
-  {
-    "id": "1161.06",
-    "brand": "SUPERVARESE",
-    "title": "Scarpa stringata in pelle blu",
     "size": null,
     "availability": "in_stock",
     "price": "149.00 EUR",
@@ -1431,7 +1416,7 @@
     "size": "39",
     "availability": "in_stock",
     "price": "75.00 EUR",
-    "sale_price": "67.50 EUR",
+    "sale_price": "75.00 EUR",
     "color": "BIANCO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -1446,7 +1431,7 @@
     "size": "41",
     "availability": "in_stock",
     "price": "75.00 EUR",
-    "sale_price": "67.50 EUR",
+    "sale_price": "75.00 EUR",
     "color": "BIANCO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -1461,7 +1446,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "75.00 EUR",
-    "sale_price": "67.50 EUR",
+    "sale_price": "75.00 EUR",
     "color": "BIANCO",
     "gender": "Donna",
     "category": "SNEAKERS",

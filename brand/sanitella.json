@@ -45,7 +45,7 @@
     "link": "https://www.langolo-calzature.it/it/brand/zoccolo-anatomico-in-legno"
   },
   {
-    "id": "011.09",
+    "id": "011.09_40",
     "brand": "SANITELLA",
     "title": "Zoccolo Anatomico in Legno",
     "size": "40",
@@ -55,12 +55,12 @@
     "color": "BEIGE",
     "gender": "Uomo",
     "category": "CIABATTE",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680117/s/011-09/category/822/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/663361/s/011-09-40/"
   },
   {
-    "id": "011.09",
+    "id": "011.09_41",
     "brand": "SANITELLA",
     "title": "Zoccolo Anatomico in Legno",
     "size": "41",
@@ -70,12 +70,12 @@
     "color": "BEIGE",
     "gender": "Uomo",
     "category": "CIABATTE",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680117/s/011-09/category/822/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/663362/s/011-09-41/"
   },
   {
-    "id": "011.09",
+    "id": "011.09_43",
     "brand": "SANITELLA",
     "title": "Zoccolo Anatomico in Legno",
     "size": "43",
@@ -85,12 +85,12 @@
     "color": "BEIGE",
     "gender": "Uomo",
     "category": "CIABATTE",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680117/s/011-09/category/822/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/663364/s/011-09-43/"
   },
   {
-    "id": "011.09",
+    "id": "011.09_44",
     "brand": "SANITELLA",
     "title": "Zoccolo Anatomico in Legno",
     "size": "44",
@@ -100,12 +100,12 @@
     "color": "BEIGE",
     "gender": "Uomo",
     "category": "CIABATTE",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680117/s/011-09/category/822/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/663365/s/011-09-44/"
   },
   {
-    "id": "011.09",
+    "id": "011.09_45",
     "brand": "SANITELLA",
     "title": "Zoccolo Anatomico in Legno",
     "size": "45",
@@ -115,15 +115,30 @@
     "color": "BEIGE",
     "gender": "Uomo",
     "category": "CIABATTE",
-    "season": "E25",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680117/s/011-09/category/822/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/663366/s/011-09-45/"
+  },
+  {
+    "id": "011.09_46",
+    "brand": "SANITELLA",
+    "title": "Zoccolo Anatomico in Legno",
+    "size": "46",
+    "availability": "in_stock",
+    "price": "28.00 EUR",
+    "sale_price": "28.00 EUR",
+    "color": "BEIGE",
+    "gender": "Uomo",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/663367/s/011-09-46/"
   },
   {
     "id": "011.09",
     "brand": "SANITELLA",
     "title": "Zoccolo Anatomico in Legno",
-    "size": "46",
+    "size": null,
     "availability": "in_stock",
     "price": "28.00 EUR",
     "sale_price": "28.00 EUR",

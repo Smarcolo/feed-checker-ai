@@ -45,7 +45,7 @@
     "link": "https://www.langolo-calzature.it/it/brand/mocassino-nero-con-treccia"
   },
   {
-    "id": "5411.01",
+    "id": "5411.01_43",
     "brand": "KLACKSON",
     "title": "Mocassino con Lacci in Pelle Nera",
     "size": "43",
@@ -55,15 +55,30 @@
     "color": "NERO",
     "gender": "Uomo",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I17",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680278/s/5411-01/category/364/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/141147/s/product-url-141147/"
+  },
+  {
+    "id": "5411.01_45",
+    "brand": "KLACKSON",
+    "title": "Mocassino con Lacci in Pelle Nera",
+    "size": "45",
+    "availability": "in_stock",
+    "price": "35.00 EUR",
+    "sale_price": "19.00 EUR",
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/141150/s/product-url-141150/"
   },
   {
     "id": "5411.01",
     "brand": "KLACKSON",
     "title": "Mocassino con Lacci in Pelle Nera",
-    "size": "45",
+    "size": null,
     "availability": "in_stock",
     "price": "35.00 EUR",
     "sale_price": "19.00 EUR",

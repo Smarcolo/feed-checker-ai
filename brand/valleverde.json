@@ -48,21 +48,6 @@
     "id": "25322.01",
     "brand": "VALLEVERDE",
     "title": "Sandalo in Tessuto Elasticizzato Nero",
-    "size": "39",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/2/5/25322.01-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/valleverde/sandalo-in-tessuto-elasticizzato-nero"
-  },
-  {
-    "id": "25322.01",
-    "brand": "VALLEVERDE",
-    "title": "Sandalo in Tessuto Elasticizzato Nero",
     "size": "40",
     "availability": "in_stock",
     "price": "39.00 EUR",
@@ -198,21 +183,6 @@
     "id": "11833.06",
     "brand": "VALLEVERDE",
     "title": "Mocassino in Camoscio Blu",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/11833.06-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/mocassino-in-camoscio-blu-da-uomo"
-  },
-  {
-    "id": "11833.06",
-    "brand": "VALLEVERDE",
-    "title": "Mocassino in Camoscio Blu",
     "size": null,
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -253,36 +223,6 @@
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36605.06-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/valleverde/ballerina-in-camoscio-traforato-blu"
-  },
-  {
-    "id": "95430.09",
-    "brand": "VALLEVERDE",
-    "title": "Postina beige logata",
-    "size": "UNICA",
-    "availability": "in_stock",
-    "price": "84.00 EUR",
-    "sale_price": "84.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "ACCESSORI",
-    "season": "E22",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/9/5/95430.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/valleverde/postina-beige-logata"
-  },
-  {
-    "id": "95430.09",
-    "brand": "VALLEVERDE",
-    "title": "Postina beige logata",
-    "size": null,
-    "availability": "in_stock",
-    "price": "84.00 EUR",
-    "sale_price": "84.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "ACCESSORI",
-    "season": "E22",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/9/5/95430.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/valleverde/postina-beige-logata"
   },
   {
     "id": "28216.06",
@@ -342,7 +282,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36480.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/valleverde/mocassino-cuoio-con-morsetto-e-suola-bianca"
+    "link": "https://www.langolo-calzature.it/it/donna/mocassino-cuoio-con-morsetto-e-suola-bianca"
   },
   {
     "id": "36871C.06",
@@ -372,7 +312,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36480.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/valleverde/mocassino-cuoio-con-morsetto-e-suola-bianca"
+    "link": "https://www.langolo-calzature.it/it/brand/mocassino-cuoio-con-morsetto-e-suola-bianca"
   },
   {
     "id": "36871C.06",
@@ -583,6 +523,21 @@
     "season": "I23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/v/g/vg850ig.02-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/678173/s/ciabatta-ingrassato-marrone-fusbet/category/354/"
+  },
+  {
+    "id": "VS10410.01",
+    "brand": "VALLEVERDE",
+    "title": "Chelsea in pelle con zeppa",
+    "size": null,
+    "availability": "in_stock",
+    "price": "0.00 EUR",
+    "sale_price": "0.00 EUR",
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "TRONCHETTI",
+    "season": "I23",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/s/vs10410.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/678175/s/chelsea-in-pelle-con-zeppa/category/222/"
   },
   {
     "id": "47520.02",
@@ -861,28 +816,13 @@
     "size": "37",
     "availability": "in_stock",
     "price": "79.00 EUR",
-    "sale_price": "71.10 EUR",
+    "sale_price": "79.00 EUR",
     "color": "BLU",
     "gender": "Donna",
     "category": "SNEAKERS",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36392.06-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689143/s/slip-on-in-pelle-traforata-blu/category/222/"
-  },
-  {
-    "id": "49877.02",
-    "brand": "VALLEVERDE",
-    "title": "Mocassino in pelle marrone con fondo Extralight",
-    "size": "39",
-    "availability": "in_stock",
-    "price": "99.00 EUR",
-    "sale_price": "99.00 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/9/49877.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689145/s/mocassino-in-pelle-marrone-con-fondo-extralight/category/222/"
   },
   {
     "id": "49877.02",
@@ -897,7 +837,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/9/49877.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689145/s/mocassino-in-pelle-marrone-con-fondo-extralight/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689145/s/mocassino-in-pelle-marrone-con-fondo-extralight/category/515/"
   },
   {
     "id": "V32101.15",
@@ -966,7 +906,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "79.00 EUR",
-    "sale_price": "71.10 EUR",
+    "sale_price": "79.00 EUR",
     "color": "BLU",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -987,7 +927,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/9/49877.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689145/s/mocassino-in-pelle-marrone-con-fondo-extralight/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689145/s/mocassino-in-pelle-marrone-con-fondo-extralight/category/515/"
   },
   {
     "id": "V32101.15",
@@ -1068,7 +1008,37 @@
     "id": "VS10100.01",
     "brand": "VALLEVERDE",
     "title": "Ballerine in Pelle Nera con Fiocco",
+    "size": "36",
+    "availability": "in_stock",
+    "price": "69.00 EUR",
+    "sale_price": "69.00 EUR",
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "BALLERINE",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/s/vs10100.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690124/s/ballerina-nera-con-gala-e-fondo-gomma/category/222/"
+  },
+  {
+    "id": "VS10100.01",
+    "brand": "VALLEVERDE",
+    "title": "Ballerine in Pelle Nera con Fiocco",
     "size": "37",
+    "availability": "in_stock",
+    "price": "69.00 EUR",
+    "sale_price": "69.00 EUR",
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "BALLERINE",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/s/vs10100.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690124/s/ballerina-nera-con-gala-e-fondo-gomma/category/222/"
+  },
+  {
+    "id": "VS10100.01",
+    "brand": "VALLEVERDE",
+    "title": "Ballerine in Pelle Nera con Fiocco",
+    "size": "38",
     "availability": "in_stock",
     "price": "69.00 EUR",
     "sale_price": "69.00 EUR",
@@ -1099,6 +1069,21 @@
     "brand": "VALLEVERDE",
     "title": "Ballerine in Pelle Nera con Fiocco",
     "size": "40",
+    "availability": "in_stock",
+    "price": "69.00 EUR",
+    "sale_price": "69.00 EUR",
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "BALLERINE",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/s/vs10100.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690124/s/ballerina-nera-con-gala-e-fondo-gomma/category/222/"
+  },
+  {
+    "id": "VS10100.01",
+    "brand": "VALLEVERDE",
+    "title": "Ballerine in Pelle Nera con Fiocco",
+    "size": "41",
     "availability": "in_stock",
     "price": "69.00 EUR",
     "sale_price": "69.00 EUR",
@@ -1278,21 +1263,6 @@
     "id": "GS1206BK.16",
     "brand": "VALLEVERDE",
     "title": "Ciabatta Donna Infrapollice Argento",
-    "size": "37",
-    "availability": "in_stock",
-    "price": "43.00 EUR",
-    "sale_price": "43.00 EUR",
-    "color": "ARGENTO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/g/s/gs1206bk.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/693637/s/gs1206bk-16/category/222/"
-  },
-  {
-    "id": "GS1206BK.16",
-    "brand": "VALLEVERDE",
-    "title": "Ciabatta Donna Infrapollice Argento",
     "size": "38",
     "availability": "in_stock",
     "price": "43.00 EUR",
@@ -1363,21 +1333,6 @@
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/g/s/gs1206bk.16-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/693637/s/gs1206bk-16/category/222/"
-  },
-  {
-    "id": "GS1877B.01",
-    "brand": "VALLEVERDE",
-    "title": "Ciabatta Infradito Fusbet Donna",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "38.00 EUR",
-    "sale_price": "38.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/g/s/gs1877b.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694479/s/gs1877b-01/category/222/"
   },
   {
     "id": "GS1877B.01",
@@ -1542,7 +1497,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17100.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/423/"
   },
   {
     "id": "17100.01",
@@ -1557,7 +1512,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17100.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/423/"
   },
   {
     "id": "17100.01",
@@ -1572,7 +1527,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17100.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/706854/s/scarpa-stringata-donna-valleverde-in-pelle-nera/category/423/"
   },
   {
     "id": "42500.01",
@@ -1767,7 +1722,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/11832.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/515/"
   },
   {
     "id": "11832.01",
@@ -1782,7 +1737,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/11832.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/515/"
   },
   {
     "id": "11832.01",
@@ -1797,7 +1752,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/11832.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/515/"
   },
   {
     "id": "11832.01",
@@ -1812,7 +1767,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/11832.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/515/"
   },
   {
     "id": "11832.01",
@@ -1827,7 +1782,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/11832.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/515/"
   },
   {
     "id": "1846SR.01",
@@ -1849,21 +1804,6 @@
     "brand": "VALLEVERDE",
     "title": "Sandali Bambina con Fibbie",
     "size": "31",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "color": "NERO",
-    "gender": "Bambina",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/8/1846sr.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719753/s/1846sr-01/category/222/"
-  },
-  {
-    "id": "1846SR.01",
-    "brand": "VALLEVERDE",
-    "title": "Sandali Bambina con Fibbie",
-    "size": "32",
     "availability": "in_stock",
     "price": "39.00 EUR",
     "sale_price": "39.00 EUR",
@@ -2139,10 +2079,10 @@
     "sale_price": "85.00 EUR",
     "color": "ROSA",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "DECOLLETE",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/9/19041a.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719755/s/19041a-14/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719755/s/19041a-14/category/415/"
   },
   {
     "id": "19041A.14",
@@ -2154,10 +2094,10 @@
     "sale_price": "85.00 EUR",
     "color": "ROSA",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "DECOLLETE",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/9/19041a.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719755/s/19041a-14/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719755/s/19041a-14/category/415/"
   },
   {
     "id": "19041A.14",
@@ -2169,25 +2109,10 @@
     "sale_price": "85.00 EUR",
     "color": "ROSA",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "DECOLLETE",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/9/19041a.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719755/s/19041a-14/category/222/"
-  },
-  {
-    "id": "25312A.77",
-    "brand": "VALLEVERDE",
-    "title": "Sandali in Pelle con Doppia Chiusura a Strappo",
-    "size": "37",
-    "availability": "in_stock",
-    "price": "32.00 EUR",
-    "sale_price": "32.00 EUR",
-    "color": "BRONZO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/2/5/25312a.77-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719756/s/25312a-77/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719755/s/19041a-14/category/415/"
   },
   {
     "id": "25312A.77",
@@ -2688,21 +2613,6 @@
     "id": "36041.06",
     "brand": "VALLEVERDE",
     "title": "Mocassini Blu In Rete Pelle",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "95.00 EUR",
-    "sale_price": "95.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719765/s/36041-06/category/222/"
-  },
-  {
-    "id": "36041.06",
-    "brand": "VALLEVERDE",
-    "title": "Mocassini Blu In Rete Pelle",
     "size": "37",
     "availability": "in_stock",
     "price": "95.00 EUR",
@@ -2712,22 +2622,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719765/s/36041-06/category/222/"
-  },
-  {
-    "id": "36041.06",
-    "brand": "VALLEVERDE",
-    "title": "Mocassini Blu In Rete Pelle",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "95.00 EUR",
-    "sale_price": "95.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719765/s/36041-06/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719765/s/36041-06/category/423/"
   },
   {
     "id": "36041.06",
@@ -2742,7 +2637,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719765/s/36041-06/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719765/s/36041-06/category/423/"
   },
   {
     "id": "36041.06",
@@ -2757,22 +2652,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719765/s/36041-06/category/222/"
-  },
-  {
-    "id": "36041A.28",
-    "brand": "VALLEVERDE",
-    "title": "Mocassini Beige In Rete E Camoscio",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "95.00 EUR",
-    "sale_price": "95.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041a.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719765/s/36041-06/category/423/"
   },
   {
     "id": "36041A.28",
@@ -2787,22 +2667,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041a.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/222/"
-  },
-  {
-    "id": "36041A.28",
-    "brand": "VALLEVERDE",
-    "title": "Mocassini Beige In Rete E Camoscio",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "95.00 EUR",
-    "sale_price": "95.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041a.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/423/"
   },
   {
     "id": "36041A.28",
@@ -2817,7 +2682,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041a.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/423/"
   },
   {
     "id": "36041A.28",
@@ -2832,7 +2697,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041a.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/423/"
   },
   {
     "id": "36041A.28",
@@ -2847,7 +2712,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041a.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/423/"
   },
   {
     "id": "38902.06",
@@ -3028,21 +2893,6 @@
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/5/3/53852.06-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719768/s/53852-06/category/222/"
-  },
-  {
-    "id": "806N.15",
-    "brand": "VALLEVERDE",
-    "title": "Sandali Bambina Dettagli Animalier",
-    "size": "24",
-    "availability": "in_stock",
-    "price": "42.00 EUR",
-    "sale_price": "42.00 EUR",
-    "color": "ORO",
-    "gender": "Bambina",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/8/0/806n.15-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719780/s/806n-15/category/222/"
   },
   {
     "id": "806N.15",
@@ -3378,51 +3228,6 @@
     "id": "V49409.77",
     "brand": "VALLEVERDE",
     "title": "Mocassino in Pelle Traforato Con Zeppa",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BRONZO",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49409.77-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719789/s/v49409-77/category/222/"
-  },
-  {
-    "id": "V49409.77",
-    "brand": "VALLEVERDE",
-    "title": "Mocassino in Pelle Traforato Con Zeppa",
-    "size": "37",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BRONZO",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49409.77-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719789/s/v49409-77/category/222/"
-  },
-  {
-    "id": "V49409.77",
-    "brand": "VALLEVERDE",
-    "title": "Mocassino in Pelle Traforato Con Zeppa",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BRONZO",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49409.77-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719789/s/v49409-77/category/222/"
-  },
-  {
-    "id": "V49409.77",
-    "brand": "VALLEVERDE",
-    "title": "Mocassino in Pelle Traforato Con Zeppa",
     "size": "40",
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -3432,7 +3237,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49409.77-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719789/s/v49409-77/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719789/s/v49409-77/category/423/"
   },
   {
     "id": "V49409.77",
@@ -3447,7 +3252,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49409.77-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719789/s/v49409-77/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719789/s/v49409-77/category/423/"
   },
   {
     "id": "V49904.06",
@@ -3537,7 +3342,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/1/11832.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719752/s/mocassino-in-pelle-martellata-nera/category/515/"
   },
   {
     "id": "1846SR.01",
@@ -3579,10 +3384,10 @@
     "sale_price": "85.00 EUR",
     "color": "ROSA",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "DECOLLETE",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/9/19041a.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719755/s/19041a-14/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719755/s/19041a-14/category/415/"
   },
   {
     "id": "25312A.77",
@@ -3687,7 +3492,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719765/s/36041-06/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719765/s/36041-06/category/423/"
   },
   {
     "id": "36041A.28",
@@ -3702,7 +3507,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36041a.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719766/s/36041a-28/category/423/"
   },
   {
     "id": "38902.06",
@@ -3792,7 +3597,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49409.77-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719789/s/v49409-77/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/719789/s/v49409-77/category/423/"
   },
   {
     "id": "V49904.06",
@@ -3963,25 +3768,10 @@
     "id": "36213.28",
     "brand": "VALLEVERDE",
     "title": "Slip-On Grigie Traforate In Camoscio",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36213.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721354/s/36213-28/category/222/"
-  },
-  {
-    "id": "36213.28",
-    "brand": "VALLEVERDE",
-    "title": "Slip-On Grigie Traforate In Camoscio",
     "size": "39",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "GRIGIO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -3996,7 +3786,7 @@
     "size": "40",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "GRIGIO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -4011,22 +3801,7 @@
     "size": "35",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36421.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721355/s/36421-09/category/222/"
-  },
-  {
-    "id": "36421.09",
-    "brand": "VALLEVERDE",
-    "title": "Sneakers Traforate Beige E Bianche",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -4041,7 +3816,7 @@
     "size": "37",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -4056,58 +3831,13 @@
     "size": "38",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
     "category": "SNEAKERS",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36421.09-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721355/s/36421-09/category/222/"
-  },
-  {
-    "id": "36421.09",
-    "brand": "VALLEVERDE",
-    "title": "Sneakers Traforate Beige E Bianche",
-    "size": "39",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36421.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721355/s/36421-09/category/222/"
-  },
-  {
-    "id": "36421.09",
-    "brand": "VALLEVERDE",
-    "title": "Sneakers Traforate Beige E Bianche",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36421.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721355/s/36421-09/category/222/"
-  },
-  {
-    "id": "36482.06",
-    "brand": "VALLEVERDE",
-    "title": "Mocassini Blu In Pelle Con Dettaglio Brill",
-    "size": "37",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36482.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721356/s/36482-06/category/222/"
   },
   {
     "id": "36482.06",
@@ -4122,7 +3852,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36482.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721356/s/36482-06/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721356/s/36482-06/category/423/"
   },
   {
     "id": "36482.06",
@@ -4137,7 +3867,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36482.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721356/s/36482-06/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721356/s/36482-06/category/423/"
   },
   {
     "id": "36482.06",
@@ -4152,7 +3882,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36482.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721356/s/36482-06/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721356/s/36482-06/category/423/"
   },
   {
     "id": "V49406.15",
@@ -4161,7 +3891,7 @@
     "size": "38",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "ORO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -4176,22 +3906,7 @@
     "size": "39",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
-    "color": "ORO",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49406.15-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721367/s/v49406-15/category/222/"
-  },
-  {
-    "id": "V49406.15",
-    "brand": "VALLEVERDE",
-    "title": "Sneakers Beige E Bianche In Pelle Traforata",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "ORO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -4206,7 +3921,7 @@
     "size": "41",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "ORO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -4251,7 +3966,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "GRIGIO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -4266,7 +3981,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -4287,7 +4002,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/3/6/36482.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721356/s/36482-06/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721356/s/36482-06/category/423/"
   },
   {
     "id": "V49406.15",
@@ -4296,7 +4011,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "ORO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -4314,10 +4029,10 @@
     "sale_price": "85.00 EUR",
     "color": "ARGENTO",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "DECOLLETE",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/9/19041a.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/415/"
   },
   {
     "id": "19041A.16",
@@ -4329,25 +4044,10 @@
     "sale_price": "85.00 EUR",
     "color": "ARGENTO",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "DECOLLETE",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/9/19041a.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/222/"
-  },
-  {
-    "id": "19041A.16",
-    "brand": "VALLEVERDE",
-    "title": "Chanel Valleverde Argento Cinturino",
-    "size": "39",
-    "availability": "in_stock",
-    "price": "85.00 EUR",
-    "sale_price": "85.00 EUR",
-    "color": "ARGENTO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/9/19041a.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/415/"
   },
   {
     "id": "19041A.16",
@@ -4359,10 +4059,10 @@
     "sale_price": "85.00 EUR",
     "color": "ARGENTO",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "DECOLLETE",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/9/19041a.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/415/"
   },
   {
     "id": "19041A.16",
@@ -4374,10 +4074,10 @@
     "sale_price": "85.00 EUR",
     "color": "ARGENTO",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "DECOLLETE",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/9/19041a.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/415/"
   },
   {
     "id": "25326E5.01",
@@ -4479,10 +4179,10 @@
     "sale_price": "85.00 EUR",
     "color": "ARGENTO",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "DECOLLETE",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/1/9/19041a.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/222/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721631/s/chanel-valleverde-argento-cinturino/category/415/"
   },
   {
     "id": "25326E5.01",
@@ -4498,5 +4198,350 @@
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/2/5/25326e5.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721632/s/sandalo-asimmetrico-nero-strass/category/222/"
+  },
+  {
+    "id": "17511.02",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Cuoio Tacco 3 cm",
+    "size": "35",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728520/s/mocassino-cuoio-tacco-3-cm/category/222/"
+  },
+  {
+    "id": "17511.02",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Cuoio Tacco 3 cm",
+    "size": "36",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728520/s/mocassino-cuoio-tacco-3-cm/category/222/"
+  },
+  {
+    "id": "17511.02",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Cuoio Tacco 3 cm",
+    "size": "37",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728520/s/mocassino-cuoio-tacco-3-cm/category/222/"
+  },
+  {
+    "id": "17511.02",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Cuoio Tacco 3 cm",
+    "size": "38",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728520/s/mocassino-cuoio-tacco-3-cm/category/222/"
+  },
+  {
+    "id": "17511.02",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Cuoio Tacco 3 cm",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728520/s/mocassino-cuoio-tacco-3-cm/category/222/"
+  },
+  {
+    "id": "17511.02",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Cuoio Tacco 3 cm",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728520/s/mocassino-cuoio-tacco-3-cm/category/222/"
+  },
+  {
+    "id": "17511.02",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Cuoio Tacco 3 cm",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728520/s/mocassino-cuoio-tacco-3-cm/category/222/"
+  },
+  {
+    "id": "17511.06",
+    "brand": "VALLEVERDE",
+    "title": "17511.06",
+    "size": "35",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728521/s/17511-06/category/222/"
+  },
+  {
+    "id": "17511.06",
+    "brand": "VALLEVERDE",
+    "title": "17511.06",
+    "size": "36",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728521/s/17511-06/category/222/"
+  },
+  {
+    "id": "17511.06",
+    "brand": "VALLEVERDE",
+    "title": "17511.06",
+    "size": "37",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728521/s/17511-06/category/222/"
+  },
+  {
+    "id": "17511.06",
+    "brand": "VALLEVERDE",
+    "title": "17511.06",
+    "size": "38",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728521/s/17511-06/category/222/"
+  },
+  {
+    "id": "17511.06",
+    "brand": "VALLEVERDE",
+    "title": "17511.06",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728521/s/17511-06/category/222/"
+  },
+  {
+    "id": "17511.06",
+    "brand": "VALLEVERDE",
+    "title": "17511.06",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728521/s/17511-06/category/222/"
+  },
+  {
+    "id": "17511.06",
+    "brand": "VALLEVERDE",
+    "title": "17511.06",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728521/s/17511-06/category/222/"
+  },
+  {
+    "id": "V49450.09",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Valleverde Zeppa Beige 4 cm",
+    "size": "36",
+    "availability": "in_stock",
+    "price": "95.00 EUR",
+    "sale_price": "95.00 EUR",
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49450.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728523/s/mocassino-valleverde-zeppa-beige-4-cm/category/222/"
+  },
+  {
+    "id": "V49450.09",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Valleverde Zeppa Beige 4 cm",
+    "size": "37",
+    "availability": "in_stock",
+    "price": "95.00 EUR",
+    "sale_price": "95.00 EUR",
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49450.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728523/s/mocassino-valleverde-zeppa-beige-4-cm/category/222/"
+  },
+  {
+    "id": "V49450.09",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Valleverde Zeppa Beige 4 cm",
+    "size": "38",
+    "availability": "in_stock",
+    "price": "95.00 EUR",
+    "sale_price": "95.00 EUR",
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49450.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728523/s/mocassino-valleverde-zeppa-beige-4-cm/category/222/"
+  },
+  {
+    "id": "V49450.09",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Valleverde Zeppa Beige 4 cm",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "95.00 EUR",
+    "sale_price": "95.00 EUR",
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49450.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728523/s/mocassino-valleverde-zeppa-beige-4-cm/category/222/"
+  },
+  {
+    "id": "V49450.09",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Valleverde Zeppa Beige 4 cm",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "95.00 EUR",
+    "sale_price": "95.00 EUR",
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49450.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728523/s/mocassino-valleverde-zeppa-beige-4-cm/category/222/"
+  },
+  {
+    "id": "V49450.09",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Valleverde Zeppa Beige 4 cm",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "95.00 EUR",
+    "sale_price": "95.00 EUR",
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49450.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728523/s/mocassino-valleverde-zeppa-beige-4-cm/category/222/"
+  },
+  {
+    "id": "17511.02",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Cuoio Tacco 3 cm",
+    "size": null,
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728520/s/mocassino-cuoio-tacco-3-cm/category/222/"
+  },
+  {
+    "id": "17511.06",
+    "brand": "VALLEVERDE",
+    "title": "17511.06",
+    "size": null,
+    "availability": "in_stock",
+    "price": "78.00 EUR",
+    "sale_price": "78.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/7/17511.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728521/s/17511-06/category/222/"
+  },
+  {
+    "id": "V49450.09",
+    "brand": "VALLEVERDE",
+    "title": "Mocassino Valleverde Zeppa Beige 4 cm",
+    "size": null,
+    "availability": "in_stock",
+    "price": "95.00 EUR",
+    "sale_price": "95.00 EUR",
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/4/v49450.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728523/s/mocassino-valleverde-zeppa-beige-4-cm/category/222/"
   }
 ]

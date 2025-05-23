@@ -39,7 +39,7 @@
     "sale_price": "69.00 EUR",
     "color": "GIALLO",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "BALLERINE",
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/2/3/23216.18-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/donna/sandali/sandalo-in-pelle-gialla-con-slingback-652554"
@@ -54,7 +54,7 @@
     "sale_price": "69.00 EUR",
     "color": "GIALLO",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "BALLERINE",
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/2/3/23216.18-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/donna/sandali/sandalo-in-pelle-gialla-con-slingback-652554"
@@ -84,7 +84,7 @@
     "sale_price": "69.00 EUR",
     "color": "GIALLO",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "BALLERINE",
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/2/3/23216.18-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/sandalo-in-pelle-gialla-con-slingback-652554"
@@ -114,7 +114,7 @@
     "sale_price": "60.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "BALLERINE",
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/2/3/23219.09-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/donna/sandali/sandalo-a-punta-beige-con-slingback"
@@ -129,7 +129,7 @@
     "sale_price": "60.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
-    "category": "SANDALI",
+    "category": "BALLERINE",
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/2/3/23219.09-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/sandalo-a-punta-beige-con-slingback"
@@ -288,21 +288,6 @@
     "id": "ELA.01",
     "brand": "WAVE",
     "title": "Ballerina a punta con slingback",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "BALLERINE",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/e/l/ela.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/688725/s/ballerina-a-punta-con-slingback/category/323/"
-  },
-  {
-    "id": "ELA.01",
-    "brand": "WAVE",
-    "title": "Ballerina a punta con slingback",
     "size": "38",
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -388,21 +373,6 @@
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/e/r/erica.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/688726/s/ballerina-nera-a-punta-cin-cinturini-incrociati/category/323/"
-  },
-  {
-    "id": "28720.16",
-    "brand": "WAVE",
-    "title": "Sandalo Chiuso in Pelle Argento",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "ARGENTO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/2/8/28720.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689742/s/ballerina-charlestone-in-pelle-argento/category/115/"
   },
   {
     "id": "28720.16",

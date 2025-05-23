@@ -210,21 +210,6 @@
     "link": "https://www.langolo-calzature.it/it/uomo/sandali/sandalo-ragno-in-pelle-nera"
   },
   {
-    "id": "54120910.01",
-    "brand": "WALK IN THE CITY",
-    "title": "Sandalo ragno in pelle antracite",
-    "size": "45",
-    "availability": "in_stock",
-    "price": "65.00 EUR",
-    "sale_price": "65.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Uomo",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/5/4/54120910.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/uomo/sandali/sandalo-ragno-in-pelle-nera"
-  },
-  {
     "id": "79032822.06",
     "brand": "WALK IN THE CITY",
     "title": "Slip-on in pelle blu",
@@ -825,21 +810,6 @@
     "link": "https://www.langolo-calzature.it/it/donna/ciabatta-in-pelle-pietra-con-doppia-fibbia"
   },
   {
-    "id": "306648310.01",
-    "brand": "WALK IN THE CITY",
-    "title": "Sandalo Listini Nero Antracite Metallizato",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/0/306648310.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/686667/s/306648310-01/category/224/"
-  },
-  {
     "id": "430846460.06",
     "brand": "WALK IN THE CITY",
     "title": "Sandalo Strappi Blu e Argento",
@@ -898,21 +868,6 @@
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/6/5/654850090.11-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/686671/s/654850090-11/category/224/"
-  },
-  {
-    "id": "306648310.01",
-    "brand": "WALK IN THE CITY",
-    "title": "Sandalo Listini Nero Antracite Metallizato",
-    "size": null,
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/0/306648310.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/686667/s/306648310-01/category/224/"
   },
   {
     "id": "430846460.06",
@@ -1140,21 +1095,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722514/s/306647200-01/category/407/"
   },
   {
-    "id": "306647200.01",
-    "brand": "WALK IN THE CITY",
-    "title": "Sandalo comfort nero e bronzo con velcro",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/0/306647200.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722514/s/306647200-01/category/407/"
-  },
-  {
     "id": "306647200.14",
     "brand": "WALK IN THE CITY",
     "title": "Sandalo comfort nude con velcro",
@@ -1603,21 +1543,6 @@
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/430850603.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722521/s/430850603-01/category/407/"
-  },
-  {
-    "id": "430850603.02",
-    "brand": "WALK IN THE CITY",
-    "title": "Sandalo in pelle taupe con dettagli metallici",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "55.00 EUR",
-    "sale_price": "55.00 EUR",
-    "color": "MARRONE",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/430850603.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722522/s/430850603-02/category/407/"
   },
   {
     "id": "430850603.02",

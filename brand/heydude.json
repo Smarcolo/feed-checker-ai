@@ -498,21 +498,6 @@
     "id": "400032BS.02",
     "brand": "HEY DUDE",
     "title": "Wally Braided Fossil",
-    "size": "42",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/400032bs.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/wally-braided-fossil"
-  },
-  {
-    "id": "400032BS.02",
-    "brand": "HEY DUDE",
-    "title": "Wally Braided Fossil",
     "size": "43",
     "availability": "in_stock",
     "price": "69.00 EUR",
@@ -588,37 +573,7 @@
     "id": "400034NM.06",
     "brand": "HEY DUDE",
     "title": "Wally Braided Blue Night",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/400034nm.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/wally-braided-blue-night"
-  },
-  {
-    "id": "400034NM.06",
-    "brand": "HEY DUDE",
-    "title": "Wally Braided Blue Night",
     "size": "42",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/400034nm.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/wally-braided-blue-night"
-  },
-  {
-    "id": "400034NM.06",
-    "brand": "HEY DUDE",
-    "title": "Wally Braided Blue Night",
-    "size": "43",
     "availability": "in_stock",
     "price": "69.00 EUR",
     "sale_price": "69.00 EUR",
@@ -762,7 +717,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/401266vl.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/misty-rise-dusty-pink"
+    "link": "https://www.langolo-calzature.it/it/brand/misty-rise-dusty-pink"
   },
   {
     "id": "401614NY.06",
@@ -777,7 +732,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/401614ny.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/wally-sox-stitch-blue-multi"
+    "link": "https://www.langolo-calzature.it/it/brand/wally-sox-stitch-blue-multi"
   },
   {
     "id": "40054001.01",
@@ -808,21 +763,6 @@
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40054001.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/dude/wendy-boho-black"
-  },
-  {
-    "id": "400494MS.06",
-    "brand": "HEY DUDE",
-    "title": "Wally Youth Sox Ocean Blue",
-    "size": "33",
-    "availability": "in_stock",
-    "price": "54.00 EUR",
-    "sale_price": "54.00 EUR",
-    "color": "BLU",
-    "gender": "Bambino",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/400494ms.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/wally-youth-sox-ocean-blue"
   },
   {
     "id": "400741K8.08",
@@ -870,21 +810,6 @@
     "link": "https://www.langolo-calzature.it/it/brand/dude/wendy-rise-chambray-rose"
   },
   {
-    "id": "400494MS.06",
-    "brand": "HEY DUDE",
-    "title": "Wally Youth Sox Ocean Blue",
-    "size": null,
-    "availability": "in_stock",
-    "price": "54.00 EUR",
-    "sale_price": "54.00 EUR",
-    "color": "BLU",
-    "gender": "Bambino",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/400494ms.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/wally-youth-sox-ocean-blue"
-  },
-  {
     "id": "400741K8.08",
     "brand": "HEY DUDE",
     "title": "Wendy Rise Spark White",
@@ -897,7 +822,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/400741k8.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/wendy-rise-spark-white"
+    "link": "https://www.langolo-calzature.it/it/brand/wendy-rise-spark-white"
   },
   {
     "id": "400746VM.14",
@@ -912,43 +837,13 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/400746vm.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/wendy-rise-chambray-rose"
-  },
-  {
-    "id": "400031LB.09",
-    "brand": "HEY DUDE",
-    "title": "Mocassino Wally Braided Off White",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BEIGE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/400031lb.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/mocassino-wally-braided-off-white"
+    "link": "https://www.langolo-calzature.it/it/brand/wendy-rise-chambray-rose"
   },
   {
     "id": "400031LB.09",
     "brand": "HEY DUDE",
     "title": "Mocassino Wally Braided Off White",
     "size": "41",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BEIGE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/400031lb.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/mocassino-wally-braided-off-white"
-  },
-  {
-    "id": "400031LB.09",
-    "brand": "HEY DUDE",
-    "title": "Mocassino Wally Braided Off White",
-    "size": "42",
     "availability": "in_stock",
     "price": "69.00 EUR",
     "sale_price": "69.00 EUR",
@@ -1017,37 +912,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/400031lb.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/dude/mocassino-wally-braided-off-white"
-  },
-  {
-    "id": "40403410.06",
-    "brand": "HEY DUDE",
-    "title": "Mocassino Wally Sport Mesh Navy",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40403410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/309/"
-  },
-  {
-    "id": "40403410.06",
-    "brand": "HEY DUDE",
-    "title": "Mocassino Wally Sport Mesh Navy",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40403410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/309/"
+    "link": "https://www.langolo-calzature.it/it/brand/mocassino-wally-braided-off-white"
   },
   {
     "id": "40403410.06",
@@ -1062,22 +927,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40403410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/309/"
-  },
-  {
-    "id": "40403410.06",
-    "brand": "HEY DUDE",
-    "title": "Mocassino Wally Sport Mesh Navy",
-    "size": "43",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40403410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/515/"
   },
   {
     "id": "40403410.06",
@@ -1092,22 +942,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40403410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/309/"
-  },
-  {
-    "id": "40403410.06",
-    "brand": "HEY DUDE",
-    "title": "Mocassino Wally Sport Mesh Navy",
-    "size": "45",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40403410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/515/"
   },
   {
     "id": "40403410.06",
@@ -1122,22 +957,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40403410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/309/"
-  },
-  {
-    "id": "40403410.06",
-    "brand": "HEY DUDE",
-    "title": "Mocassino Wally Sport Mesh Navy",
-    "size": "48",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40403410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/515/"
   },
   {
     "id": "4056590L.ANI",
@@ -1212,7 +1032,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40403410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/673324/s/mocassino-wally-sport-mesh-navy/category/515/"
   },
   {
     "id": "4056590L.ANI",
@@ -1245,21 +1065,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/675896/s/wally-grip-craft-leather-black/category/356/"
   },
   {
-    "id": "40175255.02",
-    "brand": "HEY DUDE",
-    "title": "Wally Grip Craft Leather Brown",
-    "size": "46",
-    "availability": "in_stock",
-    "price": "99.00 EUR",
-    "sale_price": "69.50 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40175255.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/675898/s/wally-grip-craft-leather-brown/category/356/"
-  },
-  {
     "id": "40175001.01",
     "brand": "HEY DUDE",
     "title": "Wally Grip Craft Leather Black",
@@ -1273,21 +1078,6 @@
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40175001.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/675896/s/wally-grip-craft-leather-black/category/356/"
-  },
-  {
-    "id": "40175255.02",
-    "brand": "HEY DUDE",
-    "title": "Wally Grip Craft Leather Brown",
-    "size": null,
-    "availability": "in_stock",
-    "price": "99.00 EUR",
-    "sale_price": "69.50 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40175255.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/675898/s/wally-grip-craft-leather-brown/category/356/"
   },
   {
     "id": "40187001.01",
@@ -1947,7 +1737,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40700060.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690525/s/wally-canvas-nero/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690525/s/wally-canvas-nero/category/515/"
   },
   {
     "id": "40700060.01",
@@ -1962,7 +1752,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40700060.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690525/s/wally-canvas-nero/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690525/s/wally-canvas-nero/category/515/"
   },
   {
     "id": "407511MX.28",
@@ -1977,7 +1767,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/407511mx.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690528/s/wendy-mid-boho-mix-baja-cream/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690528/s/wendy-mid-boho-mix-baja-cream/category/423/"
   },
   {
     "id": "407511MX.28",
@@ -1992,7 +1782,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/407511mx.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690528/s/wendy-mid-boho-mix-baja-cream/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690528/s/wendy-mid-boho-mix-baja-cream/category/423/"
   },
   {
     "id": "408984A1.06",
@@ -2007,7 +1797,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/408984a1.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690529/s/wally-funk-open-mesh/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690529/s/wally-funk-open-mesh/category/515/"
   },
   {
     "id": "408984A1.06",
@@ -2022,22 +1812,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/408984a1.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690529/s/wally-funk-open-mesh/category/309/"
-  },
-  {
-    "id": "40902410.06",
-    "brand": "HEY DUDE",
-    "title": "Wendy Canvas Navy",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40902410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/339/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690529/s/wally-funk-open-mesh/category/515/"
   },
   {
     "id": "40902410.06",
@@ -2052,7 +1827,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40902410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/339/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/423/"
   },
   {
     "id": "40902410.06",
@@ -2067,22 +1842,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40902410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/339/"
-  },
-  {
-    "id": "40902410.06",
-    "brand": "HEY DUDE",
-    "title": "Wendy Canvas Navy",
-    "size": "39",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40902410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/339/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/423/"
   },
   {
     "id": "40902410.06",
@@ -2097,7 +1857,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40902410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/339/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/423/"
   },
   {
     "id": "40902410.06",
@@ -2112,7 +1872,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40902410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/339/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/423/"
   },
   {
     "id": "410931MK.28",
@@ -2163,36 +1923,6 @@
     "id": "4126990L.ANI",
     "brand": "HEY DUDE",
     "title": "Wendy Slip Classic Leopard",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "84.00 EUR",
-    "sale_price": "84.00 EUR",
-    "color": "ANIMALIER",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/4126990l.ani-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690534/s/wendy-slip-classic-leopard/category/309/"
-  },
-  {
-    "id": "4126990L.ANI",
-    "brand": "HEY DUDE",
-    "title": "Wendy Slip Classic Leopard",
-    "size": "37",
-    "availability": "in_stock",
-    "price": "84.00 EUR",
-    "sale_price": "84.00 EUR",
-    "color": "ANIMALIER",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/4126990l.ani-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690534/s/wendy-slip-classic-leopard/category/309/"
-  },
-  {
-    "id": "4126990L.ANI",
-    "brand": "HEY DUDE",
-    "title": "Wendy Slip Classic Leopard",
     "size": "39",
     "availability": "in_stock",
     "price": "84.00 EUR",
@@ -2211,7 +1941,7 @@
     "size": "36",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -2226,22 +1956,7 @@
     "size": "37",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/4127113r.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690535/s/hudson-lift-sport-cream/category/309/"
-  },
-  {
-    "id": "4127113R.09",
-    "brand": "HEY DUDE",
-    "title": "Hudson Lift Sport Cream",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -2256,7 +1971,7 @@
     "size": "39",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -2271,7 +1986,7 @@
     "size": "40",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -2286,7 +2001,7 @@
     "size": "41",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -2427,7 +2142,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40700060.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690525/s/wally-canvas-nero/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690525/s/wally-canvas-nero/category/515/"
   },
   {
     "id": "407511MX.28",
@@ -2442,7 +2157,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/407511mx.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690528/s/wendy-mid-boho-mix-baja-cream/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690528/s/wendy-mid-boho-mix-baja-cream/category/423/"
   },
   {
     "id": "408984A1.06",
@@ -2457,7 +2172,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/408984a1.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690529/s/wally-funk-open-mesh/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690529/s/wally-funk-open-mesh/category/515/"
   },
   {
     "id": "40902410.06",
@@ -2472,7 +2187,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40902410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/339/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/690530/s/wendy-canvas-navy/category/423/"
   },
   {
     "id": "410931MK.28",
@@ -2511,7 +2226,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -2577,7 +2292,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40536025.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/692385/s/40536025-28/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/692385/s/40536025-28/category/515/"
   },
   {
     "id": "41270265.09",
@@ -2652,7 +2367,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40536025.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/692385/s/40536025-28/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/692385/s/40536025-28/category/515/"
   },
   {
     "id": "41270265.09",
@@ -2682,7 +2397,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40952040.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694193/s/wally-coastline-jute-silver/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694193/s/wally-coastline-jute-silver/category/515/"
   },
   {
     "id": "40952410.06",
@@ -2697,7 +2412,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40952410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694195/s/wally-coastline-jute-navy/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694195/s/wally-coastline-jute-navy/category/515/"
   },
   {
     "id": "40952040.09",
@@ -2712,7 +2427,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40952040.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694193/s/wally-coastline-jute-silver/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694193/s/wally-coastline-jute-silver/category/515/"
   },
   {
     "id": "40952410.06",
@@ -2727,7 +2442,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/0/40952410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694195/s/wally-coastline-jute-navy/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694195/s/wally-coastline-jute-navy/category/515/"
   },
   {
     "id": "40726410.06",
@@ -2839,21 +2554,6 @@
     "brand": "HEY DUDE",
     "title": "Sneaker Donna Heydude Hayden W Shine Ivory",
     "size": "38",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/419551mv.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/708870/s/sneaker-donna-heydude-hayden-w-shine-ivory/category/309/"
-  },
-  {
-    "id": "419551MV.09",
-    "brand": "HEY DUDE",
-    "title": "Sneaker Donna Heydude Hayden W Shine Ivory",
-    "size": "39",
     "availability": "in_stock",
     "price": "89.00 EUR",
     "sale_price": "89.00 EUR",
@@ -3057,7 +2757,22 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431454vw.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/515/"
+  },
+  {
+    "id": "431454VW.06",
+    "brand": "HEY DUDE",
+    "title": "Hey Dude Scarpa Uomo Blu Casual",
+    "size": "42",
+    "availability": "in_stock",
+    "price": "79.00 EUR",
+    "sale_price": "79.00 EUR",
+    "color": "BLU",
+    "gender": "Uomo",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431454vw.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/515/"
   },
   {
     "id": "431454VW.06",
@@ -3072,7 +2787,22 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431454vw.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/515/"
+  },
+  {
+    "id": "431454VW.06",
+    "brand": "HEY DUDE",
+    "title": "Hey Dude Scarpa Uomo Blu Casual",
+    "size": "44",
+    "availability": "in_stock",
+    "price": "79.00 EUR",
+    "sale_price": "79.00 EUR",
+    "color": "BLU",
+    "gender": "Uomo",
+    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431454vw.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/515/"
   },
   {
     "id": "431454VW.06",
@@ -3087,7 +2817,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431454vw.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/515/"
   },
   {
     "id": "431454VW.06",
@@ -3102,7 +2832,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431454vw.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/515/"
   },
   {
     "id": "43145OMG.09",
@@ -3117,7 +2847,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43145omg.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/515/"
   },
   {
     "id": "43145OMG.09",
@@ -3132,7 +2862,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43145omg.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/515/"
   },
   {
     "id": "43145OMG.09",
@@ -3147,7 +2877,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43145omg.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/515/"
   },
   {
     "id": "43145OMG.09",
@@ -3162,22 +2892,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43145omg.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/309/"
-  },
-  {
-    "id": "43145OMG.09",
-    "brand": "HEY DUDE",
-    "title": "Hey Dude Scarpa Uomo Beige Leggera",
-    "size": "44",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "BEIGE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43145omg.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/515/"
   },
   {
     "id": "43145OMG.09",
@@ -3192,7 +2907,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43145omg.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/515/"
   },
   {
     "id": "431694UX.06",
@@ -3259,21 +2974,6 @@
     "brand": "HEY DUDE",
     "title": "Hey Dude Sneakers Uomo Blu e Beige",
     "size": "45",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431694ux.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718390/s/431694ux-06/category/24/"
-  },
-  {
-    "id": "431694UX.06",
-    "brand": "HEY DUDE",
-    "title": "Hey Dude Sneakers Uomo Blu e Beige",
-    "size": "46",
     "availability": "in_stock",
     "price": "89.00 EUR",
     "sale_price": "89.00 EUR",
@@ -3291,7 +2991,7 @@
     "size": "36",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BIANCO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -3306,7 +3006,7 @@
     "size": "37",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BIANCO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -3321,7 +3021,7 @@
     "size": "38",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BIANCO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -3336,7 +3036,22 @@
     "size": "39",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "BIANCO",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4322078g.08-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718391/s/4322078g-08/category/108/"
+  },
+  {
+    "id": "4322078G.08",
+    "brand": "HEY DUDE",
+    "title": "Hey Dude Sneakers Donna Bianche e Beige",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BIANCO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -3351,7 +3066,7 @@
     "size": "41",
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BIANCO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -3372,7 +3087,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431454vw.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718388/s/431454vw-06/category/515/"
   },
   {
     "id": "43145OMG.09",
@@ -3387,7 +3102,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43145omg.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/718389/s/43145omg-09/category/515/"
   },
   {
     "id": "431694UX.06",
@@ -3411,7 +3126,7 @@
     "size": null,
     "availability": "in_stock",
     "price": "89.00 EUR",
-    "sale_price": "80.10 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BIANCO",
     "gender": "Donna",
     "category": "SNEAKERS",
@@ -3432,7 +3147,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/410827d9.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720565/s/wendy-metallic-sparkle-brillante-comodita/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720565/s/wendy-metallic-sparkle-brillante-comodita/category/423/"
   },
   {
     "id": "410827D9.14",
@@ -3447,7 +3162,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/410827d9.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720565/s/wendy-metallic-sparkle-brillante-comodita/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720565/s/wendy-metallic-sparkle-brillante-comodita/category/423/"
   },
   {
     "id": "410827D9.14",
@@ -3462,22 +3177,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/410827d9.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720565/s/wendy-metallic-sparkle-brillante-comodita/category/309/"
-  },
-  {
-    "id": "410827D9.14",
-    "brand": "HEY DUDE",
-    "title": "Wendy Metallic Sparkle Brillante Comodità",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "ROSA",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/410827d9.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720565/s/wendy-metallic-sparkle-brillante-comodita/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720565/s/wendy-metallic-sparkle-brillante-comodita/category/423/"
   },
   {
     "id": "41898030.28",
@@ -3492,7 +3192,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898030.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720566/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720566/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898030.28",
@@ -3507,7 +3207,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898030.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720566/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720566/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898030.28",
@@ -3522,7 +3222,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898030.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720566/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720566/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898030.28",
@@ -3537,7 +3237,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898030.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720566/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720566/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898410.06",
@@ -3552,22 +3252,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
-  },
-  {
-    "id": "41898410.06",
-    "brand": "HEY DUDE",
-    "title": "Wally Stretch Sox Massimo Comfort e Stile",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898410.06",
@@ -3582,22 +3267,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
-  },
-  {
-    "id": "41898410.06",
-    "brand": "HEY DUDE",
-    "title": "Wally Stretch Sox Massimo Comfort e Stile",
-    "size": "43",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898410.06",
@@ -3612,22 +3282,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
-  },
-  {
-    "id": "41898410.06",
-    "brand": "HEY DUDE",
-    "title": "Wally Stretch Sox Massimo Comfort e Stile",
-    "size": "47",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898610.11",
@@ -3642,22 +3297,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898610.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
-  },
-  {
-    "id": "41898610.11",
-    "brand": "HEY DUDE",
-    "title": "Wally Stretch Sox Massimo Comfort e Stile",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "ROSSO",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898610.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898610.11",
@@ -3672,7 +3312,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898610.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898610.11",
@@ -3687,7 +3327,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898610.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898610.11",
@@ -3702,7 +3342,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898610.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898610.11",
@@ -3717,7 +3357,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898610.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41946265.09",
@@ -3732,7 +3372,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41946265.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720569/s/wendy-peak-chambray-woven-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720569/s/wendy-peak-chambray-woven-comfort-e-stile/category/423/"
   },
   {
     "id": "41946265.09",
@@ -3747,7 +3387,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41946265.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720569/s/wendy-peak-chambray-woven-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720569/s/wendy-peak-chambray-woven-comfort-e-stile/category/423/"
   },
   {
     "id": "41946265.09",
@@ -3762,7 +3402,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41946265.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720569/s/wendy-peak-chambray-woven-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720569/s/wendy-peak-chambray-woven-comfort-e-stile/category/423/"
   },
   {
     "id": "41946265.09",
@@ -3777,7 +3417,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41946265.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720569/s/wendy-peak-chambray-woven-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720569/s/wendy-peak-chambray-woven-comfort-e-stile/category/423/"
   },
   {
     "id": "43684041.16",
@@ -3792,7 +3432,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43684041.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720570/s/wendy-bow-shimmer-eleganza-scintillante/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720570/s/wendy-bow-shimmer-eleganza-scintillante/category/423/"
   },
   {
     "id": "43684041.16",
@@ -3807,7 +3447,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43684041.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720570/s/wendy-bow-shimmer-eleganza-scintillante/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720570/s/wendy-bow-shimmer-eleganza-scintillante/category/423/"
   },
   {
     "id": "43684041.16",
@@ -3822,37 +3462,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43684041.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720570/s/wendy-bow-shimmer-eleganza-scintillante/category/309/"
-  },
-  {
-    "id": "43684041.16",
-    "brand": "HEY DUDE",
-    "title": "Wendy Bow Shimmer Eleganza Scintillante",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "ARGENTO",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43684041.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720570/s/wendy-bow-shimmer-eleganza-scintillante/category/309/"
-  },
-  {
-    "id": "4378094S.08",
-    "brand": "HEY DUDE",
-    "title": "Mocassino Stile e Comfort con un Tocco Selvaggio",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "75.00 EUR",
-    "sale_price": "75.00 EUR",
-    "color": "BIANCO",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4378094s.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720570/s/wendy-bow-shimmer-eleganza-scintillante/category/423/"
   },
   {
     "id": "4378094S.08",
@@ -3867,7 +3477,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4378094s.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/423/"
   },
   {
     "id": "4378094S.08",
@@ -3882,7 +3492,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4378094s.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/423/"
   },
   {
     "id": "4378094S.08",
@@ -3897,7 +3507,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4378094s.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/423/"
   },
   {
     "id": "4378094S.08",
@@ -3912,7 +3522,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4378094s.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/423/"
   },
   {
     "id": "410827D9.14",
@@ -3927,7 +3537,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/410827d9.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720565/s/wendy-metallic-sparkle-brillante-comodita/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720565/s/wendy-metallic-sparkle-brillante-comodita/category/423/"
   },
   {
     "id": "41898030.28",
@@ -3942,7 +3552,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898030.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720566/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720566/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898410.06",
@@ -3957,7 +3567,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898410.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720567/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41898610.11",
@@ -3972,7 +3582,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41898610.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720568/s/wally-stretch-sox-massimo-comfort-e-stile/category/515/"
   },
   {
     "id": "41946265.09",
@@ -3987,7 +3597,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/1/41946265.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720569/s/wendy-peak-chambray-woven-comfort-e-stile/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720569/s/wendy-peak-chambray-woven-comfort-e-stile/category/423/"
   },
   {
     "id": "43684041.16",
@@ -4002,7 +3612,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43684041.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720570/s/wendy-bow-shimmer-eleganza-scintillante/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720570/s/wendy-bow-shimmer-eleganza-scintillante/category/423/"
   },
   {
     "id": "4378094S.08",
@@ -4017,37 +3627,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4378094s.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/309/"
-  },
-  {
-    "id": "437802UG.09",
-    "brand": "HEY DUDE",
-    "title": "Wendy Rise Animal Beige Leopardate",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "75.00 EUR",
-    "sale_price": "75.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/437802ug.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/309/"
-  },
-  {
-    "id": "437802UG.09",
-    "brand": "HEY DUDE",
-    "title": "Wendy Rise Animal Beige Leopardate",
-    "size": "37",
-    "availability": "in_stock",
-    "price": "75.00 EUR",
-    "sale_price": "75.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/437802ug.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720571/s/mocassino-stile-e-comfort-con-un-tocco-selvaggio/category/423/"
   },
   {
     "id": "437802UG.09",
@@ -4062,7 +3642,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/437802ug.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/423/"
   },
   {
     "id": "437802UG.09",
@@ -4077,7 +3657,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/437802ug.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/423/"
   },
   {
     "id": "437802UG.09",
@@ -4092,7 +3672,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/437802ug.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/423/"
   },
   {
     "id": "437802UG.09",
@@ -4107,7 +3687,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/437802ug.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/423/"
   },
   {
     "id": "437802UG.09",
@@ -4122,6 +3702,276 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/437802ug.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/309/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722894/s/wendy-rise-animal-beige-leopardate/category/423/"
+  },
+  {
+    "id": "431551SZ.06_37",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Dawn Blue Multi",
+    "size": "37",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/726939/s/sneakers-sirocco-alta-w-dawn-blue-multi/"
+  },
+  {
+    "id": "431551SZ.06_38",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Dawn Blue Multi",
+    "size": "38",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/726940/s/sneakers-sirocco-alta-w-dawn-blue-multi/"
+  },
+  {
+    "id": "431551SZ.06_39",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Dawn Blue Multi",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/726941/s/sneakers-sirocco-alta-w-dawn-blue-multi/"
+  },
+  {
+    "id": "431551SZ.06_40",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Dawn Blue Multi",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/726942/s/sneakers-sirocco-alta-w-dawn-blue-multi/"
+  },
+  {
+    "id": "4315577S.14",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Pale Pink Multi",
+    "size": "36",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4315577s.14-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727030/s/sneakers-sirocco-alta-w-pale-pink-multi/category/309/"
+  },
+  {
+    "id": "4315577S.14",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Pale Pink Multi",
+    "size": "37",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4315577s.14-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727030/s/sneakers-sirocco-alta-w-pale-pink-multi/category/309/"
+  },
+  {
+    "id": "4315577S.14",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Pale Pink Multi",
+    "size": "38",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4315577s.14-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727030/s/sneakers-sirocco-alta-w-pale-pink-multi/category/309/"
+  },
+  {
+    "id": "4315577S.14",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Pale Pink Multi",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4315577s.14-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727030/s/sneakers-sirocco-alta-w-pale-pink-multi/category/309/"
+  },
+  {
+    "id": "4315577S.14",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Pale Pink Multi",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4315577s.14-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727030/s/sneakers-sirocco-alta-w-pale-pink-multi/category/309/"
+  },
+  {
+    "id": "4315577S.14",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Pale Pink Multi",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4315577s.14-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727030/s/sneakers-sirocco-alta-w-pale-pink-multi/category/309/"
+  },
+  {
+    "id": "431551SZ.06",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Dawn Blue Multi",
+    "size": null,
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "BLU",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727029/s/sneakers-sirocco-alta-w-dawn-blue-multi/category/309/"
+  },
+  {
+    "id": "4315577S.14",
+    "brand": "HEY DUDE",
+    "title": "Sneakers Sirocco Alta W Pale Pink Multi",
+    "size": null,
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "99.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/4315577s.14-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727030/s/sneakers-sirocco-alta-w-pale-pink-multi/category/309/"
+  },
+  {
+    "id": "431701UN.28",
+    "brand": "HEY DUDE",
+    "title": "Hey Dude Sirocco Alta Leisure Verde",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431701un.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728450/s/hey-dude-sirocco-alta-leisure-verde/category/309/"
+  },
+  {
+    "id": "431701UN.28",
+    "brand": "HEY DUDE",
+    "title": "Hey Dude Sirocco Alta Leisure Verde",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431701un.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728450/s/hey-dude-sirocco-alta-leisure-verde/category/309/"
+  },
+  {
+    "id": "431701UN.28",
+    "brand": "HEY DUDE",
+    "title": "Hey Dude Sirocco Alta Leisure Verde",
+    "size": "42",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431701un.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728450/s/hey-dude-sirocco-alta-leisure-verde/category/309/"
+  },
+  {
+    "id": "431701UN.28",
+    "brand": "HEY DUDE",
+    "title": "Hey Dude Sirocco Alta Leisure Verde",
+    "size": "43",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431701un.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728450/s/hey-dude-sirocco-alta-leisure-verde/category/309/"
+  },
+  {
+    "id": "431701UN.28",
+    "brand": "HEY DUDE",
+    "title": "Hey Dude Sirocco Alta Leisure Verde",
+    "size": "44",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431701un.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728450/s/hey-dude-sirocco-alta-leisure-verde/category/309/"
+  },
+  {
+    "id": "431701UN.28",
+    "brand": "HEY DUDE",
+    "title": "Hey Dude Sirocco Alta Leisure Verde",
+    "size": null,
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/431701un.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728450/s/hey-dude-sirocco-alta-leisure-verde/category/309/"
   }
 ]

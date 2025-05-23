@@ -1,6 +1,6 @@
 [
   {
-    "id": "BOSS.32",
+    "id": "BOSS.32_TU",
     "brand": "G&amp;G",
     "title": "Stivali da pioggia blu",
     "size": "UNICA",
@@ -10,9 +10,9 @@
     "color": "MULTICOLOR",
     "gender": "Bambino",
     "category": "STIVALI ALTI",
-    "season": "I24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680368/s/stivali-da-pioggia-blu/category/810/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/588391/"
   },
   {
     "id": "BOSSTODS.11",
@@ -463,6 +463,21 @@
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/b/o/bosstods.06-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/-620204"
+  },
+  {
+    "id": "BOSS.32",
+    "brand": "G&amp;G",
+    "title": "Stivali da pioggia blu",
+    "size": null,
+    "availability": "in_stock",
+    "price": "18.00 EUR",
+    "sale_price": "18.00 EUR",
+    "color": "MULTICOLOR",
+    "gender": "Bambino",
+    "category": "STIVALI ALTI",
+    "season": "I24",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680368/s/stivali-da-pioggia-blu/category/810/"
   },
   {
     "id": "BOSS.14",

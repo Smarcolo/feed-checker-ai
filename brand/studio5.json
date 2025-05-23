@@ -288,21 +288,6 @@
     "id": "ST3.15",
     "brand": "STUDIO 5",
     "title": "Scarpa da Ballo Donna Glitter Oro Tacco 9",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "119.00 EUR",
-    "sale_price": "119.00 EUR",
-    "color": "ORO",
-    "gender": "Donna",
-    "category": "SCARPE DA BALLO",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st3.15-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/708176/s/scarpa-da-ballo-donna-glitter-oro-tacco-9/category/812/"
-  },
-  {
-    "id": "ST3.15",
-    "brand": "STUDIO 5",
-    "title": "Scarpa da Ballo Donna Glitter Oro Tacco 9",
     "size": "40",
     "availability": "in_stock",
     "price": "119.00 EUR",
@@ -613,21 +598,6 @@
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st6.06-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/708428/s/scarpa-da-ballo-donna-in-camoscio-con-tacco-7-cm/category/812/"
-  },
-  {
-    "id": "ST7.06",
-    "brand": "STUDIO 5",
-    "title": "Scarpe da Ballo Donna Studio 5 in Pelle Tacco 7",
-    "size": "35",
-    "availability": "in_stock",
-    "price": "119.00 EUR",
-    "sale_price": "119.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "SCARPE DA BALLO",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st7.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/708429/s/scarpe-da-ballo-donna-studio-5-in-pelle-tacco-7/category/812/"
   },
   {
     "id": "ST7.06",
@@ -1095,21 +1065,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711526/s/francesina-uomo-in-pelle-marrone/category/812/"
   },
   {
-    "id": "ST31.01",
-    "brand": "STUDIO 5",
-    "title": "Francesina da Uomo in Pelle Nera",
-    "size": "45",
-    "availability": "in_stock",
-    "price": "149.00 EUR",
-    "sale_price": "149.00 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st31.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711528/s/francesina-da-uomo-in-pelle-nera/category/812/"
-  },
-  {
     "id": "ST32.06",
     "brand": "STUDIO 5",
     "title": "Scarpa da Ballo Uomo in Pelle Blu Cangiante",
@@ -1137,7 +1092,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st33.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711530/s/mocassino-in-camoscio-verde-con-nappine-rosse/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711530/s/mocassino-in-camoscio-verde-con-nappine-rosse/category/515/"
   },
   {
     "id": "ST34.02",
@@ -1152,7 +1107,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st34.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711531/s/mocassino-in-pelle-testa-di-moro-con-nappine/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711531/s/mocassino-in-pelle-testa-di-moro-con-nappine/category/515/"
   },
   {
     "id": "ST35.02",
@@ -1167,7 +1122,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st35.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711532/s/mocassino-in-pelle-testa-di-moro-con-nappine/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711532/s/mocassino-in-pelle-testa-di-moro-con-nappine/category/515/"
   },
   {
     "id": "ST36.02",
@@ -1182,22 +1137,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st36.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711533/s/mocassino-in-camoscio-cuoio-con-nappine-beige/category/812/"
-  },
-  {
-    "id": "ST38.02",
-    "brand": "STUDIO 5",
-    "title": "Derby Lacci Impuntura Inglese in Pelle Moro",
-    "size": "44",
-    "availability": "in_stock",
-    "price": "149.00 EUR",
-    "sale_price": "149.00 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st38.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711534/s/derby-lacci-impuntura-inglese-in-pelle-moro/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711533/s/mocassino-in-camoscio-cuoio-con-nappine-beige/category/515/"
   },
   {
     "id": "ST39.09",
@@ -1212,7 +1152,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st39.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711535/s/mocassino-liscio-in-canva-beige-e-fondo-cuoio/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711535/s/mocassino-liscio-in-canva-beige-e-fondo-cuoio/category/515/"
   },
   {
     "id": "ST40.02",
@@ -1227,7 +1167,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st40.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711536/s/mocassino-slipon-in-pelle-marrone-scuro/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711536/s/mocassino-slipon-in-pelle-marrone-scuro/category/515/"
   },
   {
     "id": "ST40I4.02",
@@ -1242,7 +1182,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st40i4.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711537/s/mocassino-slipon-in-pelle-marrone-chiaro/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711537/s/mocassino-slipon-in-pelle-marrone-chiaro/category/515/"
   },
   {
     "id": "ST41.08",
@@ -1287,7 +1227,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st70.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711539/s/mocassino-in-pelle-nera-e-fondo-cuoio/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711539/s/mocassino-in-pelle-nera-e-fondo-cuoio/category/515/"
   },
   {
     "id": "ST26.01",
@@ -1335,21 +1275,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711526/s/francesina-uomo-in-pelle-marrone/category/812/"
   },
   {
-    "id": "ST31.01",
-    "brand": "STUDIO 5",
-    "title": "Francesina da Uomo in Pelle Nera",
-    "size": null,
-    "availability": "in_stock",
-    "price": "149.00 EUR",
-    "sale_price": "149.00 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st31.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711528/s/francesina-da-uomo-in-pelle-nera/category/812/"
-  },
-  {
     "id": "ST32.06",
     "brand": "STUDIO 5",
     "title": "Scarpa da Ballo Uomo in Pelle Blu Cangiante",
@@ -1377,7 +1302,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st33.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711530/s/mocassino-in-camoscio-verde-con-nappine-rosse/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711530/s/mocassino-in-camoscio-verde-con-nappine-rosse/category/515/"
   },
   {
     "id": "ST34.02",
@@ -1392,7 +1317,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st34.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711531/s/mocassino-in-pelle-testa-di-moro-con-nappine/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711531/s/mocassino-in-pelle-testa-di-moro-con-nappine/category/515/"
   },
   {
     "id": "ST35.02",
@@ -1407,7 +1332,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st35.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711532/s/mocassino-in-pelle-testa-di-moro-con-nappine/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711532/s/mocassino-in-pelle-testa-di-moro-con-nappine/category/515/"
   },
   {
     "id": "ST36.02",
@@ -1422,22 +1347,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st36.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711533/s/mocassino-in-camoscio-cuoio-con-nappine-beige/category/812/"
-  },
-  {
-    "id": "ST38.02",
-    "brand": "STUDIO 5",
-    "title": "Derby Lacci Impuntura Inglese in Pelle Moro",
-    "size": null,
-    "availability": "in_stock",
-    "price": "149.00 EUR",
-    "sale_price": "149.00 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st38.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711534/s/derby-lacci-impuntura-inglese-in-pelle-moro/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711533/s/mocassino-in-camoscio-cuoio-con-nappine-beige/category/515/"
   },
   {
     "id": "ST39.09",
@@ -1452,7 +1362,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st39.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711535/s/mocassino-liscio-in-canva-beige-e-fondo-cuoio/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711535/s/mocassino-liscio-in-canva-beige-e-fondo-cuoio/category/515/"
   },
   {
     "id": "ST40.02",
@@ -1467,7 +1377,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st40.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711536/s/mocassino-slipon-in-pelle-marrone-scuro/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711536/s/mocassino-slipon-in-pelle-marrone-scuro/category/515/"
   },
   {
     "id": "ST40I4.02",
@@ -1482,7 +1392,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st40i4.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711537/s/mocassino-slipon-in-pelle-marrone-chiaro/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711537/s/mocassino-slipon-in-pelle-marrone-chiaro/category/515/"
   },
   {
     "id": "ST41.08",
@@ -1512,7 +1422,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st70.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711539/s/mocassino-in-pelle-nera-e-fondo-cuoio/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711539/s/mocassino-in-pelle-nera-e-fondo-cuoio/category/515/"
   },
   {
     "id": "ST22.08",
@@ -1740,21 +1650,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711768/s/sandalo-con-plateau-in-pelle-bianca/category/109/"
   },
   {
-    "id": "ST67.09",
-    "brand": "STUDIO 5",
-    "title": "Sandalo in Camoscio Taupe Tacco 12 cm",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "119.00 EUR",
-    "sale_price": "35.50 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "DECOLLETE",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st67.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711769/s/sandalo-in-camoscio-taupe-tacco-12-cm/category/219/"
-  },
-  {
     "id": "ST22.08",
     "brand": "STUDIO 5",
     "title": "Scarpa da Ballo Uomo Bianca",
@@ -1920,21 +1815,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711768/s/sandalo-con-plateau-in-pelle-bianca/category/109/"
   },
   {
-    "id": "ST67.09",
-    "brand": "STUDIO 5",
-    "title": "Sandalo in Camoscio Taupe Tacco 12 cm",
-    "size": null,
-    "availability": "in_stock",
-    "price": "119.00 EUR",
-    "sale_price": "35.50 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "DECOLLETE",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st67.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711769/s/sandalo-in-camoscio-taupe-tacco-12-cm/category/219/"
-  },
-  {
     "id": "ST43.01",
     "brand": "STUDIO 5",
     "title": "Anfibio in Nabuk Nero con Lampo e Lacci",
@@ -1948,21 +1828,6 @@
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st43.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711860/s/anfibio-in-nabuk-nero-con-lampo-e-lacci/category/219/"
-  },
-  {
-    "id": "ST48.08",
-    "brand": "STUDIO 5",
-    "title": "Scarpa aperta Tacco 10 cm e Plateau Bianco",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "119.00 EUR",
-    "sale_price": "119.00 EUR",
-    "color": "BIANCO",
-    "gender": "Donna",
-    "category": "DECOLLETE",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st48.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711862/s/scarpa-aperta-tacco-10-cm-e-plateau/category/109/"
   },
   {
     "id": "ST50.08",
@@ -1980,6 +1845,21 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711863/s/opne-toe-in-pelle-bianca/category/109/"
   },
   {
+    "id": "ST55.08",
+    "brand": "STUDIO 5",
+    "title": "Scarpa Punta Sfilata Tacco 10 cm Pelle Bianca",
+    "size": "38",
+    "availability": "in_stock",
+    "price": "119.00 EUR",
+    "sale_price": "119.00 EUR",
+    "color": "BIANCO",
+    "gender": "Donna",
+    "category": "DECOLLETE",
+    "season": "I24",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st55.08-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711864/s/scarpa-punta-sfilata-tacco-10-cm-pelle-bianca/category/109/"
+  },
+  {
     "id": "ST43.01",
     "brand": "STUDIO 5",
     "title": "Anfibio in Nabuk Nero con Lampo e Lacci",
@@ -1995,21 +1875,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711860/s/anfibio-in-nabuk-nero-con-lampo-e-lacci/category/219/"
   },
   {
-    "id": "ST48.08",
-    "brand": "STUDIO 5",
-    "title": "Scarpa aperta Tacco 10 cm e Plateau Bianco",
-    "size": null,
-    "availability": "in_stock",
-    "price": "119.00 EUR",
-    "sale_price": "119.00 EUR",
-    "color": "BIANCO",
-    "gender": "Donna",
-    "category": "DECOLLETE",
-    "season": "I24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st48.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711862/s/scarpa-aperta-tacco-10-cm-e-plateau/category/109/"
-  },
-  {
     "id": "ST50.08",
     "brand": "STUDIO 5",
     "title": "Opne Toe in Pelle Bianca",
@@ -2023,6 +1888,21 @@
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st50.08-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711863/s/opne-toe-in-pelle-bianca/category/109/"
+  },
+  {
+    "id": "ST55.08",
+    "brand": "STUDIO 5",
+    "title": "Scarpa Punta Sfilata Tacco 10 cm Pelle Bianca",
+    "size": null,
+    "availability": "in_stock",
+    "price": "119.00 EUR",
+    "sale_price": "119.00 EUR",
+    "color": "BIANCO",
+    "gender": "Donna",
+    "category": "DECOLLETE",
+    "season": "I24",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st55.08-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/711864/s/scarpa-punta-sfilata-tacco-10-cm-pelle-bianca/category/109/"
   },
   {
     "id": "ST51.08",
@@ -2232,7 +2112,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st62.17-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712490/s/mocassino-in-tessuto-azzurro-con-fondo-cuoio/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712490/s/mocassino-in-tessuto-azzurro-con-fondo-cuoio/category/423/"
   },
   {
     "id": "ST62.17",
@@ -2247,7 +2127,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st62.17-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712490/s/mocassino-in-tessuto-azzurro-con-fondo-cuoio/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712490/s/mocassino-in-tessuto-azzurro-con-fondo-cuoio/category/423/"
   },
   {
     "id": "ST64.09",
@@ -2457,7 +2337,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "I24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/t/st62.17-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712490/s/mocassino-in-tessuto-azzurro-con-fondo-cuoio/category/812/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/712490/s/mocassino-in-tessuto-azzurro-con-fondo-cuoio/category/423/"
   },
   {
     "id": "ST64.09",

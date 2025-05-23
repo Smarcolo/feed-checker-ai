@@ -63,21 +63,6 @@
     "id": "801.02",
     "brand": "TIGLIO",
     "title": "Ciabatta uomo con fascia marrone",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "28.00 EUR",
-    "sale_price": "28.00 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/8/0/801.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/tiglio/ciabatta-con-fascia-marrone"
-  },
-  {
-    "id": "801.02",
-    "brand": "TIGLIO",
-    "title": "Ciabatta uomo con fascia marrone",
     "size": "41",
     "availability": "in_stock",
     "price": "28.00 EUR",
@@ -183,21 +168,6 @@
     "id": "2587.14",
     "brand": "TIGLIO",
     "title": "Ciabatta grigia con cuori rosa",
-    "size": "37",
-    "availability": "in_stock",
-    "price": "19.00 EUR",
-    "sale_price": "10.00 EUR",
-    "color": "ROSA",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "I21",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/2/5/2587.14-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/donna/ciabatte/ciabatta-grigia-con-cuori-rosa"
-  },
-  {
-    "id": "2587.14",
-    "brand": "TIGLIO",
-    "title": "Ciabatta grigia con cuori rosa",
     "size": null,
     "availability": "in_stock",
     "price": "19.00 EUR",
@@ -238,6 +208,21 @@
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/d/./d.2700.28-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/ciabatta-grigia-con-plantare-estraibile-655185"
+  },
+  {
+    "id": "801.02",
+    "brand": "TIGLIO",
+    "title": "Ciabatta uomo con fascia marrone",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "28.00 EUR",
+    "sale_price": "28.00 EUR",
+    "color": "MARRONE",
+    "gender": "Uomo",
+    "category": "CIABATTE",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/8/0/801.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/tiglio/ciabatta-con-fascia-marrone"
   },
   {
     "id": "801.02",
@@ -372,7 +357,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/x/-/x-college-blu-sneaker-madigan-l_angolo-calzature-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/madigan/sneaker-college-con-strappi-blu"
+    "link": "https://www.langolo-calzature.it/it/uomo/sneaker-college-con-strappi-blu"
   },
   {
     "id": "COLLEGE.06",
@@ -387,10 +372,10 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/x/-/x-college-blu-sneaker-madigan-l_angolo-calzature-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/madigan/sneaker-college-con-strappi-blu"
+    "link": "https://www.langolo-calzature.it/it/uomo/sneaker-college-con-strappi-blu"
   },
   {
-    "id": "COLLEGET.06",
+    "id": "COLLEGET.06_39",
     "brand": "TIGLIO",
     "title": "Sneaker College con Strappi Blu Uomo",
     "size": "39",
@@ -400,9 +385,9 @@
     "color": "BLU",
     "gender": "Uomo",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/o/colleget.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/696377/s/sneaker-college-con-strappi-blu-uomo/category/232/"
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/696364/s/sneaker-college-con-strappi-blu-uomo/"
   },
   {
     "id": "COLLEGE.06",
@@ -417,7 +402,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/x/-/x-college-blu-sneaker-madigan-l_angolo-calzature-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/madigan/sneaker-college-con-strappi-blu"
+    "link": "https://www.langolo-calzature.it/it/uomo/sneaker-college-con-strappi-blu"
   },
   {
     "id": "COLLEGE.06",
@@ -432,7 +417,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/x/-/x-college-blu-sneaker-madigan-l_angolo-calzature-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/madigan/sneaker-college-con-strappi-blu"
+    "link": "https://www.langolo-calzature.it/it/uomo/sneaker-college-con-strappi-blu"
   },
   {
     "id": "COLLEGE.06",
@@ -447,10 +432,10 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/x/-/x-college-blu-sneaker-madigan-l_angolo-calzature-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/madigan/sneaker-college-con-strappi-blu"
+    "link": "https://www.langolo-calzature.it/it/uomo/sneaker-college-con-strappi-blu"
   },
   {
-    "id": "COLLEGET.06",
+    "id": "COLLEGET.06_46",
     "brand": "TIGLIO",
     "title": "Sneaker College con Strappi Blu Uomo",
     "size": "46",
@@ -460,9 +445,9 @@
     "color": "BLU",
     "gender": "Uomo",
     "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/o/colleget.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/696377/s/sneaker-college-con-strappi-blu-uomo/category/232/"
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/696371/s/sneaker-college-con-strappi-blu-uomo/"
   },
   {
     "id": "COLLEGE.06",
@@ -477,7 +462,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/x/-/x-college-blu-sneaker-madigan-l_angolo-calzature-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/madigan/sneaker-college-con-strappi-blu"
+    "link": "https://www.langolo-calzature.it/it/uomo/sneaker-college-con-strappi-blu"
   },
   {
     "id": "9605.01",
@@ -604,21 +589,6 @@
     "brand": "TIGLIO",
     "title": "9606.01",
     "size": "43",
-    "availability": "in_stock",
-    "price": "10.00 EUR",
-    "sale_price": "10.00 EUR",
-    "color": "NERO",
-    "gender": "Unisex",
-    "category": "CIABATTE",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/9/6/9606.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/701824/s/9606-01/category/232/"
-  },
-  {
-    "id": "9606.01",
-    "brand": "TIGLIO",
-    "title": "9606.01",
-    "size": "44",
     "availability": "in_stock",
     "price": "10.00 EUR",
     "sale_price": "10.00 EUR",

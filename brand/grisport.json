@@ -297,7 +297,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/u/-/u-8407-sneaker-nere-grisport-l_angolo-calzature-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-con-stappi-nera"
+    "link": "https://www.langolo-calzature.it/it/uomo/scarpa-sportiva-con-stappi-nera"
   },
   {
     "id": "8407.01",
@@ -312,7 +312,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/u/-/u-8407-sneaker-nere-grisport-l_angolo-calzature-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-con-stappi-nera"
+    "link": "https://www.langolo-calzature.it/it/uomo/scarpa-sportiva-con-stappi-nera"
   },
   {
     "id": "8407.01",
@@ -327,7 +327,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/u/-/u-8407-sneaker-nere-grisport-l_angolo-calzature-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-con-stappi-nera"
+    "link": "https://www.langolo-calzature.it/it/uomo/scarpa-sportiva-con-stappi-nera"
   },
   {
     "id": "8407.01",
@@ -342,7 +342,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/u/-/u-8407-sneaker-nere-grisport-l_angolo-calzature-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-con-stappi-nera"
+    "link": "https://www.langolo-calzature.it/it/uomo/scarpa-sportiva-con-stappi-nera"
   },
   {
     "id": "8407.01",
@@ -357,12 +357,12 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/u/-/u-8407-sneaker-nere-grisport-l_angolo-calzature-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-con-stappi-nera"
+    "link": "https://www.langolo-calzature.it/it/brand/scarpa-sportiva-con-stappi-nera"
   },
   {
     "id": "8601.28",
     "brand": "GRISPORT",
-    "title": "Scarpa sportiva in camoscio e tessuto grigio",
+    "title": "Sneaker in Camoscio Grigio Linea Active",
     "size": "39",
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -377,7 +377,37 @@
   {
     "id": "8601.28",
     "brand": "GRISPORT",
-    "title": "Scarpa sportiva in camoscio e tessuto grigio",
+    "title": "Sneaker in Camoscio Grigio Linea Active",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8601.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-in-camoscio-e-tessuto-grigio"
+  },
+  {
+    "id": "8601.28",
+    "brand": "GRISPORT",
+    "title": "Sneaker in Camoscio Grigio Linea Active",
+    "size": "43",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8601.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-in-camoscio-e-tessuto-grigio"
+  },
+  {
+    "id": "8601.28",
+    "brand": "GRISPORT",
+    "title": "Sneaker in Camoscio Grigio Linea Active",
     "size": null,
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -408,21 +438,6 @@
     "id": "43029D.01",
     "brand": "GRISPORT",
     "title": "Scarpa nera con strappi",
-    "size": "42",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43029.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-nera-con-strappi"
-  },
-  {
-    "id": "43029D.01",
-    "brand": "GRISPORT",
-    "title": "Scarpa nera con strappi",
     "size": "43",
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -462,7 +477,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43029.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-nera-con-strappi"
+    "link": "https://www.langolo-calzature.it/it/brand/scarpa-nera-con-strappi"
   },
   {
     "id": "73148",
@@ -708,21 +723,6 @@
     "id": "43029.01",
     "brand": "GRISPORT",
     "title": "Sneaker con Strappi in Pelle nera e Gritex",
-    "size": "42",
-    "availability": "in_stock",
-    "price": "95.00 EUR",
-    "sale_price": "66.50 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43029.01-0002_2.jpg",
-    "link": "https://www.langolo-calzature.it/it/sneakers-con-strappi-in-pelle-nera-e-gritex"
-  },
-  {
-    "id": "43029.01",
-    "brand": "GRISPORT",
-    "title": "Sneaker con Strappi in Pelle nera e Gritex",
     "size": "43",
     "availability": "in_stock",
     "price": "95.00 EUR",
@@ -738,21 +738,6 @@
     "id": "43029.01",
     "brand": "GRISPORT",
     "title": "Sneaker con Strappi in Pelle nera e Gritex",
-    "size": "45",
-    "availability": "in_stock",
-    "price": "95.00 EUR",
-    "sale_price": "66.50 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43029.01-0002_2.jpg",
-    "link": "https://www.langolo-calzature.it/it/sneakers-con-strappi-in-pelle-nera-e-gritex"
-  },
-  {
-    "id": "43029.01",
-    "brand": "GRISPORT",
-    "title": "Sneaker con Strappi in Pelle nera e Gritex",
     "size": null,
     "availability": "in_stock",
     "price": "95.00 EUR",
@@ -763,36 +748,6 @@
     "season": "I23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43029.01-0002_2.jpg",
     "link": "https://www.langolo-calzature.it/it/sneakers-con-strappi-in-pelle-nera-e-gritex"
-  },
-  {
-    "id": "8653I9.01",
-    "brand": "GRISPORT",
-    "title": "Sneaker Nero Oliato e Gritex",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "95.00 EUR",
-    "sale_price": "95.00 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "I23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8653i9.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/sneaker-nero-oliato-e-gritex"
-  },
-  {
-    "id": "8653I9.01",
-    "brand": "GRISPORT",
-    "title": "Sneaker Nero Oliato e Gritex",
-    "size": null,
-    "availability": "in_stock",
-    "price": "95.00 EUR",
-    "sale_price": "95.00 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "I23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8653i9.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/sneaker-nero-oliato-e-gritex"
   },
   {
     "id": "43800.28",
@@ -990,7 +945,7 @@
     "link": "https://www.langolo-calzature.it/it/brand/pedula-grigio-dakar-trekking"
   },
   {
-    "id": "8683.01",
+    "id": "8683.01_40",
     "brand": "GRISPORT",
     "title": "Polacco Stringato in Nero Oliato e Gritex",
     "size": "40",
@@ -1000,12 +955,12 @@
     "color": "NERO",
     "gender": "Uomo",
     "category": "TRONCHETTI",
-    "season": "I24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680310/s/polacco-stringato-in-nero-oliato-e-gritex/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/251905/s/polacco-stringato-in-nero-oliato-e-gritex/"
   },
   {
-    "id": "8683.01",
+    "id": "8683.01_42",
     "brand": "GRISPORT",
     "title": "Polacco Stringato in Nero Oliato e Gritex",
     "size": "42",
@@ -1015,12 +970,12 @@
     "color": "NERO",
     "gender": "Uomo",
     "category": "TRONCHETTI",
-    "season": "I24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680310/s/polacco-stringato-in-nero-oliato-e-gritex/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/251907/s/polacco-stringato-in-nero-oliato-e-gritex/"
   },
   {
-    "id": "8683.01",
+    "id": "8683.01_48",
     "brand": "GRISPORT",
     "title": "Polacco Stringato in Nero Oliato e Gritex",
     "size": "48",
@@ -1030,9 +985,9 @@
     "color": "NERO",
     "gender": "Uomo",
     "category": "TRONCHETTI",
-    "season": "I24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680310/s/polacco-stringato-in-nero-oliato-e-gritex/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/251913/s/polacco-stringato-in-nero-oliato-e-gritex/"
   },
   {
     "id": "8617OV12G.02",
@@ -1113,21 +1068,6 @@
     "id": "75104",
     "brand": "GRISPORT",
     "title": "Scarpa Antinfortunistica Bassa in Tessuto Grigio",
-    "size": "42",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Uomo",
-    "category": "027",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/7/5/75104-0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/"
-  },
-  {
-    "id": "75104",
-    "brand": "GRISPORT",
-    "title": "Scarpa Antinfortunistica Bassa in Tessuto Grigio",
     "size": "43",
     "availability": "in_stock",
     "price": "79.00 EUR",
@@ -1185,7 +1125,7 @@
     "link": "https://www.langolo-calzature.it/it/brand/grisport/"
   },
   {
-    "id": "71601.02",
+    "id": "71601.02_39",
     "brand": "GRISPORT",
     "title": "Scarpa Bassa Antinfortunistica",
     "size": "39",
@@ -1195,12 +1135,12 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "027",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/591366/"
   },
   {
-    "id": "71601.02",
+    "id": "71601.02_40",
     "brand": "GRISPORT",
     "title": "Scarpa Bassa Antinfortunistica",
     "size": "40",
@@ -1210,12 +1150,12 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "027",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/591367/"
   },
   {
-    "id": "71601.02",
+    "id": "71601.02_41",
     "brand": "GRISPORT",
     "title": "Scarpa Bassa Antinfortunistica",
     "size": "41",
@@ -1225,12 +1165,12 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "027",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/591368/"
   },
   {
-    "id": "71601.02",
+    "id": "71601.02_42",
     "brand": "GRISPORT",
     "title": "Scarpa Bassa Antinfortunistica",
     "size": "42",
@@ -1240,12 +1180,12 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "027",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/591369/"
   },
   {
-    "id": "71601.02",
+    "id": "71601.02_43",
     "brand": "GRISPORT",
     "title": "Scarpa Bassa Antinfortunistica",
     "size": "43",
@@ -1255,12 +1195,12 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "027",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/591370/"
   },
   {
-    "id": "71601.02",
+    "id": "71601.02_44",
     "brand": "GRISPORT",
     "title": "Scarpa Bassa Antinfortunistica",
     "size": "44",
@@ -1270,12 +1210,12 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "027",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/591371/"
   },
   {
-    "id": "71601.02",
+    "id": "71601.02_45",
     "brand": "GRISPORT",
     "title": "Scarpa Bassa Antinfortunistica",
     "size": "45",
@@ -1285,12 +1225,12 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "027",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/591372/"
   },
   {
-    "id": "71601.02",
+    "id": "71601.02_46",
     "brand": "GRISPORT",
     "title": "Scarpa Bassa Antinfortunistica",
     "size": "46",
@@ -1300,12 +1240,12 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "027",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/591373/"
   },
   {
-    "id": "71601.02",
+    "id": "71601.02_47",
     "brand": "GRISPORT",
     "title": "Scarpa Bassa Antinfortunistica",
     "size": "47",
@@ -1315,12 +1255,12 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "027",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/591374/"
   },
   {
-    "id": "71601.02",
+    "id": "71601.02_48",
     "brand": "GRISPORT",
     "title": "Scarpa Bassa Antinfortunistica",
     "size": "48",
@@ -1330,14 +1270,14 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "027",
-    "season": "I23",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/591375/"
   },
   {
-    "id": "700057.01",
+    "id": "700057.01_39",
     "brand": "GRISPORT",
-    "title": "700057.01",
+    "title": "700057.01_39",
     "size": "39",
     "availability": "in_stock",
     "price": "79.00 EUR",
@@ -1345,9 +1285,9 @@
     "color": "NERO",
     "gender": "Uomo",
     "category": "027",
-    "season": "I18",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680292/s/700057-01/category/362/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/598128/"
   },
   {
     "id": "8601.06",
@@ -1632,7 +1572,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E21",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/4/8407nv75ma.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/sneaker-con-strappi-taupe-vesuvio"
+    "link": "https://www.langolo-calzature.it/it/brand/sneaker-con-strappi-taupe-vesuvio"
   },
   {
     "id": "8601SV19MA.09",
@@ -2028,21 +1968,6 @@
     "id": "43206T3.06",
     "brand": "GRISPORT",
     "title": "Mocassino stringato Blu Tapiro Stampato",
-    "size": "42",
-    "availability": "in_stock",
-    "price": "85.00 EUR",
-    "sale_price": "85.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E22",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43206t3.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/mocassino-stringato-blu-tapiro-stampato"
-  },
-  {
-    "id": "43206T3.06",
-    "brand": "GRISPORT",
-    "title": "Mocassino stringato Blu Tapiro Stampato",
     "size": "43",
     "availability": "in_stock",
     "price": "85.00 EUR",
@@ -2418,21 +2343,6 @@
     "id": "44101T2G.02",
     "brand": "GRISPORT",
     "title": "Sneaker Moro Touch in Gritex",
-    "size": "45",
-    "availability": "in_stock",
-    "price": "95.00 EUR",
-    "sale_price": "95.00 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "I23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44101t2g.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/sneaker-moro-touch-in-gritex"
-  },
-  {
-    "id": "44101T2G.02",
-    "brand": "GRISPORT",
-    "title": "Sneaker Moro Touch in Gritex",
     "size": null,
     "availability": "in_stock",
     "price": "95.00 EUR",
@@ -2700,36 +2610,6 @@
     "link": "https://www.langolo-calzature.it/it/brand/grisport/sneaker-active-torba"
   },
   {
-    "id": "8601V68.09",
-    "brand": "GRISPORT",
-    "title": "Sneaker Active Torba",
-    "size": "47",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BEIGE",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8601v68.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/sneaker-active-torba"
-  },
-  {
-    "id": "8601V68.09",
-    "brand": "GRISPORT",
-    "title": "Sneaker Active Torba",
-    "size": "48",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BEIGE",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8601v68.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/sneaker-active-torba"
-  },
-  {
     "id": "43011V80.06",
     "brand": "GRISPORT",
     "title": "Sneaker Hector Active Lacci Blu",
@@ -2973,36 +2853,6 @@
     "id": "43826V39.28",
     "brand": "GRISPORT",
     "title": "Slip-on Ash Vesuvio con Memory",
-    "size": "45",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43826v39.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/slip-on-ash-vesuvio-con-memory"
-  },
-  {
-    "id": "43826V39.28",
-    "brand": "GRISPORT",
-    "title": "Slip-on Ash Vesuvio con Memory",
-    "size": "46",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43826v39.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/slip-on-ash-vesuvio-con-memory"
-  },
-  {
-    "id": "43826V39.28",
-    "brand": "GRISPORT",
-    "title": "Slip-on Ash Vesuvio con Memory",
     "size": null,
     "availability": "in_stock",
     "price": "79.00 EUR",
@@ -3075,21 +2925,6 @@
     "link": "https://www.langolo-calzature.it/it/brand/grisport/slip-on-in-camoscio-muschio"
   },
   {
-    "id": "8683V.01",
-    "brand": "GRISPORT",
-    "title": "Polacco Stringato in Nero Oliato e Gritex",
-    "size": "48",
-    "availability": "in_stock",
-    "price": "95.00 EUR",
-    "sale_price": "66.50 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "TRONCHETTI",
-    "season": "I23",
-    "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680311/s/8683v-01/category/162/"
-  },
-  {
     "id": "43208S24.28",
     "brand": "GRISPORT",
     "title": "Mocassino grigio aerato",
@@ -3102,7 +2937,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208s24.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/mocassino-grigio-aerato"
+    "link": "https://www.langolo-calzature.it/it/brand/mocassino-grigio-aerato"
   },
   {
     "id": "43410V87.09",
@@ -3303,21 +3138,6 @@
     "id": "43209T8.09",
     "brand": "GRISPORT",
     "title": "Mocassino stringato Roccia Tapiro Stampato",
-    "size": "46",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BEIGE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43209t8.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/mocassino-stringato-roccia-tapiro-stampato"
-  },
-  {
-    "id": "43209T8.09",
-    "brand": "GRISPORT",
-    "title": "Mocassino stringato Roccia Tapiro Stampato",
     "size": null,
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -3462,7 +3282,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/4/8407nv61ma.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-con-strappi-in-camoscio-e-tela-grigia"
+    "link": "https://www.langolo-calzature.it/it/brand/scarpa-con-strappi-in-camoscio-e-tela-grigia"
   },
   {
     "id": "43069T7G.01",
@@ -3705,6 +3525,36 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680261/s/polacco-stringato-in-moro-touch-e-gritex/category/358/"
   },
   {
+    "id": "700057.01",
+    "brand": "GRISPORT",
+    "title": "700057.01",
+    "size": null,
+    "availability": "in_stock",
+    "price": "79.00 EUR",
+    "sale_price": "29.00 EUR",
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "027",
+    "season": "I18",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680292/s/700057-01/category/362/"
+  },
+  {
+    "id": "71601.02",
+    "brand": "GRISPORT",
+    "title": "Scarpa Bassa Antinfortunistica",
+    "size": null,
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "MARRONE",
+    "gender": "Uomo",
+    "category": "027",
+    "season": "I23",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680297/s/71601-02/category/45/"
+  },
+  {
     "id": "72003.02",
     "brand": "GRISPORT",
     "title": "Scarponcino antinfortunistica alto",
@@ -3718,6 +3568,21 @@
     "season": "E23",
     "image": "https://www.langolo-calzature.it/media/catalog/product/7/2/72003.02-0000.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680298/s/scarponcino-antinfortunistica-alto/category/45/"
+  },
+  {
+    "id": "8683.01",
+    "brand": "GRISPORT",
+    "title": "Polacco Stringato in Nero Oliato e Gritex",
+    "size": null,
+    "availability": "in_stock",
+    "price": "95.00 EUR",
+    "sale_price": "95.00 EUR",
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "TRONCHETTI",
+    "season": "I24",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680310/s/polacco-stringato-in-nero-oliato-e-gritex/category/45/"
   },
   {
     "id": "43646FT90G.02",
@@ -3797,8 +3662,38 @@
   {
     "id": "8601.28",
     "brand": "GRISPORT",
-    "title": "Scarpa sportiva in camoscio e tessuto grigio",
+    "title": "Sneaker in Camoscio Grigio Linea Active",
+    "size": "45",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8601.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-in-camoscio-e-tessuto-grigio"
+  },
+  {
+    "id": "8601.28",
+    "brand": "GRISPORT",
+    "title": "Sneaker in Camoscio Grigio Linea Active",
     "size": "46",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8601.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-in-camoscio-e-tessuto-grigio"
+  },
+  {
+    "id": "8601.28",
+    "brand": "GRISPORT",
+    "title": "Sneaker in Camoscio Grigio Linea Active",
+    "size": "40",
     "availability": "in_stock",
     "price": "89.00 EUR",
     "sale_price": "89.00 EUR",
@@ -3837,7 +3732,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/u/-/u-8407-sneaker-nere-grisport-l_angolo-calzature-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-con-stappi-nera"
+    "link": "https://www.langolo-calzature.it/it/uomo/scarpa-sportiva-con-stappi-nera"
   },
   {
     "id": "8407.01",
@@ -3852,7 +3747,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/u/-/u-8407-sneaker-nere-grisport-l_angolo-calzature-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-con-stappi-nera"
+    "link": "https://www.langolo-calzature.it/it/uomo/scarpa-sportiva-con-stappi-nera"
   },
   {
     "id": "8407.01",
@@ -3867,22 +3762,37 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/u/-/u-8407-sneaker-nere-grisport-l_angolo-calzature-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-con-stappi-nera"
+    "link": "https://www.langolo-calzature.it/it/uomo/scarpa-sportiva-con-stappi-nera"
   },
   {
-    "id": "8407.01",
+    "id": "8601.28",
     "brand": "GRISPORT",
-    "title": "Scarpa sportiva con Strappi Nera",
-    "size": "47",
+    "title": "Sneaker in Camoscio Grigio Linea Active",
+    "size": "44",
     "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "NERO",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
     "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "category": "SNEAKERS",
     "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/u/-/u-8407-sneaker-nere-grisport-l_angolo-calzature-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-con-stappi-nera"
+    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8601.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-in-camoscio-e-tessuto-grigio"
+  },
+  {
+    "id": "8601.28",
+    "brand": "GRISPORT",
+    "title": "Sneaker in Camoscio Grigio Linea Active",
+    "size": "42",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "GRIGIO",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8601.28-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/grisport/scarpa-sportiva-in-camoscio-e-tessuto-grigio"
   },
   {
     "id": "44109T13G.01",
@@ -4203,21 +4113,6 @@
     "id": "43646EV97.09",
     "brand": "GRISPORT",
     "title": "Sneaker in camoscio e tela beige",
-    "size": "45",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "BEIGE",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43646ev97.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/687618/s/sneaker-in-camoscio-e-tela-beige/category/45/"
-  },
-  {
-    "id": "43646EV97.09",
-    "brand": "GRISPORT",
-    "title": "Sneaker in camoscio e tela beige",
     "size": null,
     "availability": "in_stock",
     "price": "79.00 EUR",
@@ -4242,7 +4137,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t7.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/515/"
   },
   {
     "id": "43208T7.09",
@@ -4257,7 +4152,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t7.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/515/"
   },
   {
     "id": "43208T7.09",
@@ -4272,7 +4167,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t7.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/515/"
   },
   {
     "id": "43208T7.09",
@@ -4287,7 +4182,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t7.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/515/"
   },
   {
     "id": "43208T7.09",
@@ -4302,22 +4197,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t7.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/45/"
-  },
-  {
-    "id": "43208T7.09",
-    "brand": "GRISPORT",
-    "title": "Mocassino Roccia Tapiro Stampato",
-    "size": "46",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BEIGE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t7.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/515/"
   },
   {
     "id": "43208T7.09",
@@ -4332,7 +4212,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t7.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/689338/s/mocassino-roccia-tapiro-stampato/category/515/"
   },
   {
     "id": "81501.28",
@@ -4455,7 +4335,7 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/692671/s/sandalo-grey-e-nero-con-strappi/category/45/"
   },
   {
-    "id": "43045V62.09",
+    "id": "43045V62.09_39",
     "brand": "GRISPORT",
     "title": "Slip-on Fieno Vesuvio con elastico",
     "size": "39",
@@ -4465,12 +4345,12 @@
     "color": "BEIGE",
     "gender": "Uomo",
     "category": "SNEAKERS",
-    "season": "E24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/697164/s/slip-on-fieno-vesuvio-con-elastico/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/697141/s/slip-on-fieno-vesuvio-con-elastico/"
   },
   {
-    "id": "43045V62.09",
+    "id": "43045V62.09_41",
     "brand": "GRISPORT",
     "title": "Slip-on Fieno Vesuvio con elastico",
     "size": "41",
@@ -4480,12 +4360,12 @@
     "color": "BEIGE",
     "gender": "Uomo",
     "category": "SNEAKERS",
-    "season": "E24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/697164/s/slip-on-fieno-vesuvio-con-elastico/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/697143/s/slip-on-fieno-vesuvio-con-elastico/"
   },
   {
-    "id": "43045V62.09",
+    "id": "43045V62.09_42",
     "brand": "GRISPORT",
     "title": "Slip-on Fieno Vesuvio con elastico",
     "size": "42",
@@ -4495,12 +4375,12 @@
     "color": "BEIGE",
     "gender": "Uomo",
     "category": "SNEAKERS",
-    "season": "E24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/697164/s/slip-on-fieno-vesuvio-con-elastico/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/697144/s/slip-on-fieno-vesuvio-con-elastico/"
   },
   {
-    "id": "43045V62.09",
+    "id": "43045V62.09_43",
     "brand": "GRISPORT",
     "title": "Slip-on Fieno Vesuvio con elastico",
     "size": "43",
@@ -4510,15 +4390,30 @@
     "color": "BEIGE",
     "gender": "Uomo",
     "category": "SNEAKERS",
-    "season": "E24",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/697164/s/slip-on-fieno-vesuvio-con-elastico/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/697145/s/slip-on-fieno-vesuvio-con-elastico/"
+  },
+  {
+    "id": "43045V62.09_44",
+    "brand": "GRISPORT",
+    "title": "Slip-on Fieno Vesuvio con elastico",
+    "size": "44",
+    "availability": "in_stock",
+    "price": "79.00 EUR",
+    "sale_price": "79.00 EUR",
+    "color": "BEIGE",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/697146/s/slip-on-fieno-vesuvio-con-elastico/"
   },
   {
     "id": "43045V62.09",
     "brand": "GRISPORT",
     "title": "Slip-on Fieno Vesuvio con elastico",
-    "size": "44",
+    "size": null,
     "availability": "in_stock",
     "price": "79.00 EUR",
     "sale_price": "79.00 EUR",
@@ -4797,7 +4692,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t17.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/515/"
   },
   {
     "id": "43208T17.06",
@@ -4812,7 +4707,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t17.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/515/"
   },
   {
     "id": "43208T17.06",
@@ -4827,22 +4722,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t17.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/45/"
-  },
-  {
-    "id": "43208T17.06",
-    "brand": "GRISPORT",
-    "title": "Mocassino Blu Tapiro Stampato",
-    "size": "44",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t17.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/515/"
   },
   {
     "id": "43208T17.06",
@@ -4857,22 +4737,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t17.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/45/"
-  },
-  {
-    "id": "43208T17.06",
-    "brand": "GRISPORT",
-    "title": "Mocassino Blu Tapiro Stampato",
-    "size": "46",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "BLU",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t17.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/515/"
   },
   {
     "id": "43208T17.06",
@@ -4887,7 +4752,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t17.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/515/"
   },
   {
     "id": "44121.02",
@@ -4997,7 +4862,22 @@
   {
     "id": "8601.26",
     "brand": "GRISPORT",
-    "title": "Sneakers Uomo Verde In Pelle Vera E Camoscio",
+    "title": "Sneaker in Camoscio Verde Linea Active",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "VERDE",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/8/6/8601.26-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720944/s/sneakers-uomo-verde-in-pelle-vera-e-camoscio/category/45/"
+  },
+  {
+    "id": "8601.26",
+    "brand": "GRISPORT",
+    "title": "Sneaker in Camoscio Verde Linea Active",
     "size": "40",
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -5012,7 +4892,7 @@
   {
     "id": "8601.26",
     "brand": "GRISPORT",
-    "title": "Sneakers Uomo Verde In Pelle Vera E Camoscio",
+    "title": "Sneaker in Camoscio Verde Linea Active",
     "size": "41",
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -5027,7 +4907,7 @@
   {
     "id": "8601.26",
     "brand": "GRISPORT",
-    "title": "Sneakers Uomo Verde In Pelle Vera E Camoscio",
+    "title": "Sneaker in Camoscio Verde Linea Active",
     "size": "42",
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -5042,7 +4922,7 @@
   {
     "id": "8601.26",
     "brand": "GRISPORT",
-    "title": "Sneakers Uomo Verde In Pelle Vera E Camoscio",
+    "title": "Sneaker in Camoscio Verde Linea Active",
     "size": "43",
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -5057,7 +4937,7 @@
   {
     "id": "8601.26",
     "brand": "GRISPORT",
-    "title": "Sneakers Uomo Verde In Pelle Vera E Camoscio",
+    "title": "Sneaker in Camoscio Verde Linea Active",
     "size": "44",
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -5072,7 +4952,7 @@
   {
     "id": "8601.26",
     "brand": "GRISPORT",
-    "title": "Sneakers Uomo Verde In Pelle Vera E Camoscio",
+    "title": "Sneaker in Camoscio Verde Linea Active",
     "size": "45",
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -5097,7 +4977,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/3/43208t17.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720941/s/mocassino-blu-tapiro-stampato/category/515/"
   },
   {
     "id": "44121.02",
@@ -5117,7 +4997,7 @@
   {
     "id": "8601.26",
     "brand": "GRISPORT",
-    "title": "Sneakers Uomo Verde In Pelle Vera E Camoscio",
+    "title": "Sneaker in Camoscio Verde Linea Active",
     "size": null,
     "availability": "in_stock",
     "price": "89.00 EUR",
@@ -5149,21 +5029,6 @@
     "brand": "GRISPORT",
     "title": "Sneaker Outdoor Uomo Grisport Marrone",
     "size": "41",
-    "availability": "in_stock",
-    "price": "89.00 EUR",
-    "sale_price": "89.00 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44518.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721919/s/sneaker-outdoor-uomo-grisport-marrone/category/45/"
-  },
-  {
-    "id": "44518.28",
-    "brand": "GRISPORT",
-    "title": "Sneaker Outdoor Uomo Grisport Marrone",
-    "size": "42",
     "availability": "in_stock",
     "price": "89.00 EUR",
     "sale_price": "89.00 EUR",
@@ -5412,7 +5277,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44603.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/515/"
   },
   {
     "id": "44603.09",
@@ -5427,7 +5292,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44603.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/515/"
   },
   {
     "id": "44603.09",
@@ -5442,7 +5307,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44603.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/515/"
   },
   {
     "id": "44603.09",
@@ -5457,7 +5322,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44603.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/515/"
   },
   {
     "id": "44603.09",
@@ -5472,7 +5337,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44603.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/515/"
   },
   {
     "id": "44603.09",
@@ -5487,22 +5352,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44603.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/45/"
-  },
-  {
-    "id": "44603.09",
-    "brand": "GRISPORT",
-    "title": "Mocassino Grisport con Memory Foam",
-    "size": "46",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "BEIGE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44603.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/515/"
   },
   {
     "id": "44603.09",
@@ -5517,7 +5367,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44603.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/45/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/724012/s/mocassino-grisport-con-memory-foam/category/515/"
   },
   {
     "id": "44601.09",
@@ -5613,7 +5463,7 @@
     "id": "44601.09",
     "brand": "GRISPORT",
     "title": "Scarpa stringata  Grisport in camoscio",
-    "size": "46",
+    "size": null,
     "availability": "in_stock",
     "price": "85.00 EUR",
     "sale_price": "85.00 EUR",
@@ -5625,18 +5475,33 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725669/s/44601-09/category/45/"
   },
   {
-    "id": "44601.09",
+    "id": "44109.09",
     "brand": "GRISPORT",
-    "title": "Scarpa stringata  Grisport in camoscio",
-    "size": null,
+    "title": "Sneaker in camoscio grigia",
+    "size": "47",
     "availability": "in_stock",
-    "price": "85.00 EUR",
-    "sale_price": "85.00 EUR",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
     "color": "BEIGE",
     "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
+    "category": "SNEAKERS",
     "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44601.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725669/s/44601-09/category/45/"
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44109.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727669/s/sneaker-in-camoscio-grigia/category/45/"
+  },
+  {
+    "id": "44109.09",
+    "brand": "GRISPORT",
+    "title": "Sneaker in camoscio grigia",
+    "size": null,
+    "availability": "in_stock",
+    "price": "89.00 EUR",
+    "sale_price": "89.00 EUR",
+    "color": "BEIGE",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/4/44109.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727669/s/sneaker-in-camoscio-grigia/category/45/"
   }
 ]

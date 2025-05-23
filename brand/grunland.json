@@ -1263,37 +1263,7 @@
     "id": "SB0234.26",
     "brand": "GRUNLAND",
     "title": "Sandalo footbed verde con suola gialla",
-    "size": "29",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "color": "VERDE",
-    "gender": "Bambino",
-    "category": "SANDALI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb0234.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/687413/s/sandalo-footbed-verde-con-suola-gialla/category/107/"
-  },
-  {
-    "id": "SB0234.26",
-    "brand": "GRUNLAND",
-    "title": "Sandalo footbed verde con suola gialla",
     "size": "34",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "color": "VERDE",
-    "gender": "Bambino",
-    "category": "SANDALI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb0234.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/687413/s/sandalo-footbed-verde-con-suola-gialla/category/107/"
-  },
-  {
-    "id": "SB0234.26",
-    "brand": "GRUNLAND",
-    "title": "Sandalo footbed verde con suola gialla",
-    "size": "36",
     "availability": "in_stock",
     "price": "39.00 EUR",
     "sale_price": "39.00 EUR",
@@ -1758,21 +1728,6 @@
     "id": "SC5161E4.16",
     "brand": "GRUNLAND",
     "title": "Ballerina argento con elatico",
-    "size": "34",
-    "availability": "in_stock",
-    "price": "42.00 EUR",
-    "sale_price": "42.00 EUR",
-    "color": "ARGENTO",
-    "gender": "Bambina",
-    "category": "BALLERINE",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc5161e4.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/687880/s/ballerina-argento-con-elatico/category/107/"
-  },
-  {
-    "id": "SC5161E4.16",
-    "brand": "GRUNLAND",
-    "title": "Ballerina argento con elatico",
     "size": "35",
     "availability": "in_stock",
     "price": "42.00 EUR",
@@ -1845,36 +1800,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/687881/s/ballerina-laminata-platino-con-gala/category/107/"
   },
   {
-    "id": "SC5163.15",
-    "brand": "GRUNLAND",
-    "title": "Ballerina laminata platino con gala",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "color": "ORO",
-    "gender": "Bambina",
-    "category": "BALLERINE",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc5163.15-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/687881/s/ballerina-laminata-platino-con-gala/category/107/"
-  },
-  {
-    "id": "SC5163.15",
-    "brand": "GRUNLAND",
-    "title": "Ballerina laminata platino con gala",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "color": "ORO",
-    "gender": "Bambina",
-    "category": "BALLERINE",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc5163.15-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/687881/s/ballerina-laminata-platino-con-gala/category/107/"
-  },
-  {
     "id": "SC5163.16",
     "brand": "GRUNLAND",
     "title": "Ballerina laminata argento con gala",
@@ -1924,21 +1849,6 @@
     "brand": "GRUNLAND",
     "title": "Ballerina laminata argento con gala",
     "size": "34",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "color": "ARGENTO",
-    "gender": "Bambina",
-    "category": "BALLERINE",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc5163.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/687882/s/ballerina-laminata-argento-con-gala/category/107/"
-  },
-  {
-    "id": "SC5163.16",
-    "brand": "GRUNLAND",
-    "title": "Ballerina laminata argento con gala",
-    "size": "35",
     "availability": "in_stock",
     "price": "39.00 EUR",
     "sale_price": "39.00 EUR",
@@ -2172,7 +2082,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4184.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/688025/s/mocassino-traforato-beige-con-morsetto/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/688025/s/mocassino-traforato-beige-con-morsetto/category/423/"
   },
   {
     "id": "SC2844.02",
@@ -2202,7 +2112,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4184.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/688025/s/mocassino-traforato-beige-con-morsetto/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/688025/s/mocassino-traforato-beige-con-morsetto/category/423/"
   },
   {
     "id": "CB0084.16",
@@ -2718,37 +2628,7 @@
     "id": "SB0234E4.06",
     "brand": "GRUNLAND",
     "title": "Sandalo Bambino Fusbet Blu",
-    "size": "33",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "color": "BLU",
-    "gender": "Bambino",
-    "category": "SANDALI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb0234e4.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694640/s/sandalo-bambino-fusbet-blu/category/107/"
-  },
-  {
-    "id": "SB0234E4.06",
-    "brand": "GRUNLAND",
-    "title": "Sandalo Bambino Fusbet Blu",
     "size": "34",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "color": "BLU",
-    "gender": "Bambino",
-    "category": "SANDALI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb0234e4.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/694640/s/sandalo-bambino-fusbet-blu/category/107/"
-  },
-  {
-    "id": "SB0234E4.06",
-    "brand": "GRUNLAND",
-    "title": "Sandalo Bambino Fusbet Blu",
-    "size": "35",
     "availability": "in_stock",
     "price": "39.00 EUR",
     "sale_price": "39.00 EUR",
@@ -3378,21 +3258,6 @@
     "id": "CE0458.06",
     "brand": "GRUNLAND",
     "title": "Ciabatta Due Strappi Blu Plantare Estraibile",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "65.00 EUR",
-    "sale_price": "65.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/e/ce0458.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716983/s/ciabatta-due-strappi-blu-plantare-estraibile/category/107/"
-  },
-  {
-    "id": "CE0458.06",
-    "brand": "GRUNLAND",
-    "title": "Ciabatta Due Strappi Blu Plantare Estraibile",
     "size": "41",
     "availability": "in_stock",
     "price": "65.00 EUR",
@@ -3417,7 +3282,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4384.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716984/s/mocassino-in-camoscio-corda-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716984/s/mocassino-in-camoscio-corda-con-catena/category/423/"
   },
   {
     "id": "SC4384.02",
@@ -3432,7 +3297,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4384.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716984/s/mocassino-in-camoscio-corda-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716984/s/mocassino-in-camoscio-corda-con-catena/category/423/"
   },
   {
     "id": "SC4384.02",
@@ -3447,7 +3312,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4384.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716984/s/mocassino-in-camoscio-corda-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716984/s/mocassino-in-camoscio-corda-con-catena/category/423/"
   },
   {
     "id": "SC4384.02",
@@ -3462,7 +3327,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4384.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716984/s/mocassino-in-camoscio-corda-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716984/s/mocassino-in-camoscio-corda-con-catena/category/423/"
   },
   {
     "id": "CE0458.06",
@@ -3492,43 +3357,13 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4384.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716984/s/mocassino-in-camoscio-corda-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/716984/s/mocassino-in-camoscio-corda-con-catena/category/423/"
   },
   {
     "id": "CE0458.08",
     "brand": "GRUNLAND",
     "title": "Ciabatta Due Strappi Bianco Plantare Estraibile",
     "size": "38",
-    "availability": "in_stock",
-    "price": "65.00 EUR",
-    "sale_price": "65.00 EUR",
-    "color": "BIANCO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/e/ce0458.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717238/s/ciabatta-due-strappi-bianco-plantare-estraibile/category/107/"
-  },
-  {
-    "id": "CE0458.08",
-    "brand": "GRUNLAND",
-    "title": "Ciabatta Due Strappi Bianco Plantare Estraibile",
-    "size": "39",
-    "availability": "in_stock",
-    "price": "65.00 EUR",
-    "sale_price": "65.00 EUR",
-    "color": "BIANCO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/e/ce0458.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/717238/s/ciabatta-due-strappi-bianco-plantare-estraibile/category/107/"
-  },
-  {
-    "id": "CE0458.08",
-    "brand": "GRUNLAND",
-    "title": "Ciabatta Due Strappi Bianco Plantare Estraibile",
-    "size": "41",
     "availability": "in_stock",
     "price": "65.00 EUR",
     "sale_price": "65.00 EUR",
@@ -4293,21 +4128,6 @@
     "id": "SE0450.28",
     "brand": "GRUNLAND",
     "title": "Sandalo Strappi Plantare Estraibile Nabuk Grigio",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "75.00 EUR",
-    "sale_price": "75.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/e/se0450.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720335/s/sandalo-strappi-plantare-estraibile-nabuk-grigio/category/107/"
-  },
-  {
-    "id": "SE0450.28",
-    "brand": "GRUNLAND",
-    "title": "Sandalo Strappi Plantare Estraibile Nabuk Grigio",
     "size": "41",
     "availability": "in_stock",
     "price": "75.00 EUR",
@@ -4395,36 +4215,6 @@
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720381/s/ciabatta-plantare-estraibile-con-doppio-strappo/category/107/"
   },
   {
-    "id": "CE0392.28",
-    "brand": "GRUNLAND",
-    "title": "Ciabatta Plantare Estraibile con Doppio Strappo",
-    "size": "39",
-    "availability": "in_stock",
-    "price": "45.00 EUR",
-    "sale_price": "45.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/e/ce0392.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720381/s/ciabatta-plantare-estraibile-con-doppio-strappo/category/107/"
-  },
-  {
-    "id": "CE0392.28",
-    "brand": "GRUNLAND",
-    "title": "Ciabatta Plantare Estraibile con Doppio Strappo",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "45.00 EUR",
-    "sale_price": "45.00 EUR",
-    "color": "GRIGIO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/e/ce0392.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720381/s/ciabatta-plantare-estraibile-con-doppio-strappo/category/107/"
-  },
-  {
     "id": "CI2578.02",
     "brand": "GRUNLAND",
     "title": "Ciabatta Infradito con Strappo Nabuk Cuoio",
@@ -4504,21 +4294,6 @@
     "brand": "GRUNLAND",
     "title": "Sandalo in Pelle Nera con Fibia e Zeppa 4 cm",
     "size": "36",
-    "availability": "in_stock",
-    "price": "79.00 EUR",
-    "sale_price": "79.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/a/sa1929.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720383/s/sandalo-in-pelle-nera-con-fibia-e-zeppa-4-cm/category/107/"
-  },
-  {
-    "id": "SA1929.01",
-    "brand": "GRUNLAND",
-    "title": "Sandalo in Pelle Nera con Fibia e Zeppa 4 cm",
-    "size": "37",
     "availability": "in_stock",
     "price": "79.00 EUR",
     "sale_price": "79.00 EUR",
@@ -4647,7 +4422,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4368.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721968/s/mocassino-cuoio-forato-con-passante/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721968/s/mocassino-cuoio-forato-con-passante/category/423/"
   },
   {
     "id": "SC4368.02",
@@ -4662,7 +4437,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4368.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721968/s/mocassino-cuoio-forato-con-passante/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721968/s/mocassino-cuoio-forato-con-passante/category/423/"
   },
   {
     "id": "SC4368.02",
@@ -4677,37 +4452,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4368.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721968/s/mocassino-cuoio-forato-con-passante/category/107/"
-  },
-  {
-    "id": "SC4368.02",
-    "brand": "GRUNLAND",
-    "title": "Mocassino Cuoio Forato con Passante",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "MARRONE",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4368.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721968/s/mocassino-cuoio-forato-con-passante/category/107/"
-  },
-  {
-    "id": "SC4368.02",
-    "brand": "GRUNLAND",
-    "title": "Mocassino Cuoio Forato con Passante",
-    "size": "41",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "MARRONE",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4368.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721968/s/mocassino-cuoio-forato-con-passante/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721968/s/mocassino-cuoio-forato-con-passante/category/423/"
   },
   {
     "id": "SC4368.02",
@@ -4722,7 +4467,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4368.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721968/s/mocassino-cuoio-forato-con-passante/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721968/s/mocassino-cuoio-forato-con-passante/category/423/"
   },
   {
     "id": "CB0771.01",
@@ -4827,7 +4572,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4370.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/423/"
   },
   {
     "id": "SC4370.09",
@@ -4842,7 +4587,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4370.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/423/"
   },
   {
     "id": "SC4370.09",
@@ -4857,7 +4602,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4370.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/423/"
   },
   {
     "id": "SC4370.09",
@@ -4872,7 +4617,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4370.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/423/"
   },
   {
     "id": "SC4370.09",
@@ -4887,22 +4632,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4370.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/107/"
-  },
-  {
-    "id": "SC4381.06",
-    "brand": "GRUNLAND",
-    "title": "Mocassino Blu Traforato con Catena",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4381.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/423/"
   },
   {
     "id": "SC4381.06",
@@ -4917,7 +4647,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4381.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/423/"
   },
   {
     "id": "SC4381.06",
@@ -4932,7 +4662,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4381.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/423/"
   },
   {
     "id": "SC4381.06",
@@ -4947,7 +4677,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4381.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/423/"
   },
   {
     "id": "SC4381.06",
@@ -4962,7 +4692,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4381.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/423/"
   },
   {
     "id": "SC4381.06",
@@ -4977,7 +4707,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4381.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/423/"
   },
   {
     "id": "SC4388.06",
@@ -4992,22 +4722,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/107/"
-  },
-  {
-    "id": "SC4388.06",
-    "brand": "GRUNLAND",
-    "title": "Mocassino Traforato Blu Grunland",
-    "size": "38",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/423/"
   },
   {
     "id": "SC4388.06",
@@ -5022,7 +4737,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/423/"
   },
   {
     "id": "SC4388.06",
@@ -5037,7 +4752,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/423/"
   },
   {
     "id": "SC4388.06",
@@ -5052,7 +4767,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/423/"
   },
   {
     "id": "SC4388.26",
@@ -5067,7 +4782,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/423/"
   },
   {
     "id": "SC4388.26",
@@ -5082,7 +4797,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/423/"
   },
   {
     "id": "SC4388.26",
@@ -5097,22 +4812,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/107/"
-  },
-  {
-    "id": "SC4388.26",
-    "brand": "GRUNLAND",
-    "title": "Mocassino Traforato Verde Grunland",
-    "size": "39",
-    "availability": "in_stock",
-    "price": "59.00 EUR",
-    "sale_price": "59.00 EUR",
-    "color": "VERDE",
-    "gender": "Donna",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/423/"
   },
   {
     "id": "SC4388.26",
@@ -5127,7 +4827,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/423/"
   },
   {
     "id": "SC4388.26",
@@ -5142,7 +4842,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/423/"
   },
   {
     "id": "CB0771.01",
@@ -5172,7 +4872,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4370.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722109/s/slipon-traforata-taupe/category/423/"
   },
   {
     "id": "SC4381.06",
@@ -5187,7 +4887,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4381.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722110/s/mocassino-blu-traforato-con-catena/category/423/"
   },
   {
     "id": "SC4388.06",
@@ -5202,7 +4902,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722111/s/mocassino-traforato-blu-grunland/category/423/"
   },
   {
     "id": "SC4388.26",
@@ -5217,7 +4917,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/c/sc4388.26-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/107/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722112/s/mocassino-traforato-verde-grunland/category/423/"
   },
   {
     "id": "CB2434.14",
@@ -5313,21 +5013,6 @@
     "id": "CB3272.01",
     "brand": "GRUNLAND",
     "title": "Ciabatte pelle nere con fibbie oro",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/b/cb3272.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722778/s/ciabatte-pelle-nere-con-fibbie-oro/category/107/"
-  },
-  {
-    "id": "CB3272.01",
-    "brand": "GRUNLAND",
-    "title": "Ciabatte pelle nere con fibbie oro",
     "size": "37",
     "availability": "in_stock",
     "price": "69.00 EUR",
@@ -5373,21 +5058,6 @@
     "id": "CB3272.01",
     "brand": "GRUNLAND",
     "title": "Ciabatte pelle nere con fibbie oro",
-    "size": "40",
-    "availability": "in_stock",
-    "price": "69.00 EUR",
-    "sale_price": "69.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/b/cb3272.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722778/s/ciabatte-pelle-nere-con-fibbie-oro/category/107/"
-  },
-  {
-    "id": "CB3272.01",
-    "brand": "GRUNLAND",
-    "title": "Ciabatte pelle nere con fibbie oro",
     "size": "41",
     "availability": "in_stock",
     "price": "69.00 EUR",
@@ -5398,21 +5068,6 @@
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/c/b/cb3272.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722778/s/ciabatte-pelle-nere-con-fibbie-oro/category/107/"
-  },
-  {
-    "id": "CI2577.09",
-    "brand": "GRUNLAND",
-    "title": "Sandali beige con maxi fibbie oro",
-    "size": "36",
-    "availability": "in_stock",
-    "price": "49.00 EUR",
-    "sale_price": "49.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/i/ci2577.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722779/s/sandali-beige-con-maxi-fibbie-oro/category/107/"
   },
   {
     "id": "CI2577.09",
@@ -5479,21 +5134,6 @@
     "brand": "GRUNLAND",
     "title": "Sandali color cuoio con fibbie dorate",
     "size": "36",
-    "availability": "in_stock",
-    "price": "55.00 EUR",
-    "sale_price": "55.00 EUR",
-    "color": "MARRONE",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/a/sa1057.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722780/s/sandali-color-cuoio-con-fibbie-dorate/category/107/"
-  },
-  {
-    "id": "SA1057.02",
-    "brand": "GRUNLAND",
-    "title": "Sandali color cuoio con fibbie dorate",
-    "size": "37",
     "availability": "in_stock",
     "price": "55.00 EUR",
     "sale_price": "55.00 EUR",
@@ -5689,21 +5329,6 @@
     "brand": "GRUNLAND",
     "title": "Sandali neri in vera pelle incrociati",
     "size": "39",
-    "availability": "in_stock",
-    "price": "65.00 EUR",
-    "sale_price": "65.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/a/sa3107.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/722782/s/sandali-neri-in-vera-pelle-incrociati/category/107/"
-  },
-  {
-    "id": "SA3107.01",
-    "brand": "GRUNLAND",
-    "title": "Sandali neri in vera pelle incrociati",
-    "size": "40",
     "availability": "in_stock",
     "price": "65.00 EUR",
     "sale_price": "65.00 EUR",
@@ -5914,21 +5539,6 @@
     "brand": "GRUNLAND",
     "title": "Sandali Bassi Bianchi con Borchie",
     "size": "36",
-    "availability": "in_stock",
-    "price": "65.00 EUR",
-    "sale_price": "65.00 EUR",
-    "color": "ARGENTO",
-    "gender": "Bambina",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb1146.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723712/s/sandali-bassi-bianchi-con-borchie/category/107/"
-  },
-  {
-    "id": "SB1146.16",
-    "brand": "GRUNLAND",
-    "title": "Sandali Bassi Bianchi con Borchie",
-    "size": "37",
     "availability": "in_stock",
     "price": "65.00 EUR",
     "sale_price": "65.00 EUR",
@@ -6543,21 +6153,6 @@
     "id": "SB1136.16",
     "brand": "GRUNLAND",
     "title": "Sandali Bianchi con Dettaglio Glitter",
-    "size": "34",
-    "availability": "in_stock",
-    "price": "55.00 EUR",
-    "sale_price": "55.00 EUR",
-    "color": "ARGENTO",
-    "gender": "Bambina",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb1136.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723796/s/sandali-bianchi-con-dettaglio-glitter/category/107/"
-  },
-  {
-    "id": "SB1136.16",
-    "brand": "GRUNLAND",
-    "title": "Sandali Bianchi con Dettaglio Glitter",
     "size": "35",
     "availability": "in_stock",
     "price": "55.00 EUR",
@@ -6703,5 +6298,410 @@
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb1136.16-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723796/s/sandali-bianchi-con-dettaglio-glitter/category/107/"
+  },
+  {
+    "id": "CB0819.14_35",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta con zeppa intrecciata strass",
+    "size": "35",
+    "availability": "in_stock",
+    "price": "75.00 EUR",
+    "sale_price": "75.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727122/s/ciabatta-con-zeppa-intrecciata-strass/"
+  },
+  {
+    "id": "CB0819.14_36",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta con zeppa intrecciata strass",
+    "size": "36",
+    "availability": "in_stock",
+    "price": "75.00 EUR",
+    "sale_price": "75.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727123/s/ciabatta-con-zeppa-intrecciata-strass/"
+  },
+  {
+    "id": "CB0819.14_37",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta con zeppa intrecciata strass",
+    "size": "37",
+    "availability": "in_stock",
+    "price": "75.00 EUR",
+    "sale_price": "75.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727124/s/ciabatta-con-zeppa-intrecciata-strass/"
+  },
+  {
+    "id": "CB0819.14_38",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta con zeppa intrecciata strass",
+    "size": "38",
+    "availability": "in_stock",
+    "price": "75.00 EUR",
+    "sale_price": "75.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727125/s/ciabatta-con-zeppa-intrecciata-strass/"
+  },
+  {
+    "id": "CB0819.14_39",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta con zeppa intrecciata strass",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "75.00 EUR",
+    "sale_price": "75.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727126/s/ciabatta-con-zeppa-intrecciata-strass/"
+  },
+  {
+    "id": "CB0819.14_40",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta con zeppa intrecciata strass",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "75.00 EUR",
+    "sale_price": "75.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727127/s/ciabatta-con-zeppa-intrecciata-strass/"
+  },
+  {
+    "id": "CI1580.18_36",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta gialla con dettaglio anello",
+    "size": "36",
+    "availability": "in_stock",
+    "price": "49.00 EUR",
+    "sale_price": "49.00 EUR",
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727138/s/ciabatta-gialla-con-dettaglio-anello/"
+  },
+  {
+    "id": "CI1580.18_37",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta gialla con dettaglio anello",
+    "size": "37",
+    "availability": "in_stock",
+    "price": "49.00 EUR",
+    "sale_price": "49.00 EUR",
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727139/s/ciabatta-gialla-con-dettaglio-anello/"
+  },
+  {
+    "id": "CI1580.18_38",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta gialla con dettaglio anello",
+    "size": "38",
+    "availability": "in_stock",
+    "price": "49.00 EUR",
+    "sale_price": "49.00 EUR",
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727140/s/ciabatta-gialla-con-dettaglio-anello/"
+  },
+  {
+    "id": "CI1580.18_39",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta gialla con dettaglio anello",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "49.00 EUR",
+    "sale_price": "49.00 EUR",
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727141/s/ciabatta-gialla-con-dettaglio-anello/"
+  },
+  {
+    "id": "CI1580.18_40",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta gialla con dettaglio anello",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "49.00 EUR",
+    "sale_price": "49.00 EUR",
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727142/s/ciabatta-gialla-con-dettaglio-anello/"
+  },
+  {
+    "id": "CI1580.18_41",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta gialla con dettaglio anello",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "49.00 EUR",
+    "sale_price": "49.00 EUR",
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727143/s/ciabatta-gialla-con-dettaglio-anello/"
+  },
+  {
+    "id": "SB2412.26_36",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "36",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "VERDE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727153/s/sandalo-chiuso-in-pelle-con-cinturino/"
+  },
+  {
+    "id": "SB2412.26_38",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "38",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "VERDE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727155/s/sandalo-chiuso-in-pelle-con-cinturino/"
+  },
+  {
+    "id": "SB2412.26_39",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "VERDE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727156/s/sandalo-chiuso-in-pelle-con-cinturino/"
+  },
+  {
+    "id": "SB2412.26_40",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "VERDE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727157/s/sandalo-chiuso-in-pelle-con-cinturino/"
+  },
+  {
+    "id": "SB2412.26_41",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "VERDE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727158/s/sandalo-chiuso-in-pelle-con-cinturino/"
+  },
+  {
+    "id": "CB0819.14",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta con zeppa intrecciata strass",
+    "size": null,
+    "availability": "in_stock",
+    "price": "75.00 EUR",
+    "sale_price": "75.00 EUR",
+    "color": "ROSA",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "E25",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727168/s/ciabatta-con-zeppa-intrecciata-strass/category/107/"
+  },
+  {
+    "id": "CI1580.18",
+    "brand": "GRUNLAND",
+    "title": "Ciabatta gialla con dettaglio anello",
+    "size": null,
+    "availability": "in_stock",
+    "price": "49.00 EUR",
+    "sale_price": "49.00 EUR",
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "CIABATTE",
+    "season": "E25",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727169/s/ciabatta-gialla-con-dettaglio-anello/category/107/"
+  },
+  {
+    "id": "SB2412.26",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": null,
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "VERDE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727170/s/sandalo-chiuso-in-pelle-con-cinturino/category/107/"
+  },
+  {
+    "id": "SB2412.02",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "36",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb2412.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727394/s/sandalo-chiuso-in-pelle-con-cinturino/category/107/"
+  },
+  {
+    "id": "SB2412.02",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "37",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb2412.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727394/s/sandalo-chiuso-in-pelle-con-cinturino/category/107/"
+  },
+  {
+    "id": "SB2412.02",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "38",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb2412.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727394/s/sandalo-chiuso-in-pelle-con-cinturino/category/107/"
+  },
+  {
+    "id": "SB2412.02",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "39",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb2412.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727394/s/sandalo-chiuso-in-pelle-con-cinturino/category/107/"
+  },
+  {
+    "id": "SB2412.02",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "40",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb2412.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727394/s/sandalo-chiuso-in-pelle-con-cinturino/category/107/"
+  },
+  {
+    "id": "SB2412.02",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": "41",
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb2412.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727394/s/sandalo-chiuso-in-pelle-con-cinturino/category/107/"
+  },
+  {
+    "id": "SB2412.02",
+    "brand": "GRUNLAND",
+    "title": "Sandalo chiuso in pelle con cinturino",
+    "size": null,
+    "availability": "in_stock",
+    "price": "65.00 EUR",
+    "sale_price": "65.00 EUR",
+    "color": "MARRONE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/s/b/sb2412.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727394/s/sandalo-chiuso-in-pelle-con-cinturino/category/107/"
   }
 ]

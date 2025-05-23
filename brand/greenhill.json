@@ -1,8 +1,8 @@
 [
   {
-    "id": "36560.02",
+    "id": "36560.02_45",
     "brand": "GREENHILL",
-    "title": "36560.02",
+    "title": "36560.02_45",
     "size": "45",
     "availability": "in_stock",
     "price": "55.00 EUR",
@@ -10,9 +10,9 @@
     "color": "MARRONE",
     "gender": "Uomo",
     "category": "SNEAKERS",
-    "season": "E19",
+    "season": "",
     "image": null,
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680249/s/36560-02/category/224/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/596877/"
   },
   {
     "id": "02142550.02",
@@ -103,5 +103,20 @@
     "season": "E22",
     "image": "https://www.langolo-calzature.it/media/catalog/product/9/5/952547260.01-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/brand/greenhill/sandalo-nero-e-animalier-con-strappo"
+  },
+  {
+    "id": "36560.02",
+    "brand": "GREENHILL",
+    "title": "36560.02",
+    "size": null,
+    "availability": "in_stock",
+    "price": "55.00 EUR",
+    "sale_price": "55.00 EUR",
+    "color": "MARRONE",
+    "gender": "Uomo",
+    "category": "SNEAKERS",
+    "season": "E19",
+    "image": null,
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/680249/s/36560-02/category/224/"
   }
 ]

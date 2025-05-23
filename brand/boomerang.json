@@ -168,21 +168,6 @@
     "id": "6030.02",
     "brand": "BOOMERANG",
     "title": "Scarpa stringata cuoio con impuntura inglese",
-    "size": "46",
-    "availability": "in_stock",
-    "price": "110.00 EUR",
-    "sale_price": "49.00 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "I22",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/6/0/6030.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/uomo/scarpa-stringata-cuoio-con-impuntura-inglese"
-  },
-  {
-    "id": "6030.02",
-    "brand": "BOOMERANG",
-    "title": "Scarpa stringata cuoio con impuntura inglese",
     "size": null,
     "availability": "in_stock",
     "price": "110.00 EUR",
@@ -513,21 +498,6 @@
     "id": "3790.02",
     "brand": "BOOMERANG",
     "title": "Scarpa da Vela in Pelle Marrone",
-    "size": "45",
-    "availability": "in_stock",
-    "price": "99.00 EUR",
-    "sale_price": "99.00 EUR",
-    "color": "MARRONE",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/7/3790.02-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703630/s/scarpa-da-vela-in-pelle-marrone/category/831/"
-  },
-  {
-    "id": "3790.02",
-    "brand": "BOOMERANG",
-    "title": "Scarpa da Vela in Pelle Marrone",
     "size": "46",
     "availability": "in_stock",
     "price": "99.00 EUR",
@@ -552,7 +522,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703631/s/mocassino-con-laccio-in-tessuto-blu/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703631/s/mocassino-con-laccio-in-tessuto-blu/category/515/"
   },
   {
     "id": "8788.06",
@@ -567,7 +537,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703631/s/mocassino-con-laccio-in-tessuto-blu/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703631/s/mocassino-con-laccio-in-tessuto-blu/category/515/"
   },
   {
     "id": "8788.06",
@@ -582,7 +552,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703631/s/mocassino-con-laccio-in-tessuto-blu/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703631/s/mocassino-con-laccio-in-tessuto-blu/category/515/"
   },
   {
     "id": "8788.06",
@@ -597,7 +567,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703631/s/mocassino-con-laccio-in-tessuto-blu/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703631/s/mocassino-con-laccio-in-tessuto-blu/category/515/"
   },
   {
     "id": "8788.11",
@@ -612,7 +582,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703632/s/mocasino-con-laccio-in-tessuto-rosso/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703632/s/mocasino-con-laccio-in-tessuto-rosso/category/515/"
   },
   {
     "id": "8788.11",
@@ -627,7 +597,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703632/s/mocasino-con-laccio-in-tessuto-rosso/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703632/s/mocasino-con-laccio-in-tessuto-rosso/category/515/"
   },
   {
     "id": "8788.28",
@@ -642,7 +612,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703633/s/mocassino-con-laccio-in-tessuto-grigio/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703633/s/mocassino-con-laccio-in-tessuto-grigio/category/515/"
   },
   {
     "id": "8788.28",
@@ -657,7 +627,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703633/s/mocassino-con-laccio-in-tessuto-grigio/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703633/s/mocassino-con-laccio-in-tessuto-grigio/category/515/"
   },
   {
     "id": "8788.28",
@@ -672,7 +642,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703633/s/mocassino-con-laccio-in-tessuto-grigio/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703633/s/mocassino-con-laccio-in-tessuto-grigio/category/515/"
   },
   {
     "id": "8788.28",
@@ -687,7 +657,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703633/s/mocassino-con-laccio-in-tessuto-grigio/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703633/s/mocassino-con-laccio-in-tessuto-grigio/category/515/"
   },
   {
     "id": "8960.28",
@@ -858,21 +828,6 @@
     "id": "AN38.01",
     "brand": "BOOMERANG",
     "title": "Scarpa Stringata in Pelle Nera",
-    "size": "44",
-    "availability": "in_stock",
-    "price": "129.00 EUR",
-    "sale_price": "129.00 EUR",
-    "color": "NERO",
-    "gender": "Uomo",
-    "category": "MOCASSINI E SCARPE SENZA LACCI",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/a/n/an38.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703635/s/scarpa-stringata-in-pelle-nera/category/831/"
-  },
-  {
-    "id": "AN38.01",
-    "brand": "BOOMERANG",
-    "title": "Scarpa Stringata in Pelle Nera",
     "size": "45",
     "availability": "in_stock",
     "price": "129.00 EUR",
@@ -897,7 +852,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/d/u/du316.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703636/s/mocassino-in-camoscio-blu-fondo-gomma/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703636/s/mocassino-in-camoscio-blu-fondo-gomma/category/515/"
   },
   {
     "id": "DU323.01",
@@ -972,7 +927,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703631/s/mocassino-con-laccio-in-tessuto-blu/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703631/s/mocassino-con-laccio-in-tessuto-blu/category/515/"
   },
   {
     "id": "8788.11",
@@ -987,7 +942,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.11-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703632/s/mocasino-con-laccio-in-tessuto-rosso/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703632/s/mocasino-con-laccio-in-tessuto-rosso/category/515/"
   },
   {
     "id": "8788.28",
@@ -1002,7 +957,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/8/7/8788.28-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703633/s/mocassino-con-laccio-in-tessuto-grigio/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703633/s/mocassino-con-laccio-in-tessuto-grigio/category/515/"
   },
   {
     "id": "8960.28",
@@ -1047,7 +1002,7 @@
     "category": "MOCASSINI E SCARPE SENZA LACCI",
     "season": "E24",
     "image": "https://www.langolo-calzature.it/media/catalog/product/d/u/du316.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703636/s/mocassino-in-camoscio-blu-fondo-gomma/category/831/"
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/703636/s/mocassino-in-camoscio-blu-fondo-gomma/category/515/"
   },
   {
     "id": "DU323.01",

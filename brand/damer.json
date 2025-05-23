@@ -45,6 +45,36 @@
     "link": "https://www.langolo-calzature.it/it/brand/polacco-in-pelle-nera-con-pelo"
   },
   {
+    "id": "511.01",
+    "brand": "DAMER",
+    "title": "Polacco in pelle nera con pelo",
+    "size": "43",
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "29.00 EUR",
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "TRONCHETTI",
+    "season": "I19",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/5/1/511.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/saldi/uomo-scarpe/polacco-in-pelle-nera-con-pelo-255127"
+  },
+  {
+    "id": "511.01",
+    "brand": "DAMER",
+    "title": "Polacco in pelle nera con pelo",
+    "size": null,
+    "availability": "in_stock",
+    "price": "99.00 EUR",
+    "sale_price": "29.00 EUR",
+    "color": "NERO",
+    "gender": "Uomo",
+    "category": "TRONCHETTI",
+    "season": "I19",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/5/1/511.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/-101824"
+  },
+  {
     "id": "MG12D.28",
     "brand": "DAMER",
     "title": "Polacco con Montone",
