@@ -3,21 +3,6 @@
     "id": "VB6313.01",
     "brand": "VERABLUM",
     "title": "Sandalo Slingback con lacci e fiocco",
-    "size": "35",
-    "availability": "in_stock",
-    "price": "39.00 EUR",
-    "sale_price": "39.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E22",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/v/b/vb6313.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/donna/sandali/sandalo-slingback-con-lacci-e-fiocco"
-  },
-  {
-    "id": "VB6313.01",
-    "brand": "VERABLUM",
-    "title": "Sandalo Slingback con lacci e fiocco",
     "size": null,
     "availability": "in_stock",
     "price": "39.00 EUR",
@@ -27,6 +12,6 @@
     "category": "SANDALI",
     "season": "E22",
     "image": "https://www.langolo-calzature.it/media/catalog/product/v/b/vb6313.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/sandalo-slingback-con-lacci-e-fiocco"
+    "link": "https://www.langolo-calzature.it/it/donna/sandali/sandalo-slingback-con-lacci-e-fiocco"
   }
 ]
