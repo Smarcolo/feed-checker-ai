@@ -163,5 +163,35 @@
     "season": "E25",
     "image": "https://www.langolo-calzature.it/media/catalog/product/7/5/7573.08-0001.jpg",
     "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727032/s/sandalo-zeppa-bianco-in-vera-pelle/category/827/"
+  },
+  {
+    "id": "3263.09",
+    "brand": "LUX",
+    "title": "Sandalo nude dettaglio strass",
+    "size": null,
+    "availability": "in_stock",
+    "price": "75.00 EUR",
+    "sale_price": "75.00 EUR",
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/3/2/3263.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728618/s/sandalo-nude-dettaglio-strass/category/827/"
+  },
+  {
+    "id": "6574.18",
+    "brand": "LUX",
+    "title": "Sandalo giallo in pelle con zeppa",
+    "size": null,
+    "availability": "in_stock",
+    "price": "79.00 EUR",
+    "sale_price": "79.00 EUR",
+    "color": "GIALLO",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/6/5/6574.18-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/728619/s/sandalo-giallo-in-pelle-con-zeppa/category/827/"
   }
 ]
