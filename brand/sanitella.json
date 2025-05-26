@@ -1,17 +1,15 @@
 [
   {
     "id": "031.09",
-    "brand": "SANITELLA",
     "title": "Zoccolo sanitario in legno beige",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Comfort e stile si incontrano in questo zoccolo sanitario in legno firmato Sanitella. La tomaia beige con fibbia dorata regolabile dona un tocco elegante, mentre la base in legno anatomico garantisce sostegno e benessere anche durante le giornate più intense. La suola antiscivolo lo rende perfetto sia per ambienti professionali che per la casa.\nIndossalo con un completo da lavoro, pantaloni in lino o una gonna midi per uno stile pratico ma curato. ",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723014/s/zoccolo-sanitario-in-legno-beige/category/853/",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/0/3/031.09-0001.jpg",
     "price": "28.00 EUR",
     "sale_price": "28.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/0/3/031.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/723014/s/zoccolo-sanitario-in-legno-beige/category/853/"
+    "availability": "in_stock",
+    "brand": "SANITELLA",
+    "size": "",
+    "color": "BEIGE"
   }
 ]

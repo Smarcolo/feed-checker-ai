@@ -1,17 +1,15 @@
 [
   {
     "id": "2790ACOTW.08",
-    "brand": "SUPERVARESE",
     "title": "Sneaker 2790 Platform White",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Nuove altezze e lo stile di sempre. La sneaker Superga 2790 reinterpreta il modello iconico con una zeppa di 4 cm che slancia la silhouette e si abbina con disinvoltura al denim e a look più femminili. La tomaia in tela di cotone è estremamente resistente e traspirante. Fondo in gomma. Made in Vietnam",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/696316/s/sneaker-2790-platform-white/category/54/",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/2/7/2790acotw.08-0001.jpg",
     "price": "75.00 EUR",
     "sale_price": "75.00 EUR",
-    "color": "BIANCO",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/2/7/2790acotw.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/696316/s/sneaker-2790-platform-white/category/54/"
+    "availability": "in_stock",
+    "brand": "SUPERVARESE",
+    "size": "",
+    "color": "BIANCO"
   }
 ]

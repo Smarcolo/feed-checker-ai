@@ -1,32 +1,28 @@
 [
   {
     "id": "FIORE.16",
-    "brand": "STEP",
     "title": "Sandalo chiuso  Listini in Argento con Cinturino",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Perfetta per completare il tuo look da ufficio o anche per un&#039;occasione speciale, queste ballerine slingback in pelle argento traforata hanno un cinturino regolabile alla caviglia per valorizzarla e un fondo gomma antiscivolo comodo; il tacco è alto 1 cm e la soletta interna è in pelle color cuoio.",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720850/s/fiore-16/category/422/",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/f/i/fiore.16-0001.jpg",
     "price": "85.00 EUR",
     "sale_price": "85.00 EUR",
-    "color": "ARGENTO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/f/i/fiore.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720850/s/fiore-16/category/422/"
+    "availability": "in_stock",
+    "brand": "STEP",
+    "size": "",
+    "color": "ARGENTO"
   },
   {
     "id": "FLORA.16",
-    "brand": "STEP",
     "title": "Sandalo chiuso Traforata Oro con Cinturino",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Perfetta per completare il tuo look da ufficio o anche per un&#039;occasione speciale, queste ballerine in pelle oro traforata hanno un cinturino regolabile alla caviglia per valorizzarla e un fondo gomma antiscivolo comodo; il tacco è alto 1 cm e la soletta interna è in pelle color cuoio.",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720851/s/flora-16/category/830/",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/f/l/flora.16-0001.jpg",
     "price": "79.00 EUR",
     "sale_price": "79.00 EUR",
-    "color": "ORO",
-    "gender": "Donna",
-    "category": "BALLERINE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/f/l/flora.16-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/720851/s/flora-16/category/830/"
+    "availability": "in_stock",
+    "brand": "STEP",
+    "size": "",
+    "color": "ORO"
   }
 ]
