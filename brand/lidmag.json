@@ -1,15 +1,17 @@
 [
   {
     "id": "SUPREMA.08",
+    "brand": "LIDMAG",
     "title": "Sneaker da Ballo Suprema Bianca",
-    "description": "Fusione perfetta di stile e prestazioni, questa nuova sneaker da ballo è realizzata per portarti al top! In ecopelle bianca con lacci, la soletta interna è morbida per assorbire gli urti e donarti massimo comfort. Dotata di due spin-point sulla suola per massimare le tue prestazioni.  Adatta a chi balla hip-hop e tanti altri stili! ",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721248/s/sneaker-da-ballo-suprema-bianca/category/851/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/s/u/suprema.08-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "119.00 EUR",
     "sale_price": "119.00 EUR",
-    "availability": "in_stock",
-    "brand": "LIDMAG",
-    "size": "",
-    "color": "BIANCO"
+    "color": "BIANCO",
+    "gender": "Unisex",
+    "category": "SCARPE DA BALLO",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/s/u/suprema.08-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/721248/s/sneaker-da-ballo-suprema-bianca/category/851/"
   }
 ]

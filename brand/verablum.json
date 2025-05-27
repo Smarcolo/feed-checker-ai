@@ -1,15 +1,17 @@
 [
   {
     "id": "VB6313.01",
+    "brand": "VERABLUM",
     "title": "Sandalo Slingback con lacci e fiocco",
-    "description": "Bellissimo sandalo a punta realizzato in simil raso nero, impreziosito da un fiocco e con lacci alla caviglia per un tocco sexy. Il tacco a rocchetto misura 8 cm con sopratacco in gomma. Un modello femminile e chic. Made in China",
-    "link": "https://www.langolo-calzature.it/it/donna/sandali/sandalo-slingback-con-lacci-e-fiocco",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/v/b/vb6313.01-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "39.00 EUR",
     "sale_price": "39.00 EUR",
-    "availability": "in_stock",
-    "brand": "VERABLUM",
-    "size": "",
-    "color": "NERO"
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E22",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/v/b/vb6313.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/donna/sandali/sandalo-slingback-con-lacci-e-fiocco"
   }
 ]
