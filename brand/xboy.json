@@ -1,17 +1,15 @@
 [
   {
     "id": "485ZE3.01",
-    "brand": "XBOY",
     "title": "Ballerina in pelle nera con zeppa interna",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Ballerina in morbida pelle nera, con la gala sul davanti per un tocco in più; soletta in pelle con zeppa sul tallone e fondo cuoio. La classica scarpa sempre alla moda che non annoia mai, garantita dal comfort e dalla qualità interamente Made in Italy",
+    "link": "https://www.langolo-calzature.it/it/brand/xboy/ballerina-in-pelle-nera-con-zeppa-interna",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/4/8/485ze3.01-0001.jpg",
     "price": "89.00 EUR",
     "sale_price": "89.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "BALLERINE",
-    "season": "E23",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/4/8/485ze3.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/xboy/ballerina-in-pelle-nera-con-zeppa-interna"
+    "availability": "in_stock",
+    "brand": "XBOY",
+    "size": "",
+    "color": "NERO"
   }
 ]
