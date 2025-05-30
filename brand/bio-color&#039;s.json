@@ -1,28 +1,32 @@
 [
   {
     "id": "0355442.02",
+    "brand": "BIO-COLOR&#039;S",
     "title": "Biocolors Sabot Marrone",
-    "description": "Ciabatta chiusa realizzata in ecopelle Testa di moro con fibbia regolabile e sottopiede in pelle. Il plantare è anatomico e preformato per un maggiore comfort e stabilità. Perfetta per la tua quotidianità.",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/714751/s/biocolors-sabot-marrone/category/7/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/0/3/0355442.02-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "29.00 EUR",
     "sale_price": "29.00 EUR",
-    "availability": "in_stock",
-    "brand": "BIO-COLOR&#039;S",
-    "size": "",
-    "color": "MARRONE"
+    "color": "MARRONE",
+    "gender": "Unisex",
+    "category": "CIABATTE",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/0/3/0355442.02-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/714751/s/biocolors-sabot-marrone/category/7/"
   },
   {
     "id": "PT355.01",
+    "brand": "BIO-COLOR&#039;S",
     "title": "Ciabatta Chiusa in Pelle Nera",
-    "description": "Ciabatta chiusa realizzata in pelle nabuk nero con fibbia regolabile e sottopiede in pelle. Il plantare è anatomico e preformato per un maggiore comfort e stabilità. Perfetta per la tua quotidianità. Made in Italy ",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/714753/s/ciabatta-chiusa-in-pelle-nera/category/7/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/p/t/pt355.01-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "49.00 EUR",
     "sale_price": "49.00 EUR",
-    "availability": "in_stock",
-    "brand": "BIO-COLOR&#039;S",
-    "size": "",
-    "color": "NERO"
+    "color": "NERO",
+    "gender": "Unisex",
+    "category": "CIABATTE",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/p/t/pt355.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/714753/s/ciabatta-chiusa-in-pelle-nera/category/7/"
   }
 ]

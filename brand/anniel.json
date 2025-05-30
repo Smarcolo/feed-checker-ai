@@ -1,15 +1,17 @@
 [
   {
     "id": "2481.08",
+    "brand": "ANNIEL",
     "title": "Scarpa da Boogie in pelle bianca con cinturino",
-    "description": "Morbidissima ballerina da Boogi Woogie in pelle bianca con impuntura inglese, con cinturino regolabile alla caviglia. Se il tuo ballo è il Boogie non lasciarti sfuggire questa scarpa comodissima e adatta proprio per questo ballo! ",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/688721/s/scarpa-da-boogie-in-pelle-bianca-con-cinturino/category/92/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/2/4/2481.08-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "119.00 EUR",
     "sale_price": "119.00 EUR",
-    "availability": "in_stock",
-    "brand": "ANNIEL",
-    "size": "",
-    "color": "BIANCO"
+    "color": "BIANCO",
+    "gender": "Donna",
+    "category": "SCARPE DA BALLO",
+    "season": "E24",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/2/4/2481.08-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/688721/s/scarpa-da-boogie-in-pelle-bianca-con-cinturino/category/92/"
   }
 ]
