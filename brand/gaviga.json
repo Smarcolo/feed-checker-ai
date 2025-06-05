@@ -1,32 +1,28 @@
 [
   {
     "id": "D.193.01",
-    "brand": "GAVIGA",
     "title": "Pantofola in Elastene Nero con Strappo",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Pantofola comodissima realizzata in elastene nero per adattarsi meglio al piede con strappo e fondo gomma antiscivolo. Ideale per chi ha piedi problematici e vuole avere sicurezza e comfort assoluto. Made in Italy ",
+    "link": "https://www.langolo-calzature.it/it/donna/pantofole/pantofola-in-elastene-nero-con-strappo",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/_/d.193.01-0001.jpg",
     "price": "30.00 EUR",
     "sale_price": "30.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "PANTOFOLE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/d/_/d.193.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/donna/pantofole/pantofola-in-elastene-nero-con-strappo"
+    "availability": "in_stock",
+    "brand": "GAVIGA",
+    "size": "",
+    "color": "NERO"
   },
   {
     "id": "D.193.09",
-    "brand": "GAVIGA",
     "title": "Pantofola in Elastene Beige con Strappo",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Pantofola comodissima realizzata in elastene beige per adattarsi meglio al piede con strappo e fondo gomma antiscivolo. Ideale per chi ha piedi problematici e vuole avere sicurezza e comfort assoluto. Made in Italy ",
+    "link": "https://www.langolo-calzature.it/it/donna/pantofole/pantofola-in-elastene-beige-con-strappo",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/_/d.193.09-0001.jpg",
     "price": "30.00 EUR",
     "sale_price": "30.00 EUR",
-    "color": "BEIGE",
-    "gender": "Donna",
-    "category": "PANTOFOLE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/d/_/d.193.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/donna/pantofole/pantofola-in-elastene-beige-con-strappo"
+    "availability": "in_stock",
+    "brand": "GAVIGA",
+    "size": "",
+    "color": "BEIGE"
   }
 ]

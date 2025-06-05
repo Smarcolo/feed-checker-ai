@@ -1,17 +1,15 @@
 [
   {
     "id": "1A06.01",
-    "brand": "W6YZ",
     "title": "Sneaker Nick Camoscio Beige e Tela Nera",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Super trendy questo modello di sneaker con suola over bicolore bianca e rosa, tomaia in camoscio beige e taupe, tessuto tecnico nero e con inserti rosa e platino. Idelae per un look trendy e comodo. Made in China",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/691843/s/sneaker-nick-camoscio-beige-e-tela-nera/category/574/",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/a/1a06.01-0001.jpg",
     "price": "159.00 EUR",
     "sale_price": "159.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SNEAKERS",
-    "season": "E24",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/a/1a06.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/691843/s/sneaker-nick-camoscio-beige-e-tela-nera/category/574/"
+    "availability": "in_stock",
+    "brand": "W6YZ",
+    "size": "",
+    "color": "NERO"
   }
 ]

@@ -1,17 +1,15 @@
 [
   {
     "id": "5222050510.01",
-    "brand": "DANCIN",
     "title": "Scarpa da ballo con tacco e fondo bufalo",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Scarpe da ballo modello &quot;cuccarini “in pelle nera , soletta antishock estremamente confortevole, indicate per tutti i tipi di ballo. Il tacco misura 5 cm e il fondo in Bufalo garantisce ottime prestazioni, consigliata su superfici idonee alla danza. Made in Italy",
+    "link": "https://www.langolo-calzature.it/it/donna/ballo/scarpa-da-ballo-con-tacco-e-fondo-bufalo",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/5/2/5222050510.01-0001.jpg",
     "price": "79.00 EUR",
     "sale_price": "79.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SCARPE DA BALLO",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/5/2/5222050510.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/donna/ballo/scarpa-da-ballo-con-tacco-e-fondo-bufalo"
+    "availability": "in_stock",
+    "brand": "DANCIN",
+    "size": "",
+    "color": "NERO"
   }
 ]

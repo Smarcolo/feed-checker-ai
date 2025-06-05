@@ -1,17 +1,15 @@
 [
   {
     "id": "39384701.08",
-    "brand": "PUMA",
     "title": "Sneakers Puma unisex Carina Street",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Versatili, comode e sempre alla moda: queste sneakers Puma unisex in total white con logo oro sono il mix perfetto tra stile e praticità. Ideali per bambini e bambine, si abbinano con tutto, dai jeans ai jogger, fino a leggings o shorts. La suola spessa offre sostegno e comfort per tutto il giorno, mentre il design pulito con dettagli dorati aggiunge un tocco trendy a ogni outfit. Un modello easy da infilare, perfetto per la scuola o il tempo libero!",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725916/s/sneakers-puma-unisex-carina-street/category/157/",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/3/9/39384701.08-0001.jpg",
     "price": "60.00 EUR",
     "sale_price": "60.00 EUR",
-    "color": "BIANCO",
-    "gender": "Unisex",
-    "category": "SNEAKERS",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/9/39384701.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/725916/s/sneakers-puma-unisex-carina-street/category/157/"
+    "availability": "in_stock",
+    "brand": "PUMA",
+    "size": "",
+    "color": "BIANCO"
   }
 ]

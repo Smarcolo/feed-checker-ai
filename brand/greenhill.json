@@ -1,17 +1,15 @@
 [
   {
     "id": "952547260.01",
-    "brand": "GREENHILL",
     "title": "Sandalo nero e animalier con strappo",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Sandalo da donna realizzato in pelle nera con fascia stampa animalier sul davanti e cinturino a strappo alla caviglia. Il sottopiede è in pelle e la zeppa misura 4 cm con fondo gomma. Comodo e sfizioso.",
+    "link": "https://www.langolo-calzature.it/it/brand/greenhill/sandalo-nero-e-animalier-con-strappo",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/9/5/952547260.01-0001.jpg",
     "price": "55.00 EUR",
     "sale_price": "55.00 EUR",
-    "color": "NERO",
-    "gender": "Donna",
-    "category": "SANDALI",
-    "season": "E22",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/9/5/952547260.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/greenhill/sandalo-nero-e-animalier-con-strappo"
+    "availability": "in_stock",
+    "brand": "GREENHILL",
+    "size": "",
+    "color": "NERO"
   }
 ]
