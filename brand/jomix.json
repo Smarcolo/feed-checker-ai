@@ -1,28 +1,32 @@
 [
   {
     "id": "CLOGMONO.01",
+    "brand": "JOMIX",
     "title": "Ciabatte unisex in gomma nera traforate",
-    "description": "Comodi, leggeri e versatili: queste ciabatte in gomma nera sono il must-have per chi cerca comfort senza rinunciare alla praticità. Perfetti per la casa, il giardino, o anche per il lavoro in ambienti umidi grazie alla suola antiscivolo e al design forato che garantisce massima traspirabilità. Il cinturino posteriore può essere portato sia avanti che dietro, offrendo una calzata personalizzabile. ",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727233/s/ciabatte-unisex-in-gomma-nera-traforate/category/857/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/l/clogmono.01-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "10.00 EUR",
     "sale_price": "10.00 EUR",
-    "availability": "in_stock",
-    "brand": "JOMIX",
-    "size": "",
-    "color": "NERO"
+    "color": "NERO",
+    "gender": "Unisex",
+    "category": "CIABATTE",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/c/l/clogmono.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727233/s/ciabatte-unisex-in-gomma-nera-traforate/category/857/"
   },
   {
     "id": "CLOGMONO.06",
+    "brand": "JOMIX",
     "title": "Ciabatte unisex in gomma blu traforate",
-    "description": "Comodi, leggeri e versatili: queste ciabatte in gomma blu sono il must-have per chi cerca comfort senza rinunciare alla praticità. Perfetti per la casa, il giardino, o anche per il lavoro in ambienti umidi grazie alla suola antiscivolo e al design forato che garantisce massima traspirabilità. Il cinturino posteriore può essere portato sia avanti che dietro, offrendo una calzata personalizzabile. ",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727234/s/ciabatte-unisex-in-gomma-blu-traforate/category/857/",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/c/l/clogmono.06-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "10.00 EUR",
     "sale_price": "10.00 EUR",
-    "availability": "in_stock",
-    "brand": "JOMIX",
-    "size": "",
-    "color": "BLU"
+    "color": "BLU",
+    "gender": "Unisex",
+    "category": "CIABATTE",
+    "season": "E25",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/c/l/clogmono.06-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727234/s/ciabatte-unisex-in-gomma-blu-traforate/category/857/"
   }
 ]
