@@ -1,17 +1,15 @@
 [
   {
     "id": "14527S16G.09",
-    "brand": "GRISPORT",
     "title": "Scarponcino basso Torba Scamosciato e Gritex",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Scarponcino basso unisex realizzato in camoscio beige con lacci arancioni e fondo gomma con un bel grip. Queste calzature sono foderate con la membrana protettiva originale Gritex che dà una maggiore protezione dall&#039;acqua e dal freddo, a garanzia di piedi caldi anche nelle giornate più fredde e umide. Made in Italy",
+    "link": "https://www.langolo-calzature.it/it/saldi/uomo-scarpe/scarponcino-basso-torba-scamosciato-e-gritex",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/1/4/14527s16g.09-0001.jpg",
     "price": "69.00 EUR",
     "sale_price": "69.00 EUR",
-    "color": "BEIGE",
-    "gender": "Unisex",
-    "category": "TRONCHETTI",
-    "season": "E22",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/1/4/14527s16g.09-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/saldi/uomo-scarpe/scarponcino-basso-torba-scamosciato-e-gritex"
+    "availability": "in_stock",
+    "brand": "GRISPORT",
+    "size": "",
+    "color": "BEIGE"
   }
 ]

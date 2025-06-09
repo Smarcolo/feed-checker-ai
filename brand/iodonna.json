@@ -1,17 +1,15 @@
 [
   {
     "id": "1184.06",
-    "brand": "IO DONNA",
     "title": "Decolletè in camoscio blu traforato",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Decolletè in camoscio blu traforato, con dettaglio in pelle con borchiette sul puntale per un effetto più accattivante; soletta in pelle, tacco in legno di 6.5 cm con sopratacco in gomma, plateau di 05. cm e fondo in cuoio. Qualità e comfort Made in Italy",
+    "link": "https://www.langolo-calzature.it/it/brand/iodonna/decollete-in-camoscio-blu-traforato",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/d/_/d.06.1184.iodonna.blu.decollete.l_angolo-calzature0000.jpg",
     "price": "59.00 EUR",
     "sale_price": "59.00 EUR",
-    "color": "BLU",
-    "gender": "Donna",
-    "category": "DECOLLETE",
-    "season": "E16",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/d/_/d.06.1184.iodonna.blu.decollete.l_angolo-calzature0000.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/iodonna/decollete-in-camoscio-blu-traforato"
+    "availability": "in_stock",
+    "brand": "IO DONNA",
+    "size": "",
+    "color": "BLU"
   }
 ]

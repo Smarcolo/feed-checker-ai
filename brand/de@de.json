@@ -1,32 +1,28 @@
 [
   {
     "id": "AGATORMONO.01",
-    "brand": "DE@DE",
     "title": "Ciabatte unisex in gomma nera traforate",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Comodi, leggeri e versatili: queste ciabatte in gomma nera sono il must-have per chi cerca comfort senza rinunciare alla praticità. Perfetti per la casa, il giardino, o anche per il lavoro in ambienti umidi grazie alla suola antiscivolo e al design forato che garantisce massima traspirabilità. Il cinturino posteriore può essere portato sia avanti che dietro, offrendo una calzata personalizzabile. ",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727231/s/ciabatte-unisex-in-gomma-nera-traforate/category/815/",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/a/g/agatormono.01-0001.jpg",
     "price": "10.00 EUR",
     "sale_price": "10.00 EUR",
-    "color": "NERO",
-    "gender": "Unisex",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/a/g/agatormono.01-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727231/s/ciabatte-unisex-in-gomma-nera-traforate/category/815/"
+    "availability": "in_stock",
+    "brand": "DE@DE",
+    "size": "",
+    "color": "NERO"
   },
   {
     "id": "AGATORMONO.06",
-    "brand": "DE@DE",
     "title": "Ciabatte unisex in gomma blu traforate",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Comodi, leggeri e versatili: queste ciabatte in gomma blu sono il must-have per chi cerca comfort senza rinunciare alla praticità. Perfetti per la casa, il giardino, o anche per il lavoro in ambienti umidi grazie alla suola antiscivolo e al design forato che garantisce massima traspirabilità. Il cinturino posteriore può essere portato sia avanti che dietro, offrendo una calzata personalizzabile. ",
+    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727232/s/ciabatte-unisex-in-gomma-blu-traforate/category/815/",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/a/g/agatormono.06-0001.jpg",
     "price": "10.00 EUR",
     "sale_price": "10.00 EUR",
-    "color": "BLU",
-    "gender": "Unisex",
-    "category": "CIABATTE",
-    "season": "E25",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/a/g/agatormono.06-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/catalog/product/view/id/727232/s/ciabatte-unisex-in-gomma-blu-traforate/category/815/"
+    "availability": "in_stock",
+    "brand": "DE@DE",
+    "size": "",
+    "color": "BLU"
   }
 ]

@@ -1,17 +1,15 @@
 [
   {
     "id": "329261.08",
-    "brand": "ROBERT",
     "title": "Ciabatta incrociata con plantare estraibile",
-    "size": null,
-    "availability": "in_stock",
+    "description": "Ciabatta aperta realizzata in pelle bianca, con due fasce che si incrociano e zeppa di 5 cm con fondo gomma. Il plantare è in pelle ed è estraibile. Molto confortevole e di qualità. Made in Italy",
+    "link": "https://www.langolo-calzature.it/it/brand/robert/ciabatta-incrociata-con-plantare-estraibile",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/3/2/329261.08-0001.jpg",
     "price": "45.00 EUR",
     "sale_price": "45.00 EUR",
-    "color": "BIANCO",
-    "gender": "Donna",
-    "category": "CIABATTE",
-    "season": "E21",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/3/2/329261.08-0001.jpg",
-    "link": "https://www.langolo-calzature.it/it/brand/robert/ciabatta-incrociata-con-plantare-estraibile"
+    "availability": "in_stock",
+    "brand": "ROBERT",
+    "size": "",
+    "color": "BIANCO"
   }
 ]
