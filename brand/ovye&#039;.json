@@ -1,15 +1,17 @@
 [
   {
     "id": "AM2001.01",
+    "brand": "OVYE&#039;",
     "title": "Sneaker Tessuto Tye-Dye Nero",
-    "description": "Bellissima sneaker alta realizzata in tessuto tye-dye nero slavato, stringata e con bottoni per decidere se portarla alta o abbassata. Il puntale è in gomma bianca così come la suola over per un look vintage. Un modello giovanile e chic, per le fashion victim! Ovyè by Cristina Lucchi",
-    "link": "https://www.langolo-calzature.it/it/brand/ovye/sneaker-tessuto-tye-dye-nero",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/a/m/am2001.01-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "139.00 EUR",
     "sale_price": "139.00 EUR",
-    "availability": "in_stock",
-    "brand": "OVYE&#039;",
-    "size": "",
-    "color": "NERO"
+    "color": "NERO",
+    "gender": "Donna",
+    "category": "SNEAKERS",
+    "season": "E21",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/a/m/am2001.01-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/ovye/sneaker-tessuto-tye-dye-nero"
   }
 ]
