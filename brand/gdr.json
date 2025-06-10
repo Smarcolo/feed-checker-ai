@@ -1,28 +1,32 @@
 [
   {
     "id": "RSP7188.15",
+    "brand": "GDR",
     "title": "Sandalo infradito gioiello oro",
-    "description": "Sandalo infradito gioiello realizzato in pelle oro e tempestato di pietre con sottopiede in pelle e tacco di 1 cm con fondo gomma. Ideale per le serate estive e non solo!",
-    "link": "https://www.langolo-calzature.it/it/brand/sandalo-infradito-gioiello-oro",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/r/s/rsp7188.15-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "65.00 EUR",
     "sale_price": "65.00 EUR",
-    "availability": "in_stock",
-    "brand": "GDR",
-    "size": "",
-    "color": "ORO"
+    "color": "ORO",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E23",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/r/s/rsp7188.15-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/sandalo-infradito-gioiello-oro"
   },
   {
     "id": "RSP7188.26",
+    "brand": "GDR",
     "title": "Sandalo infradito gioiello verde",
-    "description": "Sandalo infradito gioiello realizzato in pelle verde e tempestato di pietre con sottopiede in pelle e tacco di 1 cm con fondo gomma. Ideale per le serate estive e non solo!",
-    "link": "https://www.langolo-calzature.it/it/brand/sandalo-infradito-gioiello-verde",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/r/s/rsp7188.26-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "65.00 EUR",
     "sale_price": "65.00 EUR",
-    "availability": "in_stock",
-    "brand": "GDR",
-    "size": "",
-    "color": "VERDE"
+    "color": "VERDE",
+    "gender": "Donna",
+    "category": "SANDALI",
+    "season": "E23",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/r/s/rsp7188.26-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/brand/sandalo-infradito-gioiello-verde"
   }
 ]

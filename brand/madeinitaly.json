@@ -1,15 +1,17 @@
 [
   {
     "id": "B224.09",
+    "brand": "MADE IN ITALY",
     "title": "Anfibio in tela con borchie e fondo combat",
-    "description": "Realizzato in tela color latte con sporcature sul marrone (caffélatte potremmo dire), con fondo carro armato super alto in tinta beige, con lacci e lampo laterale e con le borchie a dare il tocco glamour finale: non manca nulla a questo anfibio estivo per essere irresistibile ... devi assolutamente averlo nella tua scarpiera!",
-    "link": "https://www.langolo-calzature.it/it/saldi/donna-scarpe/anfibio-in-tela-con-borchie-e-fondo-combat",
-    "image": "https://www.langolo-calzature.it/media/catalog/product/b/2/b224.09-0001.jpg",
+    "size": null,
+    "availability": "in_stock",
     "price": "99.00 EUR",
     "sale_price": "99.00 EUR",
-    "availability": "in_stock",
-    "brand": "MADE IN ITALY",
-    "size": "",
-    "color": "BEIGE"
+    "color": "BEIGE",
+    "gender": "Donna",
+    "category": "TRONCHETTI",
+    "season": "E21",
+    "image": "https://www.langolo-calzature.it/media/catalog/product/b/2/b224.09-0001.jpg",
+    "link": "https://www.langolo-calzature.it/it/saldi/donna-scarpe/anfibio-in-tela-con-borchie-e-fondo-combat"
   }
 ]
